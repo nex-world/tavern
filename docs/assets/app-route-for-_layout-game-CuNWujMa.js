@@ -1,21 +1,22 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-DZz8R7DJ.js","assets/react-DwoZtHR8.js","assets/index-BHy3yCie.js","assets/vendor-KHQmFMTG.js","assets/@tanstack-TnKfVvnC.js","assets/dexie-RC68qVM3.js","assets/app-components-f9q2KBqK.js","assets/icons-KB3ML1Zw.js","assets/app-hooks-CLX024ue.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-31Wddr-o.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-Ce77exfW.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-CPPzqlBn.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles--c83vU95.css"])))=>i.map(i=>d[i]);
-import { _ as h, D as ce } from "./index-BHy3yCie.js";
-import { g as p, l as u, r as le, L as N, O as R, e as b, h as ie, i as v, f as de, N as me } from "./@tanstack-TnKfVvnC.js";
-import { j as e, r as f, t as l } from "./react-DwoZtHR8.js";
-import { f as z, U as Q, H as K, g as he, a as H, h as X, M as pe, i as Y, P as Z, D as I, j as F, k as ue, F as xe, E as ee, l as J, m as se, n as te, o as ge } from "./icons-KB3ML1Zw.js";
-import { S as je, a as U, C as w, m as _, b as ae, c as fe, E as ve, I as ne, d as _e, e as oe, f as Ne, g as ye, h as re, i as be, j as Ce, k as we, l as $e, n as Ie } from "./app-libs-for-silly-tavern-DZz8R7DJ.js";
-import { y as B, z as G, A as C, C as S, E as P, F as O, G as k, H as D, S as Se, J as Pe, B as m, K as Oe, L as $, f as W, N as ke, O as De, P as L, Q as A, R as E, U as Re, V as q, W as y, X as ze, Y as Te, Z as Le, _ as Ae, $ as Ee, a0 as Me, a1 as Ve, a2 as Fe, a3 as Ue, d as M, a4 as V } from "./app-components-f9q2KBqK.js";
-import { C as Be } from "./future-lib-llm-ui-react-31Wddr-o.js";
-import { a as Ge } from "./app-lib-Ce77exfW.js";
-let lt, it, dt, mt, ht, pt, ut, xt, gt, es, jt, ft, vt, _t, Nt, yt, ls, ds, hs, us;
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-BCPavZqK.js","assets/react-DL1cgx8I.js","assets/index-BY00pYZM.js","assets/@tanstack-BioXF0H0.js","assets/vendor-BsR5l3DU.js","assets/dexie-DEp9pvRL.js","assets/app-components-BouIT30j.js","assets/icons-BqX5dRP-.js","assets/app-hooks-CmsDuSg2.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-6L6xN7Md.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-BG-NwrGa.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-CgB4fTMw.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CSKMBz4t.css"])))=>i.map(i=>d[i]);
+import { _ as h, D as he } from "./index-BY00pYZM.js";
+import { g as u, l as g, r as pe, L as _, O as A, e as N, h as ue, i as y, f as xe, N as ge, j as je } from "./@tanstack-BioXF0H0.js";
+import { j as e, r as j, t as i } from "./react-DL1cgx8I.js";
+import { f as L, U as X, H as Y, g as fe, a as q, h as Z, M as ve, i as ee, P as se, D as P, j as B, k as _e, F as ye, E as te, l as J, m as ae, n as ne, o as Ne } from "./icons-BqX5dRP-.js";
+import { S as be, a as E, C as $, m as f, b as oe, c as Ce, E as we, I as re, d as $e, e as ce, f as Se, g as Ie, h as le, i as Pe, j as Oe, k as ke, l as De, n as ze, o as Re, p as Te } from "./app-libs-for-silly-tavern-BCPavZqK.js";
+import { y as G, z as H, A as w, C as O, E as k, F as D, G as z, H as R, S as Ae, J as Le, B as m, K as Ee, L as I, f as W, N as Me, O as Fe, P as M, Q as F, R as V, U as Ve, V as Q, W as b, X as Ue, Y as Be, Z as Ge, _ as He, $ as qe, a0 as Je, a1 as We, a2 as Qe, a3 as Ke, d as U, a4 as T } from "./app-components-BouIT30j.js";
+import { n as ie } from "./id-OxPLOBIU.js";
+import { C as Xe } from "./future-lib-llm-ui-react-6L6xN7Md.js";
+import { a as Ye } from "./app-lib-BG-NwrGa.js";
+let jt, ft, vt, _t, yt, Nt, bt, Ct, wt, K, $t, St, It, Pt, Ot, kt, xs, js, vs, ys;
 let __tla = (async () => {
-  let He, Je, We, qe, Qe, Ke, Xe, Ye, Ze, ss, ts, as, ns, os, rs, cs, is, ms, ps, xs, gs;
-  He = () => h(() => Promise.resolve().then(() => gs), void 0);
-  lt = p("/_layout-game")({
-    component: u(He, "component")
+  let Ze, es, ss, ts, as, ns, os, rs, cs, ls, is, ds, ms, hs, ps, us, gs, fs, _s, Ns, bs;
+  Ze = () => h(() => Promise.resolve().then(() => bs), void 0);
+  jt = u("/_layout-game")({
+    component: g(Ze, "component")
   });
-  Je = () => h(() => Promise.resolve().then(() => fs), void 0);
-  it = p("/_layout-game/_silly-tavern")({
+  es = () => h(() => Promise.resolve().then(() => ws), void 0);
+  ft = u("/_layout-game/_silly-tavern")({
     head: () => ({
       meta: [
         {
@@ -27,10 +28,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(Je, "component")
+    component: g(es, "component")
   });
-  We = () => h(() => Promise.resolve().then(() => _s), void 0);
-  dt = p("/_layout-game/_silly-tavern/")({
+  ss = () => h(() => Promise.resolve().then(() => Ss), void 0);
+  vt = u("/_layout-game/_silly-tavern/")({
     head: () => ({
       meta: [
         {
@@ -42,10 +43,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(We, "component")
+    component: g(ss, "component")
   });
-  qe = () => h(() => Promise.resolve().then(() => ys), void 0);
-  mt = p("/_layout-game/_silly-tavern/session")({
+  ts = () => h(() => Promise.resolve().then(() => Ps), void 0);
+  _t = u("/_layout-game/_silly-tavern/session")({
     head: () => ({
       meta: [
         {
@@ -57,10 +58,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(qe, "component")
+    component: g(ts, "component")
   });
-  Qe = () => h(() => Promise.resolve().then(() => Cs), void 0);
-  ht = p("/_layout-game/_silly-tavern/plaza")({
+  as = () => h(() => Promise.resolve().then(() => ks), void 0);
+  yt = u("/_layout-game/_silly-tavern/plaza")({
     head: () => ({
       meta: [
         {
@@ -72,10 +73,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(Qe, "component")
+    component: g(as, "component")
   });
-  Ke = () => h(() => Promise.resolve().then(() => $s), void 0);
-  pt = p("/_layout-game/_silly-tavern/create")({
+  ns = () => h(() => Promise.resolve().then(() => zs), void 0);
+  Nt = u("/_layout-game/_silly-tavern/create")({
     head: () => ({
       meta: [
         {
@@ -87,10 +88,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(Ke, "component")
+    component: g(ns, "component")
   });
-  Xe = () => h(() => Promise.resolve().then(() => Ss), void 0);
-  ut = p("/_layout-game/_silly-tavern/config")({
+  os = () => h(() => Promise.resolve().then(() => Ts), void 0);
+  bt = u("/_layout-game/_silly-tavern/config")({
     head: () => ({
       meta: [
         {
@@ -102,9 +103,9 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(Xe, "component")
+    component: g(os, "component")
   });
-  xt = p("/_layout-game/_silly-tavern/plaza/")({
+  Ct = u("/_layout-game/_silly-tavern/plaza/")({
     head: () => ({
       meta: [
         {
@@ -117,17 +118,17 @@ let __tla = (async () => {
       ]
     }),
     beforeLoad: () => {
-      throw le({
+      throw pe({
         to: "/plaza/characters"
       });
     }
   });
-  Ye = () => h(() => Promise.resolve().then(() => Os), void 0);
-  gt = p("/_layout-game/_silly-tavern/config/")({
-    component: u(Ye, "component")
+  rs = () => h(() => Promise.resolve().then(() => Ls), void 0);
+  wt = u("/_layout-game/_silly-tavern/config/")({
+    component: g(rs, "component")
   });
-  Ze = () => h(() => Promise.resolve().then(() => Rs), void 0);
-  es = p("/_layout-game/_silly-tavern/session/$sessionId")({
+  cs = () => h(() => Promise.resolve().then(() => Vs), void 0);
+  K = u("/_layout-game/_silly-tavern/session/$sessionId")({
     head: () => ({
       meta: [
         {
@@ -139,10 +140,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(Ze, "component")
+    component: g(cs, "component")
   });
-  ss = () => h(() => Promise.resolve().then(() => Ts), void 0);
-  jt = p("/_layout-game/_silly-tavern/plaza/characters")({
+  ls = () => h(() => Promise.resolve().then(() => Bs), void 0);
+  $t = u("/_layout-game/_silly-tavern/plaza/characters")({
     head: () => ({
       meta: [
         {
@@ -154,10 +155,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(ss, "component")
+    component: g(ls, "component")
   });
-  ts = () => h(() => Promise.resolve().then(() => As), void 0);
-  ft = p("/_layout-game/_silly-tavern/plaza/challenges")({
+  is = () => h(() => Promise.resolve().then(() => Hs), void 0);
+  St = u("/_layout-game/_silly-tavern/plaza/challenges")({
     head: () => ({
       meta: [
         {
@@ -169,10 +170,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(ts, "component")
+    component: g(is, "component")
   });
-  as = () => h(() => Promise.resolve().then(() => Ms), void 0);
-  vt = p("/_layout-game/_silly-tavern/create_/character")({
+  ds = () => h(() => Promise.resolve().then(() => Js), void 0);
+  It = u("/_layout-game/_silly-tavern/create_/character")({
     head: () => ({
       meta: [
         {
@@ -184,10 +185,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(as, "component")
+    component: g(ds, "component")
   });
-  ns = () => h(() => Promise.resolve().then(() => Fs), void 0);
-  _t = p("/_layout-game/_silly-tavern/create_/challenge")({
+  ms = () => h(() => Promise.resolve().then(() => Qs), void 0);
+  Pt = u("/_layout-game/_silly-tavern/create_/challenge")({
     head: () => ({
       meta: [
         {
@@ -199,10 +200,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(ns, "component")
+    component: g(ms, "component")
   });
-  os = () => h(() => Promise.resolve().then(() => Bs), void 0);
-  Nt = p("/_layout-game/_silly-tavern/config/settings")({
+  hs = () => h(() => Promise.resolve().then(() => Xs), void 0);
+  Ot = u("/_layout-game/_silly-tavern/config/settings")({
     head: () => ({
       meta: [
         {
@@ -214,10 +215,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(os, "component")
+    component: g(hs, "component")
   });
-  rs = () => h(() => Promise.resolve().then(() => Hs), void 0);
-  yt = p("/_layout-game/_silly-tavern/config/overview")({
+  ps = () => h(() => Promise.resolve().then(() => Zs), void 0);
+  kt = u("/_layout-game/_silly-tavern/config/overview")({
     head: () => ({
       meta: [
         {
@@ -229,10 +230,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(rs, "component")
+    component: g(ps, "component")
   });
-  cs = () => h(() => Promise.resolve().then(() => Ws), void 0);
-  ls = p("/_layout-game/_silly-tavern/config/llm")({
+  us = () => h(() => Promise.resolve().then(() => st), void 0);
+  xs = u("/_layout-game/_silly-tavern/config/llm")({
     head: () => ({
       meta: [
         {
@@ -244,10 +245,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(cs, "component")
+    component: g(us, "component")
   });
-  is = () => h(() => Promise.resolve().then(() => Qs), void 0);
-  ds = p("/_layout-game/_silly-tavern/characters_/$characterId")({
+  gs = () => h(() => Promise.resolve().then(() => at), void 0);
+  js = u("/_layout-game/_silly-tavern/characters_/$characterId")({
     head: () => ({
       meta: [
         {
@@ -259,10 +260,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(is, "component")
+    component: g(gs, "component")
   });
-  ms = () => h(() => Promise.resolve().then(() => Xs), void 0);
-  hs = p("/_layout-game/_silly-tavern/challenges_/$challengeId")({
+  fs = () => h(() => Promise.resolve().then(() => ot), void 0);
+  vs = u("/_layout-game/_silly-tavern/challenges_/$challengeId")({
     head: () => ({
       meta: [
         {
@@ -274,10 +275,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(ms, "component")
+    component: g(fs, "component")
   });
-  ps = () => h(() => Promise.resolve().then(() => Zs), void 0);
-  us = p("/_layout-game/_silly-tavern/characters_/$characterId_/edit")({
+  _s = () => h(() => Promise.resolve().then(() => ct), void 0);
+  ys = u("/_layout-game/_silly-tavern/characters_/$characterId_/edit")({
     head: () => ({
       meta: [
         {
@@ -289,16 +290,16 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: u(ps, "component")
+    component: g(_s, "component")
   });
-  xs = ce;
-  gs = Object.freeze(Object.defineProperty({
+  Ns = he;
+  bs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: xs
+    component: Ns
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function js() {
+  function Cs() {
     return e.jsxs("div", {
       className: "flex flex-col h-full overflow-hidden",
       children: [
@@ -307,11 +308,11 @@ let __tla = (async () => {
           children: e.jsxs("div", {
             className: "flex items-center gap-2",
             children: [
-              e.jsxs(N, {
+              e.jsxs(_, {
                 to: "/",
                 className: "flex items-center gap-2 font-bold text-lg mr-6",
                 children: [
-                  e.jsx(z, {
+                  e.jsx(L, {
                     className: "w-5 h-5 text-primary"
                   }),
                   e.jsx("span", {
@@ -322,31 +323,31 @@ let __tla = (async () => {
               e.jsxs("nav", {
                 className: "flex items-center gap-1",
                 children: [
-                  e.jsxs(N, {
+                  e.jsxs(_, {
                     to: "/plaza/characters",
                     className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
                     children: [
-                      e.jsx(Q, {
+                      e.jsx(X, {
                         className: "w-4 h-4"
                       }),
                       "\u5E7F\u573A"
                     ]
                   }),
-                  e.jsxs(N, {
+                  e.jsxs(_, {
                     to: "/create",
                     className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
                     children: [
-                      e.jsx(K, {
+                      e.jsx(Y, {
                         className: "w-4 h-4"
                       }),
                       "\u5DE5\u574A"
                     ]
                   }),
-                  e.jsxs(N, {
+                  e.jsxs(_, {
                     to: "/session",
                     className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
                     children: [
-                      e.jsx(he, {
+                      e.jsx(fe, {
                         className: "w-4 h-4"
                       }),
                       "\u4F1A\u8BDD"
@@ -359,28 +360,28 @@ let __tla = (async () => {
         }),
         e.jsx("main", {
           className: "grow overflow-auto flex flex-col",
-          children: e.jsx(R, {})
+          children: e.jsx(A, {})
         })
       ]
     });
   }
-  const fs = Object.freeze(Object.defineProperty({
+  const ws = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: js
+    component: Cs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function vs() {
-    const o = b();
-    return f.useEffect(() => {
+  function $s() {
+    const n = N();
+    return j.useEffect(() => {
       const r = setTimeout(() => {
-        o({
+        n({
           to: "/plaza/characters"
         });
       }, 3e3);
       return () => clearTimeout(r);
     }, [
-      o
+      n
     ]), e.jsxs("div", {
       className: "flex flex-col items-center justify-center h-full bg-background space-y-6",
       children: [
@@ -390,7 +391,7 @@ let __tla = (async () => {
             e.jsx("div", {
               className: "absolute -inset-1 rounded-full bg-primary/20 blur-xl animate-pulse"
             }),
-            e.jsx(z, {
+            e.jsx(L, {
               className: "w-20 h-20 text-primary relative"
             })
           ]
@@ -417,85 +418,87 @@ let __tla = (async () => {
       ]
     });
   }
-  const _s = Object.freeze(Object.defineProperty({
+  const Ss = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: vs
+    component: $s
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ns() {
-    const o = b(), { sessionId: r } = ie({
+  function Is() {
+    const n = N(), { sessionId: r } = ue({
       strict: false
-    }), { data: d = [] } = v((c) => c.from({
-      s: U
-    })), { data: t = [] } = v((c) => c.from({
-      c: w
+    }), { data: l = [] } = y((c) => c.from({
+      s: E
+    })), { data: t = [] } = y((c) => c.from({
+      c: $
     })), a = (c) => {
-      o({
+      n({
         to: "/session/$sessionId",
         params: {
           sessionId: c.id
         }
       });
-    }, g = () => {
-      o({
+    }, x = () => {
+      n({
         to: "/plaza/characters"
       });
-    }, x = async (c) => {
+    }, p = async (c) => {
       try {
-        await _.sessions.delete(c.id);
-      } catch (n) {
-        console.error("Failed to delete session:", n);
+        await f.sessions.delete(c.id);
+      } catch (o) {
+        console.error("Failed to delete session:", o);
       }
     };
     return e.jsxs("div", {
       className: "flex h-full overflow-hidden",
       children: [
-        e.jsx(je, {
-          sessions: d,
+        e.jsx(be, {
+          sessions: l,
           characters: t,
           activeSessionId: r,
           onSessionSelect: a,
-          onNewSession: g,
-          onSessionDelete: x
+          onNewSession: x,
+          onSessionDelete: p
         }),
         e.jsx("div", {
           className: "grow overflow-hidden relative",
-          children: e.jsx(R, {})
+          children: e.jsx(A, {})
         })
       ]
     });
   }
-  const ys = Object.freeze(Object.defineProperty({
+  const Ps = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ns
+    component: Is
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function bs() {
-    const r = de().pathname.includes("challenges") ? "challenges" : "characters";
+  function Os() {
+    const r = xe().pathname.includes("challenges") ? "challenges" : "characters";
     return e.jsxs("div", {
       className: "flex flex-col h-full overflow-y-auto",
       children: [
         e.jsx("div", {
           className: "border-b px-6 py-2 bg-muted/20",
-          children: e.jsx(B, {
+          children: e.jsx(G, {
             value: r,
             className: "w-fit",
-            children: e.jsxs(G, {
+            children: e.jsxs(H, {
               children: [
-                e.jsx(N, {
+                e.jsx(_, {
                   to: "/plaza/characters",
-                  children: e.jsx(C, {
+                  children: e.jsx(w, {
                     value: "characters",
                     children: "\u89D2\u8272\u5361"
                   })
                 }),
-                e.jsx(C, {
-                  value: "challenges",
-                  onClick: () => l.info("\u6311\u6218\u5361\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85"),
-                  className: "cursor-pointer",
-                  children: "\u6311\u6218\u5361"
+                e.jsx(_, {
+                  to: "/plaza/challenges",
+                  children: e.jsx(w, {
+                    value: "challenges",
+                    className: "cursor-pointer",
+                    children: "\u6311\u6218\u5361"
+                  })
                 })
               ]
             })
@@ -503,18 +506,18 @@ let __tla = (async () => {
         }),
         e.jsx("div", {
           className: "p-6",
-          children: e.jsx(R, {})
+          children: e.jsx(A, {})
         })
       ]
     });
   }
-  const Cs = Object.freeze(Object.defineProperty({
+  const ks = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: bs
+    component: Os
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function ws() {
+  function Ds() {
     return e.jsxs("div", {
       className: "p-6 max-w-4xl mx-auto space-y-8",
       children: [
@@ -524,7 +527,7 @@ let __tla = (async () => {
             e.jsxs("h1", {
               className: "text-3xl font-bold flex items-center gap-2",
               children: [
-                e.jsx(K, {
+                e.jsx(Y, {
                   className: "w-8 h-8 text-primary"
                 }),
                 "\u521B\u4F5C\u8005\u5DE5\u574A"
@@ -539,30 +542,30 @@ let __tla = (async () => {
         e.jsxs("div", {
           className: "grid grid-cols-1 md:grid-cols-2 gap-6",
           children: [
-            e.jsx(N, {
+            e.jsx(_, {
               to: "/create/character",
-              children: e.jsxs(S, {
+              children: e.jsxs(O, {
                 className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
-                  e.jsxs(P, {
+                  e.jsxs(k, {
                     children: [
-                      e.jsx(Q, {
+                      e.jsx(X, {
                         className: "w-10 h-10 mb-2 group-hover:scale-110 transition-transform"
                       }),
-                      e.jsx(O, {
+                      e.jsx(D, {
                         children: "\u65B0\u89D2\u8272\u5361"
                       }),
-                      e.jsx(k, {
+                      e.jsx(z, {
                         children: "\u5B9A\u4E49\u89D2\u8272\u7684\u4EBA\u683C\u3001\u80CC\u666F\u3001\u5F00\u573A\u767D\u548C\u5BF9\u8BDD\u98CE\u683C\u3002"
                       })
                     ]
                   }),
-                  e.jsx(D, {
+                  e.jsx(R, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(H, {
+                        e.jsx(q, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -571,31 +574,30 @@ let __tla = (async () => {
                 ]
               })
             }),
-            e.jsx("div", {
-              className: "hover:border-primary transition-colors cursor-not-allowed group h-full opacity-50",
-              onClick: () => l.info("\u6311\u6218\u5361\u529F\u80FD\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85"),
-              children: e.jsxs(S, {
-                className: "h-full",
+            e.jsx(_, {
+              to: "/create/challenge",
+              children: e.jsxs(O, {
+                className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
-                  e.jsxs(P, {
+                  e.jsxs(k, {
                     children: [
-                      e.jsx(X, {
+                      e.jsx(Z, {
                         className: "w-10 h-10 mb-2 group-hover:scale-110 transition-transform"
                       }),
-                      e.jsx(O, {
+                      e.jsx(D, {
                         children: "\u65B0\u6311\u6218\u5361"
                       }),
-                      e.jsx(k, {
+                      e.jsx(z, {
                         children: "\u8BBE\u5B9A\u4E16\u754C\u53D8\u91CF\u3001\u6210\u5C31\u76EE\u6807\u548C DM \u7684\u5F15\u5BFC\u89C4\u5219\u3002"
                       })
                     ]
                   }),
-                  e.jsx(D, {
+                  e.jsx(R, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
-                        "\u5373\u5C06\u5F00\u653E ",
-                        e.jsx(H, {
+                        "\u7ACB\u5373\u5F00\u59CB ",
+                        e.jsx(q, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -609,14 +611,14 @@ let __tla = (async () => {
       ]
     });
   }
-  const $s = Object.freeze(Object.defineProperty({
+  const zs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: ws
+    component: Ds
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Is() {
-    const [o, r] = f.useState(false), d = e.jsxs(e.Fragment, {
+  function Rs() {
+    const [n, r] = j.useState(false), l = e.jsxs(e.Fragment, {
       children: [
         e.jsx("h2", {
           className: "text-lg font-semibold mb-4",
@@ -626,7 +628,7 @@ let __tla = (async () => {
           className: "space-y-2",
           children: [
             e.jsx("li", {
-              children: e.jsx(N, {
+              children: e.jsx(_, {
                 to: "/config/overview",
                 className: "block p-2 rounded hover:bg-foreground/5 md:hover:bg-background",
                 onClick: () => r(false),
@@ -634,7 +636,7 @@ let __tla = (async () => {
               })
             }),
             e.jsx("li", {
-              children: e.jsx(N, {
+              children: e.jsx(_, {
                 to: "/config/llm",
                 className: "block p-2 rounded hover:bg-foreground/5 md:hover:bg-background",
                 onClick: () => r(false),
@@ -650,112 +652,119 @@ let __tla = (async () => {
       children: [
         e.jsx("nav", {
           className: "hidden md:block w-64 p-4 bg-foreground/5 overflow-y-auto",
-          children: d
+          children: l
         }),
-        e.jsxs(Se, {
-          open: o,
+        e.jsxs(Ae, {
+          open: n,
           onOpenChange: r,
           children: [
-            e.jsx(Pe, {
+            e.jsx(Le, {
               asChild: true,
               children: e.jsx(m, {
                 variant: "outline",
                 size: "icon",
                 className: "md:hidden fixed bottom-8 left-8 rounded-full shadow-lg z-50",
-                children: e.jsx(pe, {
+                children: e.jsx(ve, {
                   className: "h-4 w-4"
                 })
               })
             }),
-            e.jsx(Oe, {
+            e.jsx(Ee, {
               side: "left",
               className: "w-64 p-4 overflow-y-auto",
-              children: d
+              children: l
             })
           ]
         }),
         e.jsx("main", {
           className: "flex-1 p-4 lg:px-8 xl:px-12 overflow-auto",
-          children: e.jsx(R, {})
+          children: e.jsx(A, {})
         })
       ]
     });
   }
-  const Ss = Object.freeze(Object.defineProperty({
+  const Ts = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Is
+    component: Rs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ps() {
-    return e.jsx(me, {
+  function As() {
+    return e.jsx(ge, {
       to: "/config/overview"
     });
   }
-  const Os = Object.freeze(Object.defineProperty({
+  const Ls = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ps
+    component: As
   }, Symbol.toStringTag, {
     value: "Module"
-  })), ks = f.lazy(() => h(() => import("./app-libs-for-silly-tavern-DZz8R7DJ.js").then((o) => o.o), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((o) => ({
-    default: o.SessionMainForChat
+  })), Es = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-BCPavZqK.js").then((n) => n.q), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
+    default: n.SessionMainForChat
+  }))), Ms = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-BCPavZqK.js").then((n) => n.r), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
+    default: n.SessionMainForChallenge
   })));
-  function Ds() {
-    const { sessionId: o } = es.useParams();
-    return e.jsx(f.Suspense, {
+  function Fs() {
+    var _a;
+    const { sessionId: n } = K.useParams(), r = K.useSearch(), { data: l = [] } = y((x) => x.from({
+      s: E
+    }).where(({ s: p }) => je(p.id, n))), a = ((_a = l[0]) == null ? void 0 : _a.mode) || r.mode;
+    return e.jsx(j.Suspense, {
       fallback: e.jsx("div", {
         className: "flex flex-col items-center justify-center h-full text-muted-foreground space-y-4",
         children: e.jsx("p", {
           children: "\u52A0\u8F7D\u4E2D..."
         })
       }),
-      children: e.jsx(ks, {
-        sessionId: o
+      children: a === "challenge" ? e.jsx(Ms, {
+        sessionId: n
+      }) : e.jsx(Es, {
+        sessionId: n
       })
     });
   }
-  const Rs = Object.freeze(Object.defineProperty({
+  const Vs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ds
+    component: Fs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function zs() {
-    const o = b(), [r, d] = f.useState(false), { data: t = [] } = v((s) => s.from({
-      c: w
+  function Us() {
+    const n = N(), [r, l] = j.useState(false), { data: t = [] } = y((s) => s.from({
+      c: $
     })), a = (s) => {
-      o({
+      n({
         to: "/characters/$characterId",
         params: {
           characterId: s.id
         }
       });
-    }, g = (s) => {
-      o({
+    }, x = (s) => {
+      n({
         to: "/characters/$characterId",
         params: {
           characterId: s.id
         }
       });
-    }, x = async (s) => {
+    }, p = async (s) => {
       try {
-        await _.characters.add(s), l.success(`\u6210\u529F\u5BFC\u5165\u89D2\u8272: ${s.name}`);
-      } catch (i) {
-        l.error("\u5BFC\u5165\u5931\u8D25"), console.error(i);
+        await f.characters.add(s), i.success(`\u6210\u529F\u5BFC\u5165\u89D2\u8272: ${s.name}`);
+      } catch (d) {
+        i.error("\u5BFC\u5165\u5931\u8D25"), console.error(d);
       }
     }, c = async () => {
       try {
         let s = 0;
-        for (const i of _e) try {
-          await _.characters.add(i), s++;
-        } catch (j) {
-          console.error(`Failed to import preset ${i.name}:`, j);
+        for (const d of $e) try {
+          await f.characters.add(d), s++;
+        } catch (v) {
+          console.error(`Failed to import preset ${d.name}:`, v);
         }
-        s > 0 ? l.success(`\u6210\u529F\u5BFC\u5165 ${s} \u4E2A\u89D2\u8272\u9884\u8BBE`) : l.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u89D2\u8272\u9884\u8BBE");
+        s > 0 ? i.success(`\u6210\u529F\u5BFC\u5165 ${s} \u4E2A\u89D2\u8272\u9884\u8BBE`) : i.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u89D2\u8272\u9884\u8BBE");
       } catch (s) {
-        l.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(s);
+        i.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(s);
       }
-    }, n = e.jsxs("div", {
+    }, o = e.jsxs("div", {
       className: "flex items-center gap-2",
       children: [
         e.jsxs(m, {
@@ -763,9 +772,9 @@ let __tla = (async () => {
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
-          onClick: () => d(true),
+          onClick: () => l(true),
           children: [
-            e.jsx(Y, {
+            e.jsx(ee, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u89D2\u8272"
@@ -778,86 +787,86 @@ let __tla = (async () => {
           type: "button",
           onClick: c,
           children: [
-            e.jsx(z, {
+            e.jsx(L, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
           ]
         }),
-        e.jsx(ve, {
+        e.jsx(we, {
           characters: t
         }),
         e.jsxs(m, {
           variant: "default",
           size: "sm",
           className: "flex items-center gap-2",
-          onClick: () => o({
+          onClick: () => n({
             to: "/create/character"
           }),
           type: "button",
           children: [
-            e.jsx(Z, {
+            e.jsx(se, {
               className: "w-4 h-4"
             }),
             "\u65B0\u5EFA\u89D2\u8272"
           ]
         }),
-        e.jsx(ne, {
+        e.jsx(re, {
           open: r,
-          onOpenChange: d,
-          onImport: x
+          onOpenChange: l,
+          onImport: p
         })
       ]
     });
-    return e.jsx(ae, {
+    return e.jsx(oe, {
       items: t,
       title: "\u89D2\u8272\u5217\u8868",
       placeholder: "\u641C\u7D22\u540D\u79F0\u3001\u63CF\u8FF0\u6216\u6807\u7B7E...",
-      actions: n,
+      actions: o,
       getSearchableContent: (s) => `${s.name} ${s.description} ${s.tags.join(" ")}`,
       getTags: (s) => s.tags,
       getId: (s) => s.id,
-      renderCard: (s) => e.jsx(fe, {
+      renderCard: (s) => e.jsx(Ce, {
         character: s,
-        onClick: g,
+        onClick: x,
         onStartSession: a
       })
     });
   }
-  const Ts = Object.freeze(Object.defineProperty({
+  const Bs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: zs
+    component: Us
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ls() {
-    const o = b(), [r, d] = f.useState(false), { data: t = [] } = v((n) => n.from({
-      c: oe
-    })), a = (n) => {
-      o({
+  function Gs() {
+    const n = N(), [r, l] = j.useState(false), { data: t = [] } = y((o) => o.from({
+      c: ce
+    })), a = (o) => {
+      n({
         to: "/challenges/$challengeId",
         params: {
-          challengeId: n.id
+          challengeId: o.id
         }
       });
-    }, g = (n) => {
-      o({
+    }, x = (o) => {
+      n({
         to: "/challenges/$challengeId",
         params: {
-          challengeId: n.id
+          challengeId: o.id
         }
       });
-    }, x = async () => {
+    }, p = async () => {
       try {
-        let n = 0;
-        for (const s of ye) try {
-          await _.challenges.add(s), n++;
-        } catch (i) {
-          console.error(`Failed to import preset ${s.name}:`, i);
+        let o = 0;
+        for (const s of Ie) try {
+          await f.challenges.add(s), o++;
+        } catch (d) {
+          console.error(`Failed to import preset ${s.name}:`, d);
         }
-        n > 0 ? l.success(`\u6210\u529F\u5BFC\u5165 ${n} \u4E2A\u6311\u6218\u9884\u8BBE`) : l.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u6311\u6218\u9884\u8BBE");
-      } catch (n) {
-        l.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(n);
+        o > 0 ? i.success(`\u6210\u529F\u5BFC\u5165 ${o} \u4E2A\u6311\u6218\u9884\u8BBE`) : i.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u6311\u6218\u9884\u8BBE");
+      } catch (o) {
+        i.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(o);
       }
     }, c = e.jsxs("div", {
       className: "flex items-center gap-2",
@@ -867,9 +876,9 @@ let __tla = (async () => {
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
-          onClick: () => d(true),
+          onClick: () => l(true),
           children: [
-            e.jsx(Y, {
+            e.jsx(ee, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u6311\u6218"
@@ -880,9 +889,9 @@ let __tla = (async () => {
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
-          onClick: x,
+          onClick: p,
           children: [
-            e.jsx(z, {
+            e.jsx(L, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
@@ -894,7 +903,7 @@ let __tla = (async () => {
           className: "hidden sm:flex items-center gap-2",
           type: "button",
           children: [
-            e.jsx(I, {
+            e.jsx(P, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u51FA\u6240\u6709"
@@ -904,80 +913,61 @@ let __tla = (async () => {
           variant: "default",
           size: "sm",
           className: "flex items-center gap-2",
-          onClick: () => o({
+          onClick: () => n({
             to: "/create/challenge"
           }),
           type: "button",
           children: [
-            e.jsx(Z, {
+            e.jsx(se, {
               className: "w-4 h-4"
             }),
             "\u65B0\u5EFA\u6311\u6218"
           ]
         }),
-        e.jsx(ne, {
+        e.jsx(re, {
           open: r,
-          onOpenChange: d,
-          onImport: (n) => {
-            l.success(`\u6210\u529F\u5BFC\u5165\u6311\u6218: ${n.name}`);
+          onOpenChange: l,
+          onImport: (o) => {
+            i.success(`\u6210\u529F\u5BFC\u5165\u6311\u6218: ${o.name}`);
           }
         })
       ]
     });
-    return e.jsxs("div", {
+    return e.jsx("div", {
       className: "relative",
-      children: [
-        e.jsx(ae, {
-          items: t,
-          title: "\u6311\u6218\u5217\u8868",
-          placeholder: "\u641C\u7D22\u540D\u79F0\u3001\u63CF\u8FF0\u6216\u6807\u7B7E...",
-          actions: c,
-          getSearchableContent: (n) => {
-            var _a;
-            return `${n.name} ${n.description} ${((_a = n.tags) == null ? void 0 : _a.join(" ")) || ""}`;
-          },
-          getTags: (n) => n.tags || [],
-          getId: (n) => n.id,
-          renderCard: (n) => e.jsx(Ne, {
-            challenge: n,
-            onClick: g,
-            onStartSession: a
-          })
-        }),
-        e.jsx("div", {
-          className: "absolute inset-0 bg-background/80 backdrop-blur-sm flex items-center justify-center cursor-not-allowed z-50",
-          onClick: () => l.info("\u6311\u6218\u5361\u529F\u80FD\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85"),
-          children: e.jsxs("div", {
-            className: "text-center space-y-2",
-            children: [
-              e.jsx("p", {
-                className: "text-lg font-semibold",
-                children: "\u529F\u80FD\u6682\u672A\u5F00\u653E"
-              }),
-              e.jsx("p", {
-                className: "text-sm text-muted-foreground",
-                children: "\u6311\u6218\u5361\u5E7F\u573A\u529F\u80FD\u6B63\u5728\u5F00\u53D1\u4E2D"
-              })
-            ]
-          })
+      children: e.jsx(oe, {
+        items: t,
+        title: "\u6311\u6218\u5217\u8868",
+        placeholder: "\u641C\u7D22\u540D\u79F0\u3001\u63CF\u8FF0\u6216\u6807\u7B7E...",
+        actions: c,
+        getSearchableContent: (o) => {
+          var _a;
+          return `${o.name} ${o.description} ${((_a = o.tags) == null ? void 0 : _a.join(" ")) || ""}`;
+        },
+        getTags: (o) => o.tags || [],
+        getId: (o) => o.id,
+        renderCard: (o) => e.jsx(Se, {
+          challenge: o,
+          onClick: x,
+          onStartSession: a
         })
-      ]
+      })
     });
   }
-  const As = Object.freeze(Object.defineProperty({
+  const Hs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ls
+    component: Gs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Es() {
-    const o = b(), r = async (t) => {
+  function qs() {
+    const n = N(), r = async (t) => {
       if (!t.name) {
-        l.error("\u89D2\u8272\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A");
+        i.error("\u89D2\u8272\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A");
         return;
       }
       try {
-        const a = Date.now(), x = {
+        const a = Date.now(), p = {
           id: crypto.randomUUID(),
           name: t.name,
           description: t.description || "",
@@ -1005,75 +995,81 @@ let __tla = (async () => {
           createdAt: a,
           updatedAt: a
         };
-        await _.characters.add(x);
-        const c = x;
-        l.success(`\u89D2\u8272 ${c.name} \u5DF2\u521B\u5EFA`), o({
+        await f.characters.add(p);
+        const c = p;
+        i.success(`\u89D2\u8272 ${c.name} \u5DF2\u521B\u5EFA`), n({
           to: "/plaza/characters"
         });
       } catch (a) {
-        l.error("\u521B\u5EFA\u5931\u8D25"), console.error(a);
+        i.error("\u521B\u5EFA\u5931\u8D25"), console.error(a);
       }
-    }, d = () => {
-      o({
+    }, l = () => {
+      n({
         to: "/create"
       });
     };
     return e.jsx("div", {
       className: "p-6 w-full max-w-5xl mx-auto",
-      children: e.jsx(re, {
+      children: e.jsx(le, {
         className: "w-full",
         onSave: r,
-        onCancel: d,
+        onCancel: l,
         mode: "create"
       })
     });
   }
-  const Ms = Object.freeze(Object.defineProperty({
+  const Js = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Es
+    component: qs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Vs() {
+  function Ws() {
+    const n = N(), r = async (t) => {
+      try {
+        const a = {
+          ...t,
+          id: ie(),
+          createdAt: Date.now(),
+          updatedAt: Date.now()
+        };
+        await f.challenges.add(a), i.success("\u6311\u6218\u5361\u521B\u5EFA\u6210\u529F"), n({
+          to: "/plaza/challenges"
+        });
+      } catch (a) {
+        console.error(a), i.error("\u4FDD\u5B58\u5931\u8D25");
+      }
+    }, l = () => {
+      n({
+        to: "/plaza/challenges"
+      });
+    };
     return e.jsx("div", {
       className: "p-6 relative",
-      children: e.jsx("div", {
-        className: "absolute inset-0 bg-background/80 backdrop-blur-sm flex items-center justify-center cursor-not-allowed",
-        onClick: () => l.info("\u6311\u6218\u5361\u529F\u80FD\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85"),
-        children: e.jsxs("div", {
-          className: "text-center space-y-2",
-          children: [
-            e.jsx("p", {
-              className: "text-lg font-semibold",
-              children: "\u529F\u80FD\u6682\u672A\u5F00\u653E"
-            }),
-            e.jsx("p", {
-              className: "text-sm text-muted-foreground",
-              children: "\u6311\u6218\u5361\u521B\u5EFA\u529F\u80FD\u6B63\u5728\u5F00\u53D1\u4E2D"
-            })
-          ]
-        })
+      children: e.jsx(Pe, {
+        onSave: r,
+        onCancel: l
       })
     });
   }
-  const Fs = Object.freeze(Object.defineProperty({
+  const Qs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Vs
+    component: Ws
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Us() {
-    const o = f.useId(), r = f.useId(), d = f.useId(), t = f.useId(), [a, g] = f.useState({
+  function Ks() {
+    const n = j.useId(), r = j.useId(), l = j.useId(), t = j.useId(), [a, x] = j.useState({
       appName: "My App",
       enableNotifications: true,
       theme: "auto",
       description: ""
-    }), x = () => {
-      l.success("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58");
-    }, c = (n, s) => {
-      g((i) => ({
-        ...i,
-        [n]: s
+    }), p = () => {
+      i.success("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58");
+    }, c = (o, s) => {
+      x((d) => ({
+        ...d,
+        [o]: s
       }));
     };
     return e.jsxs("div", {
@@ -1087,19 +1083,19 @@ let __tla = (async () => {
           className: "text-muted-foreground",
           children: "\u7BA1\u7406\u5E94\u7528\u7684\u57FA\u672C\u914D\u7F6E\u548C\u504F\u597D\u8BBE\u7F6E\u3002"
         }),
-        e.jsxs(S, {
+        e.jsxs(O, {
           children: [
-            e.jsxs(P, {
+            e.jsxs(k, {
               children: [
-                e.jsx(O, {
+                e.jsx(D, {
                   children: "\u57FA\u672C\u8BBE\u7F6E"
                 }),
-                e.jsx(k, {
+                e.jsx(z, {
                   children: "\u914D\u7F6E\u5E94\u7528\u7684\u57FA\u672C\u4FE1\u606F\u548C\u884C\u4E3A\u3002"
                 })
               ]
             }),
-            e.jsxs(D, {
+            e.jsxs(R, {
               className: "space-y-4",
               children: [
                 e.jsxs("div", {
@@ -1108,28 +1104,28 @@ let __tla = (async () => {
                     e.jsxs("div", {
                       className: "space-y-2",
                       children: [
-                        e.jsx($, {
-                          htmlFor: o,
+                        e.jsx(I, {
+                          htmlFor: n,
                           children: "\u5E94\u7528\u540D\u79F0"
                         }),
                         e.jsx(W, {
-                          id: o,
+                          id: n,
                           value: a.appName,
-                          onChange: (n) => c("appName", n.target.value)
+                          onChange: (o) => c("appName", o.target.value)
                         })
                       ]
                     }),
                     e.jsxs("div", {
                       className: "space-y-2",
                       children: [
-                        e.jsx($, {
+                        e.jsx(I, {
                           htmlFor: r,
                           children: "\u4E3B\u9898"
                         }),
                         e.jsx(W, {
                           id: r,
                           value: a.theme,
-                          onChange: (n) => c("theme", n.target.value)
+                          onChange: (o) => c("theme", o.target.value)
                         })
                       ]
                     })
@@ -1138,14 +1134,14 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "space-y-2",
                   children: [
-                    e.jsx($, {
-                      htmlFor: d,
+                    e.jsx(I, {
+                      htmlFor: l,
                       children: "\u63CF\u8FF0"
                     }),
-                    e.jsx(ke, {
-                      id: d,
+                    e.jsx(Me, {
+                      id: l,
                       value: a.description,
-                      onChange: (n) => c("description", n.target.value),
+                      onChange: (o) => c("description", o.target.value),
                       placeholder: "\u8F93\u5165\u5E94\u7528\u63CF\u8FF0..."
                     })
                   ]
@@ -1153,19 +1149,19 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "flex items-center space-x-2",
                   children: [
-                    e.jsx(De, {
+                    e.jsx(Fe, {
                       id: t,
                       checked: a.enableNotifications,
-                      onCheckedChange: (n) => c("enableNotifications", n)
+                      onCheckedChange: (o) => c("enableNotifications", o)
                     }),
-                    e.jsx($, {
+                    e.jsx(I, {
                       htmlFor: t,
                       children: "\u542F\u7528\u901A\u77E5"
                     })
                   ]
                 }),
                 e.jsx(m, {
-                  onClick: x,
+                  onClick: p,
                   children: "\u4FDD\u5B58\u8BBE\u7F6E"
                 })
               ]
@@ -1175,14 +1171,14 @@ let __tla = (async () => {
       ]
     });
   }
-  const Bs = Object.freeze(Object.defineProperty({
+  const Xs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Us
+    component: Ks
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Gs() {
-    const o = [
+  function Ys() {
+    const n = [
       {
         name: "LLM \u914D\u7F6E",
         path: "/config/llm",
@@ -1202,24 +1198,24 @@ let __tla = (async () => {
         }),
         e.jsx("div", {
           className: "grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4",
-          children: o.map((r) => e.jsxs(S, {
+          children: n.map((r) => e.jsxs(O, {
             className: "hover:shadow-md transition-shadow",
             children: [
-              e.jsx(P, {
-                children: e.jsx(O, {
+              e.jsx(k, {
+                children: e.jsx(D, {
                   className: "text-lg",
                   children: r.name
                 })
               }),
-              e.jsxs(D, {
+              e.jsxs(R, {
                 children: [
-                  e.jsx(k, {
+                  e.jsx(z, {
                     className: "mb-4",
                     children: r.description
                   }),
                   e.jsx(m, {
                     asChild: true,
-                    children: e.jsx(N, {
+                    children: e.jsx(_, {
                       to: r.path,
                       children: "\u67E5\u770B\u8BE6\u60C5"
                     })
@@ -1232,14 +1228,14 @@ let __tla = (async () => {
       ]
     });
   }
-  const Hs = Object.freeze(Object.defineProperty({
+  const Zs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Gs
+    component: Ys
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Js() {
-    const o = ls.useNavigate(), { config: r, setConfig: d, models: t, isFetchingModels: a, fetchModels: g, customParamList: x, addCustomParam: c, updateCustomParam: n, removeCustomParam: s } = Ge();
+  function et() {
+    const n = xs.useNavigate(), { config: r, setConfig: l, models: t, isFetchingModels: a, fetchModels: x, customParamList: p, addCustomParam: c, updateCustomParam: o, removeCustomParam: s } = Ye();
     return e.jsxs("div", {
       className: "container max-w-4xl mx-auto p-4 space-y-6",
       children: [
@@ -1251,39 +1247,39 @@ let __tla = (async () => {
               children: "\u5168\u5C40 LLM \u914D\u7F6E"
             }),
             e.jsx(m, {
-              onClick: () => o({
+              onClick: () => n({
                 to: ".."
               }),
               children: "\u8FD4\u56DE"
             })
           ]
         }),
-        e.jsx(Be, {
+        e.jsx(Xe, {
           config: r,
-          setConfig: d,
+          setConfig: l,
           models: t,
           isFetchingModels: a,
-          fetchModels: g,
-          customParamList: x,
+          fetchModels: x,
+          customParamList: p,
           addCustomParam: c,
-          updateCustomParam: n,
+          updateCustomParam: o,
           removeCustomParam: s
         })
       ]
     });
   }
-  const Ws = Object.freeze(Object.defineProperty({
+  const st = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Js
+    component: et
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function qs() {
-    const { characterId: o } = ds.useParams(), r = b(), { data: d = [] } = v((s) => s.from({
-      c: w
-    })), { data: t = [] } = v((s) => s.from({
-      s: U
-    })), a = d.find((s) => s.id === o), g = t.filter((s) => s.characterId === o);
+  function tt() {
+    const { characterId: n } = js.useParams(), r = N(), { data: l = [] } = y((s) => s.from({
+      c: $
+    })), { data: t = [] } = y((s) => s.from({
+      s: E
+    })), a = l.find((s) => s.id === n), x = t.filter((s) => s.characterId === n);
     if (!a) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -1301,14 +1297,16 @@ let __tla = (async () => {
         })
       ]
     });
-    const x = async (s) => {
+    const p = async (s) => {
       if (s === "challenge") {
-        l.info("\u6311\u6218\u6A21\u5F0F\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85");
+        i.info("\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u6311\u6218\u5267\u672C\u4EE5\u5F00\u59CB\u6311\u6218\u6A21\u5F0F"), r({
+          to: "/plaza/challenges"
+        });
         return;
       }
       try {
-        const i = crypto.randomUUID(), j = Date.now(), T = {
-          id: i,
+        const d = crypto.randomUUID(), v = Date.now(), S = {
+          id: d,
           title: s === "chat" ? `\u4E0E ${a.name} \u7684\u804A\u5929` : `\u6311\u6218: ${a.name}`,
           contextId: null,
           mode: s,
@@ -1316,42 +1314,42 @@ let __tla = (async () => {
           modeState: {},
           characterId: a.id,
           challengeId: void 0,
-          createdAt: j,
-          updatedAt: j,
+          createdAt: v,
+          updatedAt: v,
           isActive: true
         };
-        await _.sessions.add(T), r({
+        await f.sessions.add(S), r({
           to: "/session/$sessionId",
           params: {
-            sessionId: i
+            sessionId: d
           },
           search: {
             mode: s
           }
         });
-      } catch (i) {
-        console.error("Failed to create session:", i), l.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+      } catch (d) {
+        console.error("Failed to create session:", d), i.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
     }, c = () => {
       try {
         if (!a.imageBase64) {
-          l.error("\u8BE5\u89D2\u8272\u6CA1\u6709\u5934\u50CF\u56FE\u7247\uFF0C\u65E0\u6CD5\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361");
+          i.error("\u8BE5\u89D2\u8272\u6CA1\u6709\u5934\u50CF\u56FE\u7247\uFF0C\u65E0\u6CD5\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361");
           return;
         }
-        const s = $e(a), i = URL.createObjectURL(s), j = document.createElement("a");
-        j.href = i, j.download = `${a.name}.png`, j.click(), URL.revokeObjectURL(i), l.success(`\u89D2\u8272 ${a.name} \u5DF2\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361`);
+        const s = ze(a), d = URL.createObjectURL(s), v = document.createElement("a");
+        v.href = d, v.download = `${a.name}.png`, v.click(), URL.revokeObjectURL(d), i.success(`\u89D2\u8272 ${a.name} \u5DF2\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361`);
       } catch (s) {
-        console.error(s), l.error("\u5BFC\u51FA PNG \u89D2\u8272\u5361\u5931\u8D25");
+        console.error(s), i.error("\u5BFC\u51FA PNG \u89D2\u8272\u5361\u5931\u8D25");
       }
-    }, n = async () => {
+    }, o = async () => {
       try {
-        const s = t.filter((i) => i.characterId === o);
-        for (const i of s) await _.sessions.delete(i.id);
-        await _.characters.delete(o), l.success("\u89D2\u8272\u5DF2\u5220\u9664"), r({
+        const s = t.filter((d) => d.characterId === n);
+        for (const d of s) await f.sessions.delete(d.id);
+        await f.characters.delete(n), i.success("\u89D2\u8272\u5DF2\u5220\u9664"), r({
           to: "/plaza/characters"
         });
       } catch (s) {
-        console.error("Failed to delete character:", s), l.error("\u5220\u9664\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+        console.error("Failed to delete character:", s), i.error("\u5220\u9664\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
     };
     return e.jsxs("div", {
@@ -1369,7 +1367,7 @@ let __tla = (async () => {
               }),
               type: "button",
               children: [
-                e.jsx(F, {
+                e.jsx(B, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u8FD4\u56DE\u89D2\u8272\u5E7F\u573A"
@@ -1378,9 +1376,9 @@ let __tla = (async () => {
             e.jsxs("div", {
               className: "flex items-center gap-2",
               children: [
-                e.jsxs(L, {
+                e.jsxs(M, {
                   children: [
-                    e.jsx(A, {
+                    e.jsx(F, {
                       asChild: true,
                       children: e.jsxs(m, {
                         variant: "outline",
@@ -1388,36 +1386,36 @@ let __tla = (async () => {
                         className: "flex gap-2 h-8 rounded-lg",
                         type: "button",
                         children: [
-                          e.jsx(I, {
+                          e.jsx(P, {
                             className: "w-4 h-4"
                           }),
                           "\u5BFC\u51FA"
                         ]
                       })
                     }),
-                    e.jsxs(E, {
+                    e.jsxs(V, {
                       align: "end",
                       className: "w-56",
                       children: [
-                        e.jsx(Re, {
+                        e.jsx(Ve, {
                           children: "\u9009\u62E9\u5BFC\u51FA\u683C\u5F0F"
                         }),
-                        e.jsx(q, {}),
-                        e.jsxs(y, {
+                        e.jsx(Q, {}),
+                        e.jsxs(b, {
                           onClick: c,
                           children: [
-                            e.jsx(ue, {
+                            e.jsx(_e, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5BFC\u51FA PNG \u89D2\u8272\u5361 (\u63A8\u8350)"
                           ]
                         }),
-                        e.jsx(be, {
+                        e.jsx(Oe, {
                           character: a,
-                          trigger: e.jsxs(y, {
+                          trigger: e.jsxs(b, {
                             onSelect: (s) => s.preventDefault(),
                             children: [
-                              e.jsx(xe, {
+                              e.jsx(ye, {
                                 className: "mr-2 h-4 w-4"
                               }),
                               " \u5BFC\u51FA JSON \u539F\u59CB\u6570\u636E"
@@ -1428,25 +1426,25 @@ let __tla = (async () => {
                     })
                   ]
                 }),
-                e.jsxs(L, {
+                e.jsxs(M, {
                   children: [
-                    e.jsx(A, {
+                    e.jsx(F, {
                       asChild: true,
                       children: e.jsx(m, {
                         variant: "ghost",
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(ee, {
+                        children: e.jsx(te, {
                           className: "w-4 h-4"
                         })
                       })
                     }),
-                    e.jsxs(E, {
+                    e.jsxs(V, {
                       align: "end",
                       className: "w-48",
                       children: [
-                        e.jsxs(y, {
+                        e.jsxs(b, {
                           onClick: () => r({
                             to: "/characters/$characterId/edit",
                             params: {
@@ -1460,38 +1458,38 @@ let __tla = (async () => {
                             " \u7F16\u8F91\u89D2\u8272"
                           ]
                         }),
-                        e.jsxs(y, {
+                        e.jsxs(b, {
                           children: [
-                            e.jsx(se, {
+                            e.jsx(ae, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5206\u4EAB\u89D2\u8272"
                           ]
                         }),
-                        e.jsx(q, {}),
-                        e.jsxs(ze, {
+                        e.jsx(Q, {}),
+                        e.jsxs(Ue, {
                           children: [
-                            e.jsx(Te, {
+                            e.jsx(Be, {
                               asChild: true,
-                              children: e.jsxs(y, {
+                              children: e.jsxs(b, {
                                 onSelect: (s) => s.preventDefault(),
                                 className: "text-destructive focus:bg-destructive/10 focus:text-destructive",
                                 children: [
-                                  e.jsx(te, {
+                                  e.jsx(ne, {
                                     className: "mr-2 h-4 w-4"
                                   }),
                                   " \u5220\u9664\u89D2\u8272"
                                 ]
                               })
                             }),
-                            e.jsxs(Le, {
+                            e.jsxs(Ge, {
                               children: [
-                                e.jsxs(Ae, {
+                                e.jsxs(He, {
                                   children: [
-                                    e.jsx(Ee, {
+                                    e.jsx(qe, {
                                       children: "\u786E\u8BA4\u5220\u9664\u89D2\u8272"
                                     }),
-                                    e.jsxs(Me, {
+                                    e.jsxs(Je, {
                                       children: [
                                         '\u786E\u5B9A\u8981\u5220\u9664\u89D2\u8272 "',
                                         a.name,
@@ -1500,13 +1498,13 @@ let __tla = (async () => {
                                     })
                                   ]
                                 }),
-                                e.jsxs(Ve, {
+                                e.jsxs(We, {
                                   children: [
-                                    e.jsx(Fe, {
+                                    e.jsx(Qe, {
                                       children: "\u53D6\u6D88"
                                     }),
-                                    e.jsx(Ue, {
-                                      onClick: n,
+                                    e.jsx(Ke, {
+                                      onClick: o,
                                       className: "bg-destructive hover:bg-destructive/90",
                                       children: "\u786E\u8BA4\u5220\u9664"
                                     })
@@ -1533,7 +1531,7 @@ let __tla = (async () => {
                 src: a.imageBase64 || a.avatar,
                 alt: a.name,
                 className: "w-full h-full object-cover"
-              }) : e.jsx(ge, {
+              }) : e.jsx(Ne, {
                 className: "w-20 h-20 text-muted-foreground/30"
               })
             }),
@@ -1578,7 +1576,7 @@ let __tla = (async () => {
                 }),
                 e.jsx("div", {
                   className: "flex flex-wrap gap-2",
-                  children: a.tags.map((s) => e.jsx(M, {
+                  children: a.tags.map((s) => e.jsx(U, {
                     variant: "secondary",
                     className: "px-3 py-1 font-medium",
                     children: s
@@ -1595,41 +1593,41 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsxs(B, {
+        e.jsxs(G, {
           defaultValue: "sessions",
           className: "w-full",
           children: [
-            e.jsxs(G, {
+            e.jsxs(H, {
               className: "w-full justify-start h-12 bg-muted/50 p-1 mb-6",
               children: [
-                e.jsx(C, {
+                e.jsx(w, {
                   value: "sessions",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u4F1A\u8BDD & \u8BB0\u5F55"
                 }),
-                e.jsx(C, {
+                e.jsx(w, {
                   value: "details",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u6863\u6848\u8BE6\u60C5"
                 })
               ]
             }),
-            e.jsx(V, {
+            e.jsx(T, {
               value: "sessions",
               className: "mt-0",
               children: e.jsx("div", {
                 className: "grid grid-cols-1 md:grid-cols-1 gap-8",
-                children: e.jsx(Ce, {
+                children: e.jsx(ke, {
                   characterId: a.id,
-                  sessions: g,
-                  onStartNew: x
+                  sessions: x,
+                  onStartNew: p
                 })
               })
             }),
-            e.jsx(V, {
+            e.jsx(T, {
               value: "details",
               className: "mt-0",
-              children: e.jsx(we, {
+              children: e.jsx(De, {
                 character: a
               })
             })
@@ -1638,21 +1636,21 @@ let __tla = (async () => {
       ]
     });
   }
-  const Qs = Object.freeze(Object.defineProperty({
+  const at = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: qs
+    component: tt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ks() {
+  function nt() {
     var _a;
-    const { challengeId: o } = hs.useParams(), r = b(), { data: d = [] } = v((s) => s.from({
-      c: oe
-    })), t = d.find((s) => s.id === o), { data: a = [] } = v((s) => s.from({
-      s: U
-    })), { data: g = [] } = v((s) => s.from({
-      char: w
-    })), x = a.filter((s) => s.challengeId === o);
+    const { challengeId: n } = vs.useParams(), r = N(), { data: l = [] } = y((s) => s.from({
+      c: ce
+    })), t = l.find((s) => s.id === n), { data: a = [] } = y((s) => s.from({
+      s: E
+    })), { data: x = [] } = y((s) => s.from({
+      char: $
+    })), p = a.filter((s) => s.challengeId === n);
     if (!t) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -1672,33 +1670,59 @@ let __tla = (async () => {
     });
     const c = async (s) => {
       try {
-        const i = crypto.randomUUID(), j = Date.now(), T = {
-          id: i,
-          title: `\u6311\u6218: ${t.name}`,
+        const d = ie(), v = Date.now(), S = {};
+        for (const [C, me] of Object.entries(t.variables)) S[C] = {
+          key: C,
+          value: me.initial
+        };
+        const de = {
+          id: d,
+          title: `${t.name}`,
           contextId: null,
           mode: "challenge",
-          modeConfig: {},
-          modeState: {},
+          modeConfig: {
+            characterId: s,
+            roleTaskPrompt: t.roleTaskPrompt,
+            userGuidance: t.userGuidance,
+            variables: t.variables,
+            goals: t.goals,
+            failureChecks: t.failureChecks
+          },
+          modeState: {
+            currentPhase: "dm_intro",
+            currentUIState: "idle",
+            variableStates: S,
+            goalStates: t.goals.map((C) => ({
+              key: C.key,
+              checkCount: 0,
+              isMet: false
+            })),
+            failureStates: t.failureChecks.map((C) => ({
+              key: C.key,
+              checkCount: 0,
+              isMet: false
+            }))
+          },
           characterId: s,
           challengeId: t.id,
-          createdAt: j,
-          updatedAt: j,
+          createdAt: v,
+          updatedAt: v,
           isActive: true
         };
-        await _.sessions.add(T), r({
+        await f.sessions.add(de), r({
           to: "/session/$sessionId",
           params: {
-            sessionId: i
+            sessionId: d
           },
           search: {
             mode: "challenge"
           }
         });
-      } catch (i) {
-        console.error("Failed to create challenge session:", i), l.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+      } catch (d) {
+        console.error("Failed to create challenge session:", d), i.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
-    }, n = () => {
-      l.success(`\u6B63\u5728\u5BFC\u51FA\u6311\u6218 ${t.name}...`);
+    }, o = () => {
+      i.success(`\u6B63\u5728\u5BFC\u51FA\u6311\u6218 ${t.name}...`);
     };
     return e.jsxs("div", {
       className: "max-w-5xl mx-auto p-4 md:p-8 space-y-8 animate-in fade-in slide-in-from-bottom-2 duration-500 relative",
@@ -1715,7 +1739,7 @@ let __tla = (async () => {
               }),
               type: "button",
               children: [
-                e.jsx(F, {
+                e.jsx(B, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u8FD4\u56DE\u6311\u6218\u5E7F\u573A"
@@ -1728,55 +1752,60 @@ let __tla = (async () => {
                   variant: "outline",
                   size: "sm",
                   className: "hidden sm:flex gap-2 h-8 rounded-lg",
-                  onClick: n,
+                  onClick: o,
                   type: "button",
                   children: [
-                    e.jsx(I, {
+                    e.jsx(P, {
                       className: "w-4 h-4"
                     }),
                     "\u5BFC\u51FA\u6311\u6218"
                   ]
                 }),
-                e.jsxs(L, {
+                e.jsxs(M, {
                   children: [
-                    e.jsx(A, {
+                    e.jsx(F, {
                       asChild: true,
                       children: e.jsx(m, {
                         variant: "ghost",
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(ee, {
+                        children: e.jsx(te, {
                           className: "w-4 h-4"
                         })
                       })
                     }),
-                    e.jsxs(E, {
+                    e.jsxs(V, {
                       align: "end",
                       className: "w-48",
                       children: [
-                        e.jsxs(y, {
-                          onClick: n,
+                        e.jsxs(b, {
+                          onClick: o,
                           className: "sm:hidden",
                           children: [
-                            e.jsx(I, {
+                            e.jsx(P, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5BFC\u51FA JSON"
                           ]
                         }),
-                        e.jsxs(y, {
+                        e.jsxs(b, {
                           children: [
-                            e.jsx(se, {
+                            e.jsx(ae, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5206\u4EAB\u6311\u6218"
                           ]
                         }),
-                        e.jsxs(y, {
+                        e.jsxs(b, {
                           className: "text-destructive focus:bg-destructive/10 focus:text-destructive",
+                          onClick: async () => {
+                            confirm("\u786E\u5B9A\u8981\u5220\u9664\u8FD9\u4E2A\u6311\u6218\u5417\uFF1F") && (await f.challenges.delete(t.id), i.success("\u6311\u6218\u5DF2\u5220\u9664"), r({
+                              to: "/plaza/challenges"
+                            }));
+                          },
                           children: [
-                            e.jsx(te, {
+                            e.jsx(ne, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5220\u9664\u6311\u6218"
@@ -1795,7 +1824,7 @@ let __tla = (async () => {
           children: [
             e.jsx("div", {
               className: "w-40 h-40 rounded-3xl bg-primary/10 flex items-center justify-center shrink-0 border-4 border-background shadow-xl overflow-hidden",
-              children: e.jsx(X, {
+              children: e.jsx(Z, {
                 className: "w-20 h-20 text-primary"
               })
             }),
@@ -1805,7 +1834,7 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "space-y-2",
                   children: [
-                    e.jsx(M, {
+                    e.jsx(U, {
                       variant: "outline",
                       className: "text-primary bg-primary/5 border-primary/20 uppercase tracking-widest text-[10px] px-2",
                       children: "Challenge Scenario"
@@ -1818,7 +1847,7 @@ let __tla = (async () => {
                 }),
                 e.jsx("div", {
                   className: "flex flex-wrap gap-2",
-                  children: (_a = t.tags) == null ? void 0 : _a.map((s) => e.jsx(M, {
+                  children: (_a = t.tags) == null ? void 0 : _a.map((s) => e.jsx(U, {
                     variant: "secondary",
                     className: "px-3 py-1 font-medium",
                     children: s
@@ -1836,67 +1865,57 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsxs(B, {
+        e.jsxs(G, {
           defaultValue: "details",
           className: "w-full",
           children: [
-            e.jsxs(G, {
+            e.jsxs(H, {
               className: "w-full justify-start h-12 bg-muted/50 p-1 mb-6",
               children: [
-                e.jsx(C, {
+                e.jsx(w, {
                   value: "details",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u6311\u6218\u8BE6\u60C5"
                 }),
-                e.jsx(C, {
+                e.jsx(w, {
                   value: "sessions",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u5173\u8054\u4F1A\u8BDD"
                 })
               ]
             }),
-            e.jsx(V, {
+            e.jsx(T, {
+              value: "details",
+              className: "mt-0",
+              children: e.jsx(Re, {
+                challenge: t
+              })
+            }),
+            e.jsx(T, {
               value: "sessions",
               className: "mt-0",
-              children: e.jsx(Ie, {
+              children: e.jsx(Te, {
                 challengeId: t.id,
-                sessions: x,
-                characters: g,
+                sessions: p,
+                characters: x,
                 onStartNew: c
               })
             })
           ]
-        }),
-        e.jsx("div", {
-          className: "absolute inset-0 bg-background/80 backdrop-blur-sm flex items-center justify-center cursor-not-allowed z-50",
-          onClick: () => l.info("\u6311\u6218\u5361\u529F\u80FD\u6682\u672A\u5F00\u653E\uFF0C\u656C\u8BF7\u671F\u5F85"),
-          children: e.jsxs("div", {
-            className: "text-center space-y-2",
-            children: [
-              e.jsx("p", {
-                className: "text-lg font-semibold",
-                children: "\u529F\u80FD\u6682\u672A\u5F00\u653E"
-              }),
-              e.jsx("p", {
-                className: "text-sm text-muted-foreground",
-                children: "\u6311\u6218\u5361\u8BE6\u60C5\u529F\u80FD\u6B63\u5728\u5F00\u53D1\u4E2D"
-              })
-            ]
-          })
         })
       ]
     });
   }
-  const Xs = Object.freeze(Object.defineProperty({
+  const ot = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ks
+    component: nt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ys() {
-    const { characterId: o } = us.useParams(), r = b(), { data: d = [] } = v((c) => c.from({
-      c: w
-    })), t = d.find((c) => c.id === o);
+  function rt() {
+    const { characterId: n } = ys.useParams(), r = N(), { data: l = [] } = y((c) => c.from({
+      c: $
+    })), t = l.find((c) => c.id === n);
     if (!t) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -1916,29 +1935,29 @@ let __tla = (async () => {
     });
     const a = async (c) => {
       try {
-        const n = Date.now(), s = {
+        const o = Date.now(), s = {
           ...t,
           ...c,
-          updatedAt: n,
-          modification_date: n
+          updatedAt: o,
+          modification_date: o
         };
-        await _.characters.put(s), l.success(`\u89D2\u8272 ${t.name} \u5DF2\u66F4\u65B0`), r({
+        await f.characters.put(s), i.success(`\u89D2\u8272 ${t.name} \u5DF2\u66F4\u65B0`), r({
           to: "/characters/$characterId",
           params: {
             characterId: t.id
           }
         });
-      } catch (n) {
-        console.error("Failed to update character:", n), l.error("\u66F4\u65B0\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+      } catch (o) {
+        console.error("Failed to update character:", o), i.error("\u66F4\u65B0\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
-    }, g = () => {
+    }, x = () => {
       r({
         to: "/characters/$characterId",
         params: {
           characterId: t.id
         }
       });
-    }, x = t;
+    }, p = t;
     return e.jsxs("div", {
       className: "w-full max-w-5xl mx-auto p-4 md:p-8 space-y-6",
       children: [
@@ -1949,10 +1968,10 @@ let __tla = (async () => {
               variant: "ghost",
               size: "sm",
               className: "text-muted-foreground hover:bg-transparent",
-              onClick: g,
+              onClick: x,
               type: "button",
               children: [
-                e.jsx(F, {
+                e.jsx(B, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u53D6\u6D88\u7F16\u8F91"
@@ -1967,42 +1986,42 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsx(re, {
+        e.jsx(le, {
           onSave: a,
-          onCancel: g,
-          initialData: x,
+          onCancel: x,
+          initialData: p,
           mode: "edit"
         })
       ]
     });
   }
-  const Zs = Object.freeze(Object.defineProperty({
+  const ct = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ys
+    component: rt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
 })();
 export {
-  lt as R,
+  jt as R,
   __tla,
-  it as a,
-  dt as b,
-  mt as c,
-  ht as d,
-  pt as e,
-  ut as f,
-  xt as g,
-  gt as h,
-  es as i,
-  jt as j,
-  ft as k,
-  vt as l,
-  _t as m,
-  Nt as n,
-  yt as o,
-  ls as p,
-  ds as q,
-  hs as r,
-  us as s
+  ft as a,
+  vt as b,
+  _t as c,
+  yt as d,
+  Nt as e,
+  bt as f,
+  Ct as g,
+  wt as h,
+  K as i,
+  $t as j,
+  St as k,
+  It as l,
+  Pt as m,
+  Ot as n,
+  kt as o,
+  xs as p,
+  js as q,
+  vs as r,
+  ys as s
 };

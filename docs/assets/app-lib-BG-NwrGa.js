@@ -1,14 +1,14 @@
 import { a as P } from "./components-and-styling-lnR2ABT4.js";
 import { t as p } from "./@tailwind-COJ8Fh6m.js";
-import { ar as g, at as L, as as C } from "./react-DwoZtHR8.js";
+import { ar as g, at as L, as as C } from "./react-DL1cgx8I.js";
 import { u as b } from "./es-toolkit-CstbrnlE.js";
-import { f as h } from "./future-lib-llm-ui-react-31Wddr-o.js";
-import { j as S, k as y } from "./@tanstack-TnKfVvnC.js";
+import { f as h } from "./future-lib-llm-ui-react-6L6xN7Md.js";
+import { k as S, m as y } from "./@tanstack-BioXF0H0.js";
 import { o as w, a as c, b as M, d as N, s as x } from "./zod-grrOrvCS.js";
-function G(...o) {
+function J(...o) {
   return p(P(o));
 }
-const f = { llmStorage: { dbName: "llm-records-db", tableName: "llm-messages" }, historyStoreName: "app-history-store" }, J = g()(L((o) => ({ recentPages: [], addPage: (t) => o((a) => ({ recentPages: b([t, ...a.recentPages.filter((s) => s !== t)]).slice(0, 10) })) }), { name: f == null ? void 0 : f.historyStoreName })), d = "global-llm-config", n = { baseUrl: "", apiKey: "", model: "", stream: false, logprobs: false, topLogprobs: 0, customParams: {}, customParamList: [], models: [] }, l = () => {
+const f = { llmStorage: { dbName: "llm-records-db", tableName: "llm-messages" }, historyStoreName: "app-history-store" }, U = g()(L((o) => ({ recentPages: [], addPage: (t) => o((a) => ({ recentPages: b([t, ...a.recentPages.filter((s) => s !== t)]).slice(0, 10) })) }), { name: f == null ? void 0 : f.historyStoreName })), d = "global-llm-config", n = { baseUrl: "", apiKey: "", model: "", stream: false, logprobs: false, topLogprobs: 0, customParams: {}, customParamList: [], models: [] }, l = () => {
   try {
     const o = localStorage.getItem(d);
     return o ? { ...n, ...JSON.parse(o) } : n;
@@ -17,7 +17,7 @@ const f = { llmStorage: { dbName: "llm-records-db", tableName: "llm-messages" },
   }
 }, i = (o) => {
   localStorage.setItem(d, JSON.stringify(o));
-}, U = g()(C((o, t) => ({ config: l(), models: l().models || [], isFetchingModels: false, customParamList: l().customParamList || [], setConfig: (a) => {
+}, j = g()(C((o, t) => ({ config: l(), models: l().models || [], isFetchingModels: false, customParamList: l().customParamList || [], setConfig: (a) => {
   o((s) => {
     s.config = { ...s.config, ...a };
   });
@@ -62,8 +62,8 @@ const f = { llmStorage: { dbName: "llm-records-db", tableName: "llm-messages" },
 } }))), F = w({ id: x(), timestamp: N(), config: c(), messages: M(c()), response: c() }), k = S(y({ id: f.llmStorage.tableName, schema: F, getKey: (o) => o.id, dbName: f.llmStorage.dbName }));
 export {
   k as L,
-  U as a,
+  j as a,
   f as b,
-  G as c,
-  J as u
+  J as c,
+  U as u
 };

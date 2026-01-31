@@ -1,14 +1,14 @@
-import { r as N, j as e } from "./react-DwoZtHR8.js";
-import { ag as O, ah as T, ai as I, aj as u, ak as x, f as j, al as A, am as V, an as K, B as P, ao as M, ap as W, aq as G, ar as _, as as H, at as Q, au as X, aa as F, L as U, av as E, aw as $, ax as z, ay as D, az as w } from "./app-components-f9q2KBqK.js";
-import { R as Y, d as Z } from "./icons-KB3ML1Zw.js";
-import { n as R } from "./id-OxPLOBIU.js";
+import { r as N, j as e } from "./react-DL1cgx8I.js";
+import { al as R, am as T, an as I, ao as u, ap as x, f as j, aq as A, ar as V, as as K, B as P, at as M, au as W, av as G, aw as _, ax as H, ay as Q, az as X, aa as F, L as U, ag as E, ah as $, ai as z, aj as D, ak as w } from "./app-components-BouIT30j.js";
+import { a4 as Y, d as Z } from "./icons-BqX5dRP-.js";
+import { n as B } from "./id-OxPLOBIU.js";
 import { p as ee } from "./es-toolkit-CstbrnlE.js";
 function de({ config: s, setConfig: t, models: n, isFetchingModels: r, fetchModels: o, customParamList: l, addCustomParam: i, updateCustomParam: c, removeCustomParam: b }) {
   var _a;
   const y = N.useId(), p = N.useId(), [h, C] = N.useState(""), [g, v] = N.useState("string"), [f, k] = N.useState(""), [S, m] = N.useState(false);
-  return e.jsxs("div", { className: "space-y-1", children: [e.jsxs(O, { children: [e.jsx(T, { children: "API Configuration" }), e.jsxs(I, { className: "space-y-1", children: [e.jsxs("div", { className: "grid grid-cols-1 md:grid-cols-2 gap-1", children: [e.jsxs(u, { children: [e.jsx(x, { children: "Base URL" }), e.jsx(j, { value: s.baseUrl, onChange: (a) => t({ baseUrl: a.target.value }), placeholder: "https://api.example.com" })] }), e.jsxs(u, { children: [e.jsx(x, { children: "API Key" }), e.jsx(j, { type: "password", value: s.apiKey, onChange: (a) => t({ apiKey: a.target.value }), placeholder: "sk-..." })] })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Model" }), e.jsxs(A, { className: "w-full", children: [e.jsxs(V, { open: S, onOpenChange: m, children: [e.jsx(K, { asChild: true, children: e.jsxs(P, { variant: "outline", role: "combobox", "aria-expanded": S, className: "justify-between flex-1", size: "sm", children: [s.model ? (_a = n.find((a) => a.id === s.model)) == null ? void 0 : _a.id : "Select model...", e.jsx(Y, { className: "ml-2 h-4 w-4 shrink-0 opacity-50" })] }) }), e.jsx(M, { className: "w-full p-0", children: e.jsxs(W, { children: [e.jsx(G, { placeholder: "Search model..." }), e.jsxs(_, { children: [e.jsx(H, { children: "No model found." }), e.jsx(Q, { children: n.map((a) => e.jsxs(X, { value: a.id, onSelect: (d) => {
+  return e.jsxs("div", { className: "space-y-1", children: [e.jsxs(R, { children: [e.jsx(T, { children: "API Configuration" }), e.jsxs(I, { className: "space-y-1", children: [e.jsxs("div", { className: "grid grid-cols-1 md:grid-cols-2 gap-1", children: [e.jsxs(u, { children: [e.jsx(x, { children: "Base URL" }), e.jsx(j, { value: s.baseUrl, onChange: (a) => t({ baseUrl: a.target.value }), placeholder: "https://api.example.com" })] }), e.jsxs(u, { children: [e.jsx(x, { children: "API Key" }), e.jsx(j, { type: "password", value: s.apiKey, onChange: (a) => t({ apiKey: a.target.value }), placeholder: "sk-..." })] })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Model" }), e.jsxs(A, { className: "w-full", children: [e.jsxs(V, { open: S, onOpenChange: m, children: [e.jsx(K, { asChild: true, children: e.jsxs(P, { variant: "outline", role: "combobox", "aria-expanded": S, className: "justify-between flex-1", size: "sm", children: [s.model ? (_a = n.find((a) => a.id === s.model)) == null ? void 0 : _a.id : "Select model...", e.jsx(Y, { className: "ml-2 h-4 w-4 shrink-0 opacity-50" })] }) }), e.jsx(M, { className: "w-full p-0", children: e.jsxs(W, { children: [e.jsx(G, { placeholder: "Search model..." }), e.jsxs(_, { children: [e.jsx(H, { children: "No model found." }), e.jsx(Q, { children: n.map((a) => e.jsxs(X, { value: a.id, onSelect: (d) => {
     t({ model: d === s.model ? "" : d }), m(false);
-  }, children: [e.jsx(Z, { className: `mr-2 h-4 w-4 ${s.model === a.id ? "opacity-100" : "opacity-0"}` }), a.id, " (", a.owned_by, ")"] }, a.id)) })] })] }) })] }), e.jsx(P, { size: "sm", onClick: o, disabled: r, children: r ? "Fetching..." : "Fetch Models" })] })] }), e.jsxs("div", { className: "flex items-center space-x-1", children: [e.jsx(F, { id: y, checked: s.stream, onCheckedChange: (a) => t({ stream: a }) }), e.jsx(U, { htmlFor: y, children: "Enable Streaming" })] }), e.jsxs("div", { className: "flex items-center space-x-1", children: [e.jsx(F, { id: p, checked: s.logprobs, onCheckedChange: (a) => t({ logprobs: a }) }), e.jsx(U, { htmlFor: p, children: "Enable Logprobs" })] }), s.logprobs && e.jsxs(u, { children: [e.jsx(x, { children: "Top Logprobs" }), e.jsx(j, { type: "number", value: s.topLogprobs, onChange: (a) => t({ topLogprobs: Number(a.target.value) }), min: 0, max: 20 })] })] })] }), e.jsxs(O, { children: [e.jsx(T, { children: "Custom Parameters" }), e.jsxs(I, { className: "space-y-1", children: [e.jsxs("div", { className: "grid grid-cols-1 md:grid-cols-4 gap-1", children: [e.jsxs(u, { children: [e.jsx(x, { children: "Parameter Name" }), e.jsx(j, { value: h, onChange: (a) => C(a.target.value), placeholder: "e.g., temperature" })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Type" }), e.jsxs(E, { value: g, onValueChange: (a) => v(a), children: [e.jsx($, { children: e.jsx(z, {}) }), e.jsxs(D, { children: [e.jsx(w, { value: "string", children: "String" }), e.jsx(w, { value: "number", children: "Number" }), e.jsx(w, { value: "boolean", children: "Boolean" })] })] })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Value" }), e.jsx(j, { value: f, onChange: (a) => k(a.target.value), placeholder: "e.g., 0.7" })] }), e.jsx("div", { className: "flex items-end", children: e.jsx(P, { size: "sm", onClick: () => {
+  }, children: [e.jsx(Z, { className: `mr-2 h-4 w-4 ${s.model === a.id ? "opacity-100" : "opacity-0"}` }), a.id, " (", a.owned_by, ")"] }, a.id)) })] })] }) })] }), e.jsx(P, { size: "sm", onClick: o, disabled: r, children: r ? "Fetching..." : "Fetch Models" })] })] }), e.jsxs("div", { className: "flex items-center space-x-1", children: [e.jsx(F, { id: y, checked: s.stream, onCheckedChange: (a) => t({ stream: a }) }), e.jsx(U, { htmlFor: y, children: "Enable Streaming" })] }), e.jsxs("div", { className: "flex items-center space-x-1", children: [e.jsx(F, { id: p, checked: s.logprobs, onCheckedChange: (a) => t({ logprobs: a }) }), e.jsx(U, { htmlFor: p, children: "Enable Logprobs" })] }), s.logprobs && e.jsxs(u, { children: [e.jsx(x, { children: "Top Logprobs" }), e.jsx(j, { type: "number", value: s.topLogprobs, onChange: (a) => t({ topLogprobs: Number(a.target.value) }), min: 0, max: 20 })] })] })] }), e.jsxs(R, { children: [e.jsx(T, { children: "Custom Parameters" }), e.jsxs(I, { className: "space-y-1", children: [e.jsxs("div", { className: "grid grid-cols-1 md:grid-cols-4 gap-1", children: [e.jsxs(u, { children: [e.jsx(x, { children: "Parameter Name" }), e.jsx(j, { value: h, onChange: (a) => C(a.target.value), placeholder: "e.g., temperature" })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Type" }), e.jsxs(E, { value: g, onValueChange: (a) => v(a), children: [e.jsx($, { children: e.jsx(z, {}) }), e.jsxs(D, { children: [e.jsx(w, { value: "string", children: "String" }), e.jsx(w, { value: "number", children: "Number" }), e.jsx(w, { value: "boolean", children: "Boolean" })] })] })] }), e.jsxs(u, { children: [e.jsx(x, { children: "Value" }), e.jsx(j, { value: f, onChange: (a) => k(a.target.value), placeholder: "e.g., 0.7" })] }), e.jsx("div", { className: "flex items-end", children: e.jsx(P, { size: "sm", onClick: () => {
     h.trim() && (i({ name: h.trim(), type: g, value: f }), C(""), k(""));
   }, disabled: !h.trim(), children: "Add Parameter" }) })] }), l.length > 0 && e.jsxs("div", { className: "space-y-0.5", children: [e.jsx(U, { children: "Current Parameters:" }), e.jsx("div", { className: "space-y-0.5", children: l.map((a) => e.jsxs("div", { className: "flex items-center gap-0.5 p-0.5 border rounded", children: [e.jsx(j, { value: a.name, onChange: (d) => c(a.id, { name: d.target.value }), className: "flex-1", placeholder: "Parameter name" }), e.jsxs(E, { value: a.type, onValueChange: (d) => c(a.id, { type: d }), children: [e.jsx($, { className: "w-16", children: e.jsx(z, {}) }), e.jsxs(D, { children: [e.jsx(w, { value: "string", children: "String" }), e.jsx(w, { value: "number", children: "Number" }), e.jsx(w, { value: "boolean", children: "Boolean" })] })] }), e.jsx(j, { value: a.value, onChange: (d) => c(a.id, { value: d.target.value }), className: "flex-1", placeholder: "Value" }), e.jsx(P, { variant: "outline", size: "sm", onClick: () => b(a.id), children: "Remove" })] }, a.id)) })] })] })] })] });
 }
@@ -47,7 +47,7 @@ const ie = async (s, t) => {
     o = ae(y, r, o, l);
   }
   const i = (_b = r.at(-1)) == null ? void 0 : _b.data;
-  return { id: R(), role: "assistant", content: o, response: i, rawResponse: r.map((c) => `data: ${JSON.stringify(c.data)}
+  return { id: B(), role: "assistant", content: o, response: i, rawResponse: r.map((c) => `data: ${JSON.stringify(c.data)}
 `).join(""), chunks: r, fullLogprobs: l };
 }, J = async (s) => {
   var _a, _b, _c;
@@ -58,7 +58,7 @@ const ie = async (s, t) => {
   } catch {
     r = "Error: cyclic data in response";
   }
-  return { id: R(), role: "assistant", content: n, response: t, rawResponse: r };
+  return { id: B(), role: "assistant", content: n, response: t, rawResponse: r };
 }, q = (s, t) => {
   const n = {};
   for (const r of s) {
@@ -88,8 +88,8 @@ const ie = async (s, t) => {
       try {
         const d = JSON.parse(a);
         p.push({ id: crypto.randomUUID(), data: d });
-        const L = ((_e = (_d = (_c = d.choices) == null ? void 0 : _c[0]) == null ? void 0 : _d.delta) == null ? void 0 : _e.content) || "", B = (_h = (_g = (_f = d.choices) == null ? void 0 : _f[0]) == null ? void 0 : _g.logprobs) == null ? void 0 : _h.content;
-        B && C.push(...B), L && (h += L, await r(L, h));
+        const L = ((_e = (_d = (_c = d.choices) == null ? void 0 : _c[0]) == null ? void 0 : _d.delta) == null ? void 0 : _e.content) || "", O = (_h = (_g = (_f = d.choices) == null ? void 0 : _f[0]) == null ? void 0 : _g.logprobs) == null ? void 0 : _h.content;
+        O && C.push(...O), L && (h += L, await r(L, h));
       } catch (d) {
         console.log(`line:
 `, m), console.error(`Parse error:
@@ -104,7 +104,7 @@ const ie = async (s, t) => {
   } catch {
     g = "Error: cyclic data in response";
   }
-  return { id: R(), role: "assistant", content: h, response: (_i = p.at(-1)) == null ? void 0 : _i.data, rawResponse: g, chunks: p, fullLogprobs: C };
+  return { id: B(), role: "assistant", content: h, response: (_i = p.at(-1)) == null ? void 0 : _i.data, rawResponse: g, chunks: p, fullLogprobs: C };
 };
 export {
   de as C,
