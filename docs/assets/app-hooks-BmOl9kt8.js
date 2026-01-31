@@ -1,42 +1,42 @@
-import { r, ar as k, as as E } from "./react-DL1cgx8I.js";
+import { r, ar as w, as as k } from "./react-DaZ__F27.js";
 import { n as h } from "./id-OxPLOBIU.js";
-import { e as T, a as w } from "./future-lib-llm-ui-react-6L6xN7Md.js";
-import { a as S, b as C, L as b } from "./app-lib-BG-NwrGa.js";
+import { e as E, a as T } from "./future-lib-llm-ui-react-D9liEJay.js";
+import { a as S, b as C, L as b } from "./app-lib-BcoYN-8Y.js";
 const D = ["neutral", "stone", "zinc", "gray", "slate"], x = { Classic: ["default", "blue", "violet", "rose"], Featured: ["sakura", "gold", "coffee", "forest", "moonlight", "ocean", "mint", "halloween"], Morandi: ["morandi-green", "morandi-purple", "morandi-grayblue", "morandi-brown"] }, G = Object.values(x).flat(), P = { storageKey: "vite-ui-theme", defaultTheme: "dark", defaultBaseColor: "zinc", defaultPrimaryColor: "violet", theme: "dark", systemTheme: void 0, baseColor: "zinc", primaryColor: "violet", storageKeyOfTheme: "vite-ui-theme", storageKeyOfBaseColor: "vite-ui-base-color", storageKeyOfPrimaryColor: "vite-ui-primary-color", setTheme: () => null, setBaseColor: () => null, setPrimaryColor: () => null }, K = r.createContext(P), j = () => {
   const t = r.useContext(K);
   if (t === void 0) throw new Error("useTheme must be used within a ThemeProvider");
   return t;
-}, N = k()(E((t) => ({ messages: [], updateMessages: (c) => t((u) => {
+}, N = w()(k((t) => ({ messages: [], updateMessages: (c) => t((u) => {
   c(u.messages);
 }) }))), F = (t = {}, c = {}) => {
-  const u = S((s) => s.config), f = r.useMemo(() => {
-    const { models: s, ...l } = u;
+  const u = S((o) => o.config), f = r.useMemo(() => {
+    const { models: o, ...l } = u;
     return l;
-  }, [u]), g = r.useMemo(() => ({ saveRecord: false, dbName: C.llmStorage.dbName, tableName: C.llmStorage.tableName }), []), { config: m, options: d } = r.useMemo(() => ({ config: { ...f, ...t }, options: { ...g, ...c } }), [f, t, g, c]), y = N(), [L, a] = r.useState({ chunks: [], fullResponse: "", isEnded: false }), v = r.useCallback(async (s, l) => {
+  }, [u]), g = r.useMemo(() => ({ saveRecord: false, dbName: C.llmStorage.dbName, tableName: C.llmStorage.tableName }), []), { config: m, options: d } = r.useMemo(() => ({ config: { ...f, ...t }, options: { ...g, ...c } }), [f, t, g, c]), y = N(), [L, a] = r.useState({ chunks: [], fullResponse: "", isEnded: false }), v = r.useCallback(async (o, l) => {
     a({ chunks: [], fullResponse: "", isEnded: false });
     const i = { ...m, ...l || {} };
     try {
-      const e = await T(i, s, i.customParamList || []);
+      const e = await E(i, o, i.customParamList || []);
       if (a({ chunks: e.chunks || [], fullResponse: e.content, isEnded: true }), d.saveRecord) {
-        const o = { id: h(), timestamp: /* @__PURE__ */ new Date(), config: i, messages: s, response: e };
-        b.utils.getTable().add(o);
+        const s = { id: h(), timestamp: /* @__PURE__ */ new Date(), config: i, messages: o, response: e };
+        b.utils.getTable().add(s);
       }
     } catch (e) {
-      console.error("callLLM error:", e), a((o) => ({ ...o, hasError: true, isEnded: true }));
+      throw console.error("callLLM error:", e), a((s) => ({ ...s, hasError: true, isEnded: true })), e;
     }
-  }, [m, d]), M = r.useCallback(async (s, l, i) => {
+  }, [m, d]), M = r.useCallback(async (o, l, i) => {
     a({ chunks: [], fullResponse: "", isEnded: false });
     const e = { ...m, ...i || {} };
     try {
-      const o = await w(e, s, e.customParamList || [], async (n, p) => {
+      const s = await T(e, o, e.customParamList || [], async (n, p) => {
         a((R) => ({ ...R, fullResponse: p })), await l(n, p);
       });
-      if (a((n) => ({ ...n, chunks: o.chunks || [], isEnded: true })), d.saveRecord) {
-        const n = { id: h(), timestamp: /* @__PURE__ */ new Date(), config: e, messages: s, response: o };
+      if (a((n) => ({ ...n, chunks: s.chunks || [], isEnded: true })), d.saveRecord) {
+        const n = { id: h(), timestamp: /* @__PURE__ */ new Date(), config: e, messages: o, response: s };
         b.utils.getTable().add(n);
       }
-    } catch (o) {
-      console.error("callLLMStream error:", o), a((n) => ({ ...n, hasError: true, isEnded: true }));
+    } catch (s) {
+      throw console.error("callLLMStream error:", s), a((n) => ({ ...n, hasError: true, isEnded: true })), s;
     }
   }, [m, d]);
   return { currentResponse: L, previousMessages: y.messages, callLLM: v, callLLMStream: M };
