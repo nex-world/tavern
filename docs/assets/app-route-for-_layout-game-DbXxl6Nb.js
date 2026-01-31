@@ -1,13 +1,13 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-BlnpFFoU.js","assets/react-DaZ__F27.js","assets/index-DqGtKwPN.js","assets/@tanstack-C_3cnQY1.js","assets/vendor-BQm4HbnU.js","assets/dexie-CAotVj7m.js","assets/app-components-yELpvzhY.js","assets/icons-5wLx_9_I.js","assets/app-hooks-BmOl9kt8.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-D9liEJay.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-BcoYN-8Y.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-DsXgSMAg.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CSKMBz4t.css"])))=>i.map(i=>d[i]);
-import { _ as h, D as he } from "./index-DqGtKwPN.js";
-import { g as u, l as g, r as pe, L as _, O as A, e as N, h as ue, i as y, f as xe, N as ge, j as je } from "./@tanstack-C_3cnQY1.js";
-import { j as e, r as j, t as i } from "./react-DaZ__F27.js";
-import { f as L, U as X, H as Y, g as fe, a as q, h as Z, M as ve, i as ee, P as se, D as P, j as B, k as _e, F as ye, E as te, l as J, m as ae, n as ne, o as Ne } from "./icons-5wLx_9_I.js";
-import { S as be, a as E, C as $, m as f, b as oe, c as Ce, E as we, I as re, d as $e, e as ce, f as Se, g as Ie, h as le, i as Pe, j as Oe, k as ke, l as De, n as ze, o as Re, p as Te } from "./app-libs-for-silly-tavern-BlnpFFoU.js";
-import { y as G, z as H, A as w, C as O, E as k, F as D, G as z, H as R, S as Ae, J as Le, B as m, K as Ee, L as I, f as W, N as Me, O as Fe, P as M, Q as F, R as V, U as Ve, V as Q, W as b, X as Ue, Y as Be, Z as Ge, _ as He, $ as qe, a0 as Je, a1 as We, a2 as Qe, a3 as Ke, d as U, a4 as T } from "./app-components-yELpvzhY.js";
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-5Sl9eX5r.js","assets/react-yvOuIRP4.js","assets/index-BLuj71N1.js","assets/@tanstack-CkFHb3Uq.js","assets/vendor-B6AqdxtN.js","assets/dexie-BXKxEfoC.js","assets/app-components-CXEpHOPX.js","assets/icons-RIOklkzb.js","assets/app-hooks-BS7L2h5w.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-YZenkMFQ.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-CUGc0APc.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-CnMfby2Z.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CSKMBz4t.css"])))=>i.map(i=>d[i]);
+import { _ as h, D as he } from "./index-BLuj71N1.js";
+import { g as u, l as g, r as pe, L as _, O as A, e as N, h as ue, i as y, f as xe, N as ge, j as je } from "./@tanstack-CkFHb3Uq.js";
+import { j as e, r as j, t as i } from "./react-yvOuIRP4.js";
+import { f as L, U as X, H as Y, g as fe, a as q, h as Z, M as ve, i as ee, P as se, D as P, j as B, k as _e, F as ye, E as te, l as J, m as ae, n as ne, o as Ne } from "./icons-RIOklkzb.js";
+import { S as be, a as E, C as $, m as f, b as oe, c as Ce, E as we, I as re, d as $e, e as ce, f as Se, g as Ie, h as le, i as Pe, j as Oe, k as ke, l as De, n as ze, o as Re, p as Te } from "./app-libs-for-silly-tavern-5Sl9eX5r.js";
+import { y as G, z as H, A as w, C as O, E as k, F as D, G as z, H as R, S as Ae, J as Le, B as m, K as Ee, L as I, f as W, N as Me, O as Fe, P as M, Q as F, R as V, U as Ve, V as Q, W as b, X as Ue, Y as Be, Z as Ge, _ as He, $ as qe, a0 as Je, a1 as We, a2 as Qe, a3 as Ke, d as U, a4 as T } from "./app-components-CXEpHOPX.js";
 import { n as ie } from "./id-OxPLOBIU.js";
-import { C as Xe } from "./future-lib-llm-ui-react-D9liEJay.js";
-import { a as Ye } from "./app-lib-BcoYN-8Y.js";
+import { C as Xe } from "./future-lib-llm-ui-react-YZenkMFQ.js";
+import { a as Ye } from "./app-lib-CUGc0APc.js";
 let jt, ft, vt, _t, yt, Nt, bt, Ct, wt, K, $t, St, It, Pt, Ot, kt, xs, js, vs, ys;
 let __tla = (async () => {
   let Ze, es, ss, ts, as, ns, os, rs, cs, ls, is, ds, ms, hs, ps, us, gs, fs, _s, Ns, bs;
@@ -699,9 +699,9 @@ let __tla = (async () => {
     component: As
   }, Symbol.toStringTag, {
     value: "Module"
-  })), Es = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-BlnpFFoU.js").then((n) => n.q), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
+  })), Es = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-5Sl9eX5r.js").then((n) => n.q), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
     default: n.SessionMainForChat
-  }))), Ms = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-BlnpFFoU.js").then((n) => n.r), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
+  }))), Ms = j.lazy(() => h(() => import("./app-libs-for-silly-tavern-5Sl9eX5r.js").then((n) => n.r), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((n) => ({
     default: n.SessionMainForChallenge
   })));
   function Fs() {

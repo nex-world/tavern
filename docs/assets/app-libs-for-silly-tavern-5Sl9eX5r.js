@@ -1,19 +1,19 @@
 var __defProp = Object.defineProperty;
 var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
 var __publicField = (obj, key, value) => __defNormalProp(obj, typeof key !== "symbol" ? key + "" : key, value);
-import { r as b, j as e, au as xe, av as Is, t as ae, aw as he, ax as ct } from "./react-DaZ__F27.js";
-import { c as V, a as ks } from "./app-lib-BcoYN-8Y.js";
-import { X as Ds, Y as Ts, B as _, Z as Ms, _ as As, $ as Es, a0 as Ps, a1 as Fs, a2 as $s, a3 as Ls, S as Os, J as Rs, K as Us, u as Je, v as Et, f as A, d as z, a5 as Bs, C as P, E as O, F as R, G as ee, H as F, D as ot, s as lt, t as dt, a6 as Gs, a7 as Vs, a8 as Hs, L as S, w as zs, a9 as Pt, aa as Ft, ab as mt, O as st, N as G, ac as Js, ad as Me, ae as Ae, af as Ee, ag as Fe, ah as $e, ai as Le, aj as Oe, ak as ie, y as $t, z as Lt, A as ce, a4 as oe } from "./app-components-yELpvzhY.js";
-import { p as Ot, q as Rt, n as fe, M as qs, r as Ks, S as Ne, s as Xs, F as Ut, k as at, t as Bt, D as Ws, h as we, u as ht, P as de, e as Ys, C as Qs, I as ut, o as pt, v as gt, w as Re, X as Gt, x as Vt, y as Ht, z as Ue, A as Zs, B as rt, G as ea, J as ta, K as zt, N as sa, T as aa, Q as ra, R as na, V as ia, W as ca, Y as Jt, Z as qt, f as xt, U as oa, _ as be, $ as Kt, a0 as ge, b as nt, a1 as la, a2 as da, a3 as ma } from "./icons-5wLx_9_I.js";
+import { r as b, j as e, au as xe, av as Is, t as ae, aw as he, ax as ct } from "./react-yvOuIRP4.js";
+import { c as V, a as ks } from "./app-lib-CUGc0APc.js";
+import { X as Ds, Y as Ts, B as _, Z as Ms, _ as As, $ as Es, a0 as Ps, a1 as Fs, a2 as $s, a3 as Ls, S as Os, J as Rs, K as Us, u as Je, v as Et, f as A, d as z, a5 as Bs, C as P, E as O, F as R, G as ee, H as F, D as ot, s as lt, t as dt, a6 as Gs, a7 as Vs, a8 as Hs, L as S, w as zs, a9 as Pt, aa as Ft, ab as mt, O as st, N as G, ac as Js, ad as Me, ae as Ae, af as Ee, ag as Fe, ah as $e, ai as Le, aj as Oe, ak as ie, y as $t, z as Lt, A as ce, a4 as oe } from "./app-components-CXEpHOPX.js";
+import { p as Ot, q as Rt, n as fe, M as qs, r as Ks, S as Ne, s as Xs, F as Ut, k as at, t as Bt, D as Ws, h as we, u as ht, P as de, e as Ys, C as Qs, I as ut, o as pt, v as gt, w as Re, X as Gt, x as Vt, y as Ht, z as Ue, A as Zs, B as rt, G as ea, J as ta, K as zt, N as sa, T as aa, Q as ra, R as na, V as ia, W as ca, Y as Jt, Z as qt, f as xt, U as oa, _ as be, $ as Kt, a0 as ge, b as nt, a1 as la, a2 as da, a3 as ma } from "./icons-RIOklkzb.js";
 import { n as H } from "./id-OxPLOBIU.js";
-import { k as Ie, m as qe, n as ha, j as ua, e as ke, i as Be } from "./@tanstack-C_3cnQY1.js";
-import { v as Xt, x as le, y as pa } from "./vendor-BQm4HbnU.js";
-import { _ as Ce } from "./index-DqGtKwPN.js";
-import { c as ga } from "./app-hooks-BmOl9kt8.js";
+import { k as Ie, m as qe, n as ha, j as ua, e as ke, i as Be } from "./@tanstack-CkFHb3Uq.js";
+import { x as Xt, y as le, z as pa } from "./vendor-B6AqdxtN.js";
+import { _ as Ce } from "./index-BLuj71N1.js";
+import { c as ga } from "./app-hooks-BS7L2h5w.js";
 import { o as I, s as m, n as N, b as L, r as W, a as Q, l as M, c as D, _ as $, u as re, t as Z, e as xa } from "./zod-grrOrvCS.js";
-import { D as Ge } from "./dexie-CAotVj7m.js";
+import { D as Ge } from "./dexie-BXKxEfoC.js";
 import { c as jt } from "./es-toolkit-CstbrnlE.js";
-import { a as fa } from "./future-lib-llm-ui-react-D9liEJay.js";
+import { a as fa } from "./future-lib-llm-ui-react-YZenkMFQ.js";
 const ba = (s) => {
   const [t, a] = b.useState(false);
   return e.jsxs(Ds, { open: t, onOpenChange: a, children: [e.jsxs("div", { className: V("group flex items-center justify-between p-3 rounded-lg cursor-pointer transition-colors mb-1", s.isActive ? "bg-primary/10 text-primary" : "hover:bg-muted text-muted-foreground hover:text-foreground"), onClick: () => s.onClick(s.session), children: [e.jsxs("div", { className: "flex items-center gap-3 overflow-hidden", children: [s.session.mode === "challenge" ? e.jsx(Ot, { className: "w-4 h-4 shrink-0" }) : e.jsx(Rt, { className: "w-4 h-4 shrink-0" }), e.jsxs("div", { className: "flex flex-col overflow-hidden", children: [e.jsx("span", { className: "text-sm font-medium truncate", children: s.session.title || s.characterName }), e.jsx("span", { className: "text-[10px] opacity-70", children: new Date(s.session.updatedAt).toLocaleDateString() })] })] }), e.jsx(Ts, { asChild: true, children: e.jsx(_, { variant: "ghost", size: "icon", className: "h-7 w-7 opacity-0 group-hover:opacity-100 transition-opacity", onClick: (r) => r.stopPropagation(), type: "button", children: e.jsx(fe, { className: "w-3.5 h-3.5 text-muted-foreground hover:text-destructive" }) }) })] }), e.jsxs(Ms, { children: [e.jsxs(As, { children: [e.jsx(Es, { children: "\u786E\u8BA4\u5220\u9664" }), e.jsx(Ps, { children: "\u786E\u5B9A\u8981\u5220\u9664\u8FD9\u4E2A\u4F1A\u8BDD\u5417\uFF1F\u6B64\u64CD\u4F5C\u65E0\u6CD5\u64A4\u9500\u3002" })] }), e.jsxs(Fs, { children: [e.jsx($s, { children: "\u53D6\u6D88" }), e.jsx(Ls, { onClick: () => {
