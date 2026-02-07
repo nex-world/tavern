@@ -1,13 +1,13 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-CCJ98-SQ.js","assets/react-CbLQ1BCV.js","assets/index-ZihVZyz_.js","assets/@tanstack-CBJ8iKIX.js","assets/vendor-COi5Ab7_.js","assets/dexie-D2PZIgT1.js","assets/app-components-B7Ss78Y7.js","assets/icons-D_VIAZxC.js","assets/app-hooks-CLrZS5cX.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-B5HG0st1.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-BV4GtTtn.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-DiZywLAL.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CsdnAEuD.css"])))=>i.map(i=>d[i]);
-import { _ as h, D as Oe } from "./index-ZihVZyz_.js";
-import { g as u, l as j, r as ze, L as f, O as W, e as $, h as Re, i as y, f as ke, N as Te, j as Ae } from "./@tanstack-CBJ8iKIX.js";
-import { j as e, r as v, t as m } from "./react-CbLQ1BCV.js";
-import { f as q, U as H, H as je, g as Ee, a as T, h as fe, i as F, M as U, j as Le, k as Me, l as Ve, P as A, m as J, n as ve, o as _e, D as G, p as le, q as Fe, F as Ue, E as Ne, r as pe, s as ye, t as Ge } from "./icons-D_VIAZxC.js";
-import { S as Be, a as E, C as M, m as N, b as be, c as We, E as qe, I as Ce, d as He, e as we, f as Je, g as Qe, G as Ke, D as Xe, h as Ye, i as Ze, j as $e, k as es, l as ss, n as ts, o as as, p as Se, q as ns, r as rs, s as os } from "./app-libs-for-silly-tavern-CCJ98-SQ.js";
-import { y as ie, z as de, A as z, C, E as S, F as I, G as P, H as w, S as cs, J as ls, B as p, K as is, L as Q, N as K, O as X, P as Y, Q as Z, R as ee, U as se, V as te, W as ae, d as R, X as V, f as xe, Y as ds, Z as ms, _ as re, $ as oe, a0 as ce, a1 as hs, a2 as ue, a3 as O, a4 as B } from "./app-components-B7Ss78Y7.js";
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-i0UZarqU.js","assets/react-BkMll9ak.js","assets/index-qDtb5hba.js","assets/@tanstack-DqEpoJTo.js","assets/vendor-CVkKsKZm.js","assets/dexie-W78agt0s.js","assets/app-components-CKzP6Gne.js","assets/icons-GagDs9Wh.js","assets/app-hooks-ChKnEqbU.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-CX97G2iQ.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-Ba99BpAZ.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-BtWO53Bi.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CsdnAEuD.css"])))=>i.map(i=>d[i]);
+import { _ as h, D as Oe } from "./index-qDtb5hba.js";
+import { g as u, l as j, r as ze, L as f, O as W, e as $, h as Re, i as y, f as ke, N as Te, j as Ae } from "./@tanstack-DqEpoJTo.js";
+import { j as e, r as v, t as m } from "./react-BkMll9ak.js";
+import { f as q, U as H, H as je, g as Ee, a as T, h as fe, i as F, M as U, j as Le, k as Me, l as Ve, P as A, m as J, n as ve, o as _e, D as G, p as le, q as Fe, F as Ue, E as Ne, r as pe, s as ye, t as Ge } from "./icons-GagDs9Wh.js";
+import { S as Be, a as E, C as M, m as N, b as be, c as We, E as qe, I as Ce, d as He, e as we, f as Je, g as Qe, G as Ke, D as Xe, h as Ye, i as Ze, j as $e, k as es, l as ss, n as ts, o as as, p as Se, q as ns, r as rs, s as os } from "./app-libs-for-silly-tavern-i0UZarqU.js";
+import { y as ie, z as de, A as z, C, E as S, F as I, G as P, H as w, S as cs, J as ls, B as p, K as is, L as Q, N as K, O as X, P as Y, Q as Z, R as ee, U as se, V as te, W as ae, d as R, X as V, f as xe, Y as ds, Z as ms, _ as re, $ as oe, a0 as ce, a1 as hs, a2 as ue, a3 as O, a4 as B } from "./app-components-CKzP6Gne.js";
 import { n as Ie } from "./id-OxPLOBIU.js";
-import { C as ps } from "./future-lib-llm-ui-react-B5HG0st1.js";
-import { a as xs } from "./app-lib-BV4GtTtn.js";
+import { C as ps } from "./future-lib-llm-ui-react-CX97G2iQ.js";
+import { a as xs } from "./app-lib-Ba99BpAZ.js";
 let Zt, ea, sa, ta, aa, na, ra, oa, ca, ge, la, ia, da, ma, ha, pa, xa, ua, ga, ja, fa, va, Es, Ms, Fs, Gs;
 let __tla = (async () => {
   let us, gs, js, fs, vs, _s, Ns, ys, bs, Cs, ws, $s, Ss, Is, Ps, Ds, Os, zs, Rs, ks, Ts, As, Ls, Vs, Us, Bs, Ws;
@@ -20,7 +20,7 @@ let __tla = (async () => {
     head: () => ({
       meta: [
         {
-          title: "SillyTavern Lite | AI \u89D2\u8272\u626E\u6F14\u5E73\u53F0"
+          title: "NexTavern | AI \u89D2\u8272\u626E\u6F14\u5E73\u53F0"
         },
         {
           name: "description",
@@ -35,11 +35,11 @@ let __tla = (async () => {
     head: () => ({
       meta: [
         {
-          title: "\u6B22\u8FCE\u6765\u5230 SillyTavern Lite | Welcome to SillyTavern Lite"
+          title: "\u6B22\u8FCE\u6765\u5230 NexTavern | Welcome to NexTavern"
         },
         {
           name: "description",
-          content: "\u6B22\u8FCE\u4F7F\u7528 SillyTavern Lite\uFF0CAI \u89D2\u8272\u626E\u6F14\u521B\u4F5C\u5E73\u53F0"
+          content: "\u6B22\u8FCE\u4F7F\u7528 NexTavern\uFF0CAI \u89D2\u8272\u626E\u6F14\u521B\u4F5C\u5E73\u53F0"
         }
       ]
     }),
@@ -406,7 +406,7 @@ let __tla = (async () => {
                     className: "w-5 h-5 text-primary"
                   }),
                   e.jsx("span", {
-                    children: "SillyTavern Lite"
+                    children: "NexTavern"
                   })
                 ]
               }),
@@ -491,7 +491,7 @@ let __tla = (async () => {
           children: [
             e.jsx("h1", {
               className: "text-4xl font-bold tracking-tight",
-              children: "SillyTavern Lite"
+              children: "NexTavern"
             }),
             e.jsx("p", {
               className: "text-muted-foreground",
@@ -933,13 +933,13 @@ let __tla = (async () => {
     component: nt
   }, Symbol.toStringTag, {
     value: "Module"
-  })), ot = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-CCJ98-SQ.js").then((t) => t.t), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
+  })), ot = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.t), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForChat
-  }))), ct = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-CCJ98-SQ.js").then((t) => t.u), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
+  }))), ct = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.u), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForChallenge
-  }))), lt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-CCJ98-SQ.js").then((t) => t.v), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
+  }))), lt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.v), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForDnd
-  }))), it = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-CCJ98-SQ.js").then((t) => t.w), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
+  }))), it = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.w), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForGroupChat
   })));
   function dt() {
