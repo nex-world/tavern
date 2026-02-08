@@ -1,31 +1,22 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/silly-tavern-ui-C8y0dUuM.js","assets/react-vendor-C1AjJau_.js","assets/index-BwbnRfon.js","assets/tanstack-vendor-BB7HWJ-3.js","assets/vendor-VvUkZRdw.js","assets/app-components-CCuPG-ln.js","assets/app-common-DnxDJJb8.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/id-OxPLOBIU.js","assets/es-toolkit-CstbrnlE.js","assets/future-lib-llm-ui-react-jbeTDxFo.js","assets/@tanstack-Bw4lGhTw.js","assets/dexie-Ca-96kR6.js","assets/zod-grrOrvCS.js","assets/app-common-Daz3Tiae.css","assets/app-libs-for-custom-theme-CQCQ3KAn.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/silly-tavern-shared-DgvARXo1.js","assets/silly-tavern-db-C6OCLe8X.js","assets/silly-tavern-engine-D0R6Sr8P.js"])))=>i.map(i=>d[i]);
-import { _ as h, D as Te } from "./index-BwbnRfon.js";
-import { a as u, l as j, j as e, b5 as f, b6 as ae, U as M, b7 as _e, b8 as Re, K as ke, O as ne, h as $, r as v, b9 as Ae, ba as C, k as Ee, i as E, bb as Ne, bc as Y, bd as ee, be as Le, bf as Me, bg as Fe, bh as Ve, bi as oe, P as R, T as F, bj as de, t as d, bk as be, bl as se, bm as me, bn as Ge, bo as Ue, bp as ye, bq as je, br as Ce, bs as qe } from "./react-vendor-C1AjJau_.js";
-import { v as Be, w as We } from "./tanstack-vendor-BB7HWJ-3.js";
-import { S as He, C as we, a as Je, E as Ke, I as $e, b as Qe, c as Ze, G as Xe, D as Ye, d as es, e as ss, f as Se, g as ts, h as as, i as ns, j as rs, k as Ie, l as os, m as cs, __tla as __tla_0 } from "./silly-tavern-ui-C8y0dUuM.js";
-import { S as k, C as V, m as _, a as Pe } from "./silly-tavern-db-C6OCLe8X.js";
-import { q as he, r as pe, s as O, C as b, b as S, c as I, d as P, e as y, Z as ls, _ as is, B as x, $ as ds, a0 as G, a1 as U, a2 as q, a3 as B, a4 as W, a5 as H, a6 as J, a7 as K, a8 as Q, a9 as Z, f as z, L as X, I as ge, aa as ms, ab as hs, ac as ce, ad as le, ae as ie, af as ps, ag as fe, ah as T, t as te } from "./app-components-CCuPG-ln.js";
-import { c as xs, a as us } from "./silly-tavern-engine-D0R6Sr8P.js";
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-_0UvqmZ2.js","assets/react-1W-rR8FQ.js","assets/index-zC5F17iY.js","assets/@tanstack-DKuuEdLe.js","assets/vendor-CsGpsoRf.js","assets/dexie-BEWXHaIH.js","assets/app-components-CsAfwMCw.js","assets/icons-1N0m32Tb.js","assets/app-hooks-D4wnnCdG.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-BOJj2ddx.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-BIt54Jc6.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-BHLM3087.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-Daz3Tiae.css"])))=>i.map(i=>d[i]);
+import { _ as h, D as Te } from "./index-zC5F17iY.js";
+import { b as u, l as j, r as Re, L as f, O as ae, f as $, h as ke, i as C, g as Ae, N as Ee, j as Le } from "./@tanstack-DKuuEdLe.js";
+import { j as e, r as v, t as d } from "./react-1W-rR8FQ.js";
+import { k as ne, U as M, H as _e, l as Me, K as Fe, c as E, m as Ne, n as Y, M as ee, o as Ve, p as Ge, q as Ue, r as oe, P as R, T as F, s as de, t as ye, D as se, u as me, v as qe, F as Be, E as be, w as je, x as Ce, y as We } from "./icons-1N0m32Tb.js";
+import { S as He, a as k, C as V, m as _, b as we, c as Je, E as Ke, I as $e, d as Qe, e as Se, f as Ze, g as Xe, h as Ye, G as es, D as ss, i as ts, j as as, k as Ie, l as ns, n as rs, o as os, p as cs, q as Pe, r as ls, s as is, t as ds } from "./app-libs-for-silly-tavern-_0UvqmZ2.js";
+import { q as he, r as pe, s as O, C as y, b as S, c as I, d as P, e as b, Z as ms, _ as hs, B as x, $ as ps, a0 as G, a1 as U, a2 as q, a3 as B, a4 as W, a5 as H, a6 as J, a7 as K, a8 as Q, a9 as Z, f as z, L as X, I as ge, aa as xs, ab as us, ac as ce, ad as le, ae as ie, af as js, ag as fe, ah as T, t as te } from "./app-components-CsAfwMCw.js";
 import { n as De } from "./id-OxPLOBIU.js";
-import { C as js } from "./future-lib-llm-ui-react-jbeTDxFo.js";
-import { e as gs } from "./app-common-DnxDJJb8.js";
-import { e as fs } from "./silly-tavern-shared-DgvARXo1.js";
-let Ks, ha, pa, xa, ua, ja, ga, fa, va, _a, ve, Na, ba, ya, Ca, wa, $a, Sa, Ia, Pa, Da, Oa, za, Ta, Ra, Us, Bs, Hs;
-let __tla = Promise.all([
-  (() => {
-    try {
-      return __tla_0;
-    } catch {
-    }
-  })()
-]).then(async () => {
-  let vs, _s, Ns, bs, ys, Cs, ws, $s, Ss, Is, Ps, Ds, Os, zs, Ts, Rs, ks, As, Es, Ls, Ms, Fs, Vs, Gs, qs, Ws, Js, Qs, Zs;
+import { C as gs } from "./future-lib-llm-ui-react-BOJj2ddx.js";
+import { a as fs } from "./app-lib-BIt54Jc6.js";
+let Ks, da, ma, ha, pa, xa, ua, ja, ga, fa, ve, va, _a, Na, ya, ba, Ca, wa, $a, Sa, Ia, Pa, Da, Oa, za, Us, Bs, Hs;
+let __tla = (async () => {
+  let vs, _s, Ns, ys, bs, Cs, ws, $s, Ss, Is, Ps, Ds, Os, zs, Ts, Rs, ks, As, Es, Ls, Ms, Fs, Vs, Gs, qs, Ws, Js, Qs, Zs;
   vs = () => h(() => Promise.resolve().then(() => Zs), void 0);
-  ha = u("/_layout-game")({
+  da = u("/_layout-game")({
     component: j(vs, "component")
   });
   _s = () => h(() => Promise.resolve().then(() => Ys), void 0);
-  pa = u("/_layout-game/_silly-tavern")({
+  ma = u("/_layout-game/_silly-tavern")({
     head: () => ({
       meta: [
         {
@@ -40,7 +31,7 @@ let __tla = Promise.all([
     component: j(_s, "component")
   });
   Ns = () => h(() => Promise.resolve().then(() => st), void 0);
-  xa = u("/_layout-game/_silly-tavern/")({
+  ha = u("/_layout-game/_silly-tavern/")({
     head: () => ({
       meta: [
         {
@@ -54,8 +45,8 @@ let __tla = Promise.all([
     }),
     component: j(Ns, "component")
   });
-  bs = () => h(() => Promise.resolve().then(() => at), void 0);
-  ua = u("/_layout-game/_silly-tavern/session")({
+  ys = () => h(() => Promise.resolve().then(() => at), void 0);
+  pa = u("/_layout-game/_silly-tavern/session")({
     head: () => ({
       meta: [
         {
@@ -67,10 +58,10 @@ let __tla = Promise.all([
         }
       ]
     }),
-    component: j(bs, "component")
+    component: j(ys, "component")
   });
-  ys = () => h(() => Promise.resolve().then(() => rt), void 0);
-  ja = u("/_layout-game/_silly-tavern/plaza")({
+  bs = () => h(() => Promise.resolve().then(() => rt), void 0);
+  xa = u("/_layout-game/_silly-tavern/plaza")({
     head: () => ({
       meta: [
         {
@@ -82,10 +73,10 @@ let __tla = Promise.all([
         }
       ]
     }),
-    component: j(ys, "component")
+    component: j(bs, "component")
   });
   Cs = () => h(() => Promise.resolve().then(() => ct), void 0);
-  ga = u("/_layout-game/_silly-tavern/create")({
+  ua = u("/_layout-game/_silly-tavern/create")({
     head: () => ({
       meta: [
         {
@@ -100,7 +91,7 @@ let __tla = Promise.all([
     component: j(Cs, "component")
   });
   ws = () => h(() => Promise.resolve().then(() => it), void 0);
-  fa = u("/_layout-game/_silly-tavern/config")({
+  ja = u("/_layout-game/_silly-tavern/config")({
     head: () => ({
       meta: [
         {
@@ -114,7 +105,7 @@ let __tla = Promise.all([
     }),
     component: j(ws, "component")
   });
-  va = u("/_layout-game/_silly-tavern/plaza/")({
+  ga = u("/_layout-game/_silly-tavern/plaza/")({
     head: () => ({
       meta: [
         {
@@ -127,13 +118,13 @@ let __tla = Promise.all([
       ]
     }),
     beforeLoad: () => {
-      throw Be({
+      throw Re({
         to: "/plaza/characters"
       });
     }
   });
   $s = () => h(() => Promise.resolve().then(() => mt), void 0);
-  _a = u("/_layout-game/_silly-tavern/config/")({
+  fa = u("/_layout-game/_silly-tavern/config/")({
     component: j($s, "component")
   });
   Ss = () => h(() => Promise.resolve().then(() => ft), void 0);
@@ -152,7 +143,7 @@ let __tla = Promise.all([
     component: j(Ss, "component")
   });
   Is = () => h(() => Promise.resolve().then(() => _t), void 0);
-  Na = u("/_layout-game/_silly-tavern/plaza/small-town")({
+  va = u("/_layout-game/_silly-tavern/plaza/small-town")({
     head: () => ({
       meta: [
         {
@@ -166,8 +157,8 @@ let __tla = Promise.all([
     }),
     component: j(Is, "component")
   });
-  Ps = () => h(() => Promise.resolve().then(() => bt), void 0);
-  ba = u("/_layout-game/_silly-tavern/plaza/group-chat")({
+  Ps = () => h(() => Promise.resolve().then(() => yt), void 0);
+  _a = u("/_layout-game/_silly-tavern/plaza/group-chat")({
     head: () => ({
       meta: [
         {
@@ -182,7 +173,7 @@ let __tla = Promise.all([
     component: j(Ps, "component")
   });
   Ds = () => h(() => Promise.resolve().then(() => Ct), void 0);
-  ya = u("/_layout-game/_silly-tavern/plaza/dnd")({
+  Na = u("/_layout-game/_silly-tavern/plaza/dnd")({
     head: () => ({
       meta: [
         {
@@ -197,7 +188,7 @@ let __tla = Promise.all([
     component: j(Ds, "component")
   });
   Os = () => h(() => Promise.resolve().then(() => $t), void 0);
-  Ca = u("/_layout-game/_silly-tavern/plaza/characters")({
+  ya = u("/_layout-game/_silly-tavern/plaza/characters")({
     head: () => ({
       meta: [
         {
@@ -212,7 +203,7 @@ let __tla = Promise.all([
     component: j(Os, "component")
   });
   zs = () => h(() => Promise.resolve().then(() => It), void 0);
-  wa = u("/_layout-game/_silly-tavern/plaza/challenges")({
+  ba = u("/_layout-game/_silly-tavern/plaza/challenges")({
     head: () => ({
       meta: [
         {
@@ -227,7 +218,7 @@ let __tla = Promise.all([
     component: j(zs, "component")
   });
   Ts = () => h(() => Promise.resolve().then(() => Dt), void 0);
-  $a = u("/_layout-game/_silly-tavern/create_/small-town")({
+  Ca = u("/_layout-game/_silly-tavern/create_/small-town")({
     head: () => ({
       meta: [
         {
@@ -242,7 +233,7 @@ let __tla = Promise.all([
     component: j(Ts, "component")
   });
   Rs = () => h(() => Promise.resolve().then(() => zt), void 0);
-  Sa = u("/_layout-game/_silly-tavern/create_/group-chat")({
+  wa = u("/_layout-game/_silly-tavern/create_/group-chat")({
     head: () => ({
       meta: [
         {
@@ -257,7 +248,7 @@ let __tla = Promise.all([
     component: j(Rs, "component")
   });
   ks = () => h(() => Promise.resolve().then(() => Rt), void 0);
-  Ia = u("/_layout-game/_silly-tavern/create_/dnd")({
+  $a = u("/_layout-game/_silly-tavern/create_/dnd")({
     head: () => ({
       meta: [
         {
@@ -272,7 +263,7 @@ let __tla = Promise.all([
     component: j(ks, "component")
   });
   As = () => h(() => Promise.resolve().then(() => At), void 0);
-  Pa = u("/_layout-game/_silly-tavern/create_/chat-character")({
+  Sa = u("/_layout-game/_silly-tavern/create_/chat-character")({
     head: () => ({
       meta: [
         {
@@ -287,7 +278,7 @@ let __tla = Promise.all([
     component: j(As, "component")
   });
   Es = () => h(() => Promise.resolve().then(() => Lt), void 0);
-  Da = u("/_layout-game/_silly-tavern/create_/chat-challenge")({
+  Ia = u("/_layout-game/_silly-tavern/create_/chat-challenge")({
     head: () => ({
       meta: [
         {
@@ -302,7 +293,7 @@ let __tla = Promise.all([
     component: j(Es, "component")
   });
   Ls = () => h(() => Promise.resolve().then(() => Ft), void 0);
-  Oa = u("/_layout-game/_silly-tavern/create_/character")({
+  Pa = u("/_layout-game/_silly-tavern/create_/character")({
     head: () => ({
       meta: [
         {
@@ -317,7 +308,7 @@ let __tla = Promise.all([
     component: j(Ls, "component")
   });
   Ms = () => h(() => Promise.resolve().then(() => Gt), void 0);
-  za = u("/_layout-game/_silly-tavern/create_/challenge")({
+  Da = u("/_layout-game/_silly-tavern/create_/challenge")({
     head: () => ({
       meta: [
         {
@@ -332,7 +323,7 @@ let __tla = Promise.all([
     component: j(Ms, "component")
   });
   Fs = () => h(() => Promise.resolve().then(() => qt), void 0);
-  Ta = u("/_layout-game/_silly-tavern/config/settings")({
+  Oa = u("/_layout-game/_silly-tavern/config/settings")({
     head: () => ({
       meta: [
         {
@@ -347,7 +338,7 @@ let __tla = Promise.all([
     component: j(Fs, "component")
   });
   Vs = () => h(() => Promise.resolve().then(() => Wt), void 0);
-  Ra = u("/_layout-game/_silly-tavern/config/overview")({
+  za = u("/_layout-game/_silly-tavern/config/overview")({
     head: () => ({
       meta: [
         {
@@ -442,7 +433,7 @@ let __tla = Promise.all([
                   to: "/",
                   className: "flex items-center gap-2 font-bold text-lg mr-6",
                   children: [
-                    e.jsx(ae, {
+                    e.jsx(ne, {
                       className: "w-5 h-5 text-primary"
                     }),
                     e.jsx("span", {
@@ -477,7 +468,7 @@ let __tla = Promise.all([
                       to: "/session",
                       className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
                       children: [
-                        e.jsx(Re, {
+                        e.jsx(Me, {
                           className: "w-4 h-4"
                         }),
                         "\u4F1A\u8BDD"
@@ -493,7 +484,7 @@ let __tla = Promise.all([
                 to: "/invitation",
                 className: "px-3 py-1.5 text-xs font-medium rounded-md text-muted-foreground hover:text-foreground hover:bg-muted transition-colors flex items-center gap-2",
                 children: [
-                  e.jsx(ke, {
+                  e.jsx(Fe, {
                     className: "w-3.5 h-3.5"
                   }),
                   "\u9080\u8BF7\u7801"
@@ -504,7 +495,7 @@ let __tla = Promise.all([
         }),
         e.jsx("main", {
           className: "grow overflow-auto flex flex-col",
-          children: e.jsx(ne, {})
+          children: e.jsx(ae, {})
         })
       ]
     });
@@ -535,7 +526,7 @@ let __tla = Promise.all([
             e.jsx("div", {
               className: "absolute -inset-1 rounded-full bg-primary/20 blur-xl animate-pulse"
             }),
-            e.jsx(ae, {
+            e.jsx(ne, {
               className: "w-20 h-20 text-primary relative"
             })
           ]
@@ -569,7 +560,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function tt() {
-    const t = $(), { sessionId: r } = Ae({
+    const t = $(), { sessionId: r } = ke({
       strict: false
     }), { data: i = [] } = C((l) => l.from({
       s: k
@@ -606,7 +597,7 @@ let __tla = Promise.all([
         }),
         e.jsx("div", {
           className: "grow overflow-hidden relative",
-          children: e.jsx(ne, {})
+          children: e.jsx(ae, {})
         })
       ]
     });
@@ -618,7 +609,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function nt() {
-    const t = Ee(), r = t.pathname.includes("challenges") ? "challenges" : t.pathname.includes("group-chat") ? "group-chat" : t.pathname.includes("dnd") ? "dnd" : t.pathname.includes("small-town") ? "small-town" : "characters";
+    const t = Ae(), r = t.pathname.includes("challenges") ? "challenges" : t.pathname.includes("group-chat") ? "group-chat" : t.pathname.includes("dnd") ? "dnd" : t.pathname.includes("small-town") ? "small-town" : "characters";
     return e.jsxs("div", {
       className: "flex flex-col h-full overflow-y-auto",
       children: [
@@ -674,7 +665,7 @@ let __tla = Promise.all([
         }),
         e.jsx("div", {
           className: "p-6",
-          children: e.jsx(ne, {})
+          children: e.jsx(ae, {})
         })
       ]
     });
@@ -712,7 +703,7 @@ let __tla = Promise.all([
           children: [
             e.jsx(f, {
               to: "/create/character",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -728,7 +719,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
@@ -744,7 +735,7 @@ let __tla = Promise.all([
             }),
             e.jsx(f, {
               to: "/create/challenge",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -760,7 +751,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
@@ -776,7 +767,7 @@ let __tla = Promise.all([
             }),
             e.jsx(f, {
               to: "/create/dnd",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-amber-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -792,7 +783,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-amber-600",
                       children: [
@@ -808,7 +799,7 @@ let __tla = Promise.all([
             }),
             e.jsx(f, {
               to: "/create/group-chat",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-violet-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -824,7 +815,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-violet-500",
                       children: [
@@ -840,12 +831,12 @@ let __tla = Promise.all([
             }),
             e.jsx(f, {
               to: "/create/chat-character",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-emerald-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(Le, {
+                      e.jsx(Ve, {
                         className: "w-10 h-10 mb-2 text-emerald-500 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -856,7 +847,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-emerald-500",
                       children: [
@@ -872,12 +863,12 @@ let __tla = Promise.all([
             }),
             e.jsx(f, {
               to: "/create/chat-challenge",
-              children: e.jsxs(b, {
+              children: e.jsxs(y, {
                 className: "hover:border-orange-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(Me, {
+                      e.jsx(Ge, {
                         className: "w-10 h-10 mb-2 text-orange-500 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -888,7 +879,7 @@ let __tla = Promise.all([
                       })
                     ]
                   }),
-                  e.jsx(y, {
+                  e.jsx(b, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-orange-500",
                       children: [
@@ -950,22 +941,22 @@ let __tla = Promise.all([
           className: "hidden md:block w-64 p-4 bg-foreground/5 overflow-y-auto",
           children: i
         }),
-        e.jsxs(ls, {
+        e.jsxs(ms, {
           open: t,
           onOpenChange: r,
           children: [
-            e.jsx(is, {
+            e.jsx(hs, {
               asChild: true,
               children: e.jsx(x, {
                 variant: "outline",
                 size: "icon",
                 className: "md:hidden fixed bottom-8 left-8 rounded-full shadow-lg z-50",
-                children: e.jsx(Fe, {
+                children: e.jsx(Ue, {
                   className: "h-4 w-4"
                 })
               })
             }),
-            e.jsx(ds, {
+            e.jsx(ps, {
               side: "left",
               className: "w-64 p-4 overflow-y-auto",
               children: i
@@ -974,7 +965,7 @@ let __tla = Promise.all([
         }),
         e.jsx("main", {
           className: "flex-1 p-4 lg:px-8 xl:px-12 overflow-auto",
-          children: e.jsx(ne, {})
+          children: e.jsx(ae, {})
         })
       ]
     });
@@ -986,7 +977,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function dt() {
-    return e.jsx(Ve, {
+    return e.jsx(Ee, {
       to: "/config/overview"
     });
   }
@@ -995,37 +986,22 @@ let __tla = Promise.all([
     component: dt
   }, Symbol.toStringTag, {
     value: "Module"
-  })), ht = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
-    await m.__tla;
-    return m;
-  }).then((t) => t.n), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+  })), ht = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-_0UvqmZ2.js").then((t) => t.u), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForChat
-  }))), pt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
-    await m.__tla;
-    return m;
-  }).then((t) => t.o), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+  }))), pt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-_0UvqmZ2.js").then((t) => t.v), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForChallenge
-  }))), xt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
-    await m.__tla;
-    return m;
-  }).then((t) => t.p), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+  }))), xt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-_0UvqmZ2.js").then((t) => t.w), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForDnd
-  }))), ut = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
-    await m.__tla;
-    return m;
-  }).then((t) => t.q), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+  }))), ut = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-_0UvqmZ2.js").then((t) => t.x), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForGroupChat
-  }))), jt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
-    await m.__tla;
-    return m;
-  }).then((t) => t.r), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+  }))), jt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-_0UvqmZ2.js").then((t) => t.y), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
     default: t.SessionMainForSmallTown
   })));
   function gt() {
     var _a2;
     const { sessionId: t } = ve.useParams(), r = ve.useSearch(), { data: i = [] } = C((l) => l.from({
       s: k
-    }).where(({ s: n }) => We(n.id, t))), s = ((_a2 = i[0]) == null ? void 0 : _a2.mode) || r.mode, c = s === "dnd" ? "dnd" : s === "small-town" ? "small-town" : void 0, p = e.jsx(v.Suspense, {
+    }).where(({ s: n }) => Le(n.id, t))), s = ((_a2 = i[0]) == null ? void 0 : _a2.mode) || r.mode, c = s === "dnd" ? "dnd" : s === "small-town" ? "small-town" : void 0, p = e.jsx(v.Suspense, {
       fallback: e.jsx("div", {
         className: "flex flex-col items-center justify-center h-full text-muted-foreground space-y-4",
         children: e.jsx("p", {
@@ -1110,7 +1086,7 @@ let __tla = Promise.all([
             children: i.map((s) => {
               var _a2, _b, _c, _d;
               const c = ((_a2 = s.modeConfig) == null ? void 0 : _a2.worldName) || "\u672A\u547D\u540D\u5C0F\u9547", p = ((_b = s.modeConfig) == null ? void 0 : _b.characterSnapshots) || [], l = ((_d = (_c = s.modeState) == null ? void 0 : _c.gameTime) == null ? void 0 : _d.day) || 1;
-              return e.jsxs(b, {
+              return e.jsxs(y, {
                 className: "cursor-pointer hover:border-amber-500/50 transition-colors group relative",
                 onClick: () => t({
                   to: "/session/$sessionId",
@@ -1203,7 +1179,7 @@ let __tla = Promise.all([
                       ]
                     })
                   }),
-                  e.jsxs(y, {
+                  e.jsxs(b, {
                     className: "pt-0",
                     children: [
                       e.jsxs("div", {
@@ -1255,9 +1231,9 @@ let __tla = Promise.all([
                 ]
               }, s.id);
             })
-          }) : e.jsx(b, {
+          }) : e.jsx(y, {
             className: "border-dashed",
-            children: e.jsxs(y, {
+            children: e.jsxs(b, {
               className: "py-16 text-center",
               children: [
                 e.jsx(oe, {
@@ -1347,7 +1323,7 @@ let __tla = Promise.all([
           children: i.map((s) => {
             var _a2, _b, _c;
             const c = ((_a2 = s.modeConfig) == null ? void 0 : _a2.topic) || "\u7FA4\u804A", p = ((_b = s.modeConfig) == null ? void 0 : _b.participantSnapshots) || [], l = ((_c = s.modeState) == null ? void 0 : _c.messageCount) || 0;
-            return e.jsxs(b, {
+            return e.jsxs(y, {
               className: "cursor-pointer hover:border-violet-500/50 transition-colors group relative",
               onClick: () => t({
                 to: "/session/$sessionId",
@@ -1439,7 +1415,7 @@ let __tla = Promise.all([
                     ]
                   })
                 }),
-                e.jsxs(y, {
+                e.jsxs(b, {
                   className: "pt-0",
                   children: [
                     e.jsxs("div", {
@@ -1491,9 +1467,9 @@ let __tla = Promise.all([
               ]
             }, s.id);
           })
-        }) : e.jsx(b, {
+        }) : e.jsx(y, {
           className: "border-dashed",
-          children: e.jsxs(y, {
+          children: e.jsxs(b, {
             className: "py-16 text-center",
             children: [
               e.jsx(ee, {
@@ -1523,13 +1499,13 @@ let __tla = Promise.all([
       ]
     });
   }
-  const bt = Object.freeze(Object.defineProperty({
+  const yt = Object.freeze(Object.defineProperty({
     __proto__: null,
     component: Nt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function yt() {
+  function bt() {
     const t = $(), { data: r = [] } = C((s) => s.from({
       s: k
     })), i = r.filter((s) => s.mode === "dnd").sort((s, c) => c.updatedAt - s.updatedAt), a = async (s) => {
@@ -1584,7 +1560,7 @@ let __tla = Promise.all([
             children: i.map((s) => {
               var _a2, _b, _c, _d, _e2;
               const c = ((_b = (_a2 = s.modeConfig) == null ? void 0 : _a2.worldSnapshot) == null ? void 0 : _b.name) || "\u672A\u547D\u540D\u5192\u9669", p = ((_c = s.modeConfig) == null ? void 0 : _c.gameMode) || "standard", l = ((_d = s.modeConfig) == null ? void 0 : _d.playerCharacterSnapshots) || [], n = ((_e2 = s.modeState) == null ? void 0 : _e2.currentRound) || 1;
-              return e.jsxs(b, {
+              return e.jsxs(y, {
                 className: "cursor-pointer hover:border-amber-500/50 transition-colors group relative",
                 onClick: () => t({
                   to: "/session/$sessionId",
@@ -1678,7 +1654,7 @@ let __tla = Promise.all([
                       ]
                     })
                   }),
-                  e.jsxs(y, {
+                  e.jsxs(b, {
                     className: "pt-0",
                     children: [
                       e.jsxs("div", {
@@ -1730,9 +1706,9 @@ let __tla = Promise.all([
                 ]
               }, s.id);
             })
-          }) : e.jsx(b, {
+          }) : e.jsx(y, {
             className: "border-dashed",
-            children: e.jsxs(y, {
+            children: e.jsxs(b, {
               className: "py-16 text-center",
               children: [
                 e.jsx(Y, {
@@ -1765,7 +1741,7 @@ let __tla = Promise.all([
   }
   const Ct = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: yt
+    component: bt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
@@ -1795,7 +1771,7 @@ let __tla = Promise.all([
     }, l = async () => {
       try {
         let o = 0;
-        for (const w of xs) try {
+        for (const w of Qe) try {
           await _.characters.add(w), o++;
         } catch (L) {
           console.error(`Failed to import preset ${w.name}:`, L);
@@ -1814,7 +1790,7 @@ let __tla = Promise.all([
           type: "button",
           onClick: () => i(true),
           children: [
-            e.jsx(be, {
+            e.jsx(ye, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u89D2\u8272"
@@ -1827,7 +1803,7 @@ let __tla = Promise.all([
           type: "button",
           onClick: l,
           children: [
-            e.jsx(ae, {
+            e.jsx(ne, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
@@ -1881,7 +1857,7 @@ let __tla = Promise.all([
   }));
   function St() {
     const t = $(), [r, i] = v.useState(false), { data: a = [] } = C((n) => n.from({
-      c: Pe
+      c: Se
     })), s = (n) => {
       t({
         to: "/challenges/$challengeId",
@@ -1899,7 +1875,7 @@ let __tla = Promise.all([
     }, p = async () => {
       try {
         let n = 0;
-        for (const o of us) try {
+        for (const o of Xe) try {
           await _.challenges.add(o), n++;
         } catch (w) {
           console.error(`Failed to import preset ${o.name}:`, w);
@@ -1918,7 +1894,7 @@ let __tla = Promise.all([
           type: "button",
           onClick: () => i(true),
           children: [
-            e.jsx(be, {
+            e.jsx(ye, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u6311\u6218"
@@ -1931,7 +1907,7 @@ let __tla = Promise.all([
           type: "button",
           onClick: p,
           children: [
-            e.jsx(ae, {
+            e.jsx(ne, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
@@ -1986,7 +1962,7 @@ let __tla = Promise.all([
         },
         getTags: (n) => n.tags || [],
         getId: (n) => n.id,
-        renderCard: (n) => e.jsx(Qe, {
+        renderCard: (n) => e.jsx(Ze, {
           challenge: n,
           onClick: c,
           onStartSession: s
@@ -2005,7 +1981,7 @@ let __tla = Promise.all([
       requiredFeature: "small-town",
       children: e.jsx("div", {
         className: "p-6 relative",
-        children: e.jsx(Ze, {})
+        children: e.jsx(Ye, {})
       })
     });
   }
@@ -2018,7 +1994,7 @@ let __tla = Promise.all([
   function Ot() {
     return e.jsx("div", {
       className: "p-6",
-      children: e.jsx(Xe, {})
+      children: e.jsx(es, {})
     });
   }
   const zt = Object.freeze(Object.defineProperty({
@@ -2032,7 +2008,7 @@ let __tla = Promise.all([
       requiredFeature: "dnd",
       children: e.jsx("div", {
         className: "p-6 relative",
-        children: e.jsx(Ye, {})
+        children: e.jsx(ss, {})
       })
     });
   }
@@ -2043,7 +2019,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function kt() {
-    return e.jsx(es, {});
+    return e.jsx(ts, {});
   }
   const At = Object.freeze(Object.defineProperty({
     __proto__: null,
@@ -2052,7 +2028,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function Et() {
-    return e.jsx(ss, {});
+    return e.jsx(as, {});
   }
   const Lt = Object.freeze(Object.defineProperty({
     __proto__: null,
@@ -2110,7 +2086,7 @@ let __tla = Promise.all([
     };
     return e.jsx("div", {
       className: "p-6 w-full max-w-5xl mx-auto",
-      children: e.jsx(Se, {
+      children: e.jsx(Ie, {
         className: "w-full",
         onSave: r,
         onCancel: i,
@@ -2146,7 +2122,7 @@ let __tla = Promise.all([
     };
     return e.jsx("div", {
       className: "p-6 relative",
-      children: e.jsx(ts, {
+      children: e.jsx(ns, {
         onSave: r,
         onCancel: i
       })
@@ -2183,7 +2159,7 @@ let __tla = Promise.all([
           className: "text-muted-foreground",
           children: "\u7BA1\u7406\u5E94\u7528\u7684\u57FA\u672C\u914D\u7F6E\u548C\u504F\u597D\u8BBE\u7F6E\u3002"
         }),
-        e.jsxs(b, {
+        e.jsxs(y, {
           children: [
             e.jsxs(S, {
               children: [
@@ -2195,7 +2171,7 @@ let __tla = Promise.all([
                 })
               ]
             }),
-            e.jsxs(y, {
+            e.jsxs(b, {
               className: "space-y-4",
               children: [
                 e.jsxs("div", {
@@ -2238,7 +2214,7 @@ let __tla = Promise.all([
                       htmlFor: i,
                       children: "\u63CF\u8FF0"
                     }),
-                    e.jsx(ms, {
+                    e.jsx(xs, {
                       id: i,
                       value: s.description,
                       onChange: (n) => l("description", n.target.value),
@@ -2249,7 +2225,7 @@ let __tla = Promise.all([
                 e.jsxs("div", {
                   className: "flex items-center space-x-2",
                   children: [
-                    e.jsx(hs, {
+                    e.jsx(us, {
                       id: a,
                       checked: s.enableNotifications,
                       onCheckedChange: (n) => l("enableNotifications", n)
@@ -2298,7 +2274,7 @@ let __tla = Promise.all([
         }),
         e.jsx("div", {
           className: "grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4",
-          children: t.map((r) => e.jsxs(b, {
+          children: t.map((r) => e.jsxs(y, {
             className: "hover:shadow-md transition-shadow",
             children: [
               e.jsx(S, {
@@ -2307,7 +2283,7 @@ let __tla = Promise.all([
                   children: r.name
                 })
               }),
-              e.jsxs(y, {
+              e.jsxs(b, {
                 children: [
                   e.jsx(P, {
                     className: "mb-4",
@@ -2335,7 +2311,7 @@ let __tla = Promise.all([
     value: "Module"
   }));
   function Ht() {
-    const t = Us.useNavigate(), { config: r, setConfig: i, models: a, isFetchingModels: s, fetchModels: c, customParamList: p, addCustomParam: l, updateCustomParam: n, removeCustomParam: o } = gs();
+    const t = Us.useNavigate(), { config: r, setConfig: i, models: a, isFetchingModels: s, fetchModels: c, customParamList: p, addCustomParam: l, updateCustomParam: n, removeCustomParam: o } = fs();
     return e.jsxs("div", {
       className: "container max-w-4xl mx-auto p-4 space-y-6",
       children: [
@@ -2354,7 +2330,7 @@ let __tla = Promise.all([
             })
           ]
         }),
-        e.jsx(js, {
+        e.jsx(gs, {
           config: r,
           setConfig: i,
           models: a,
@@ -2458,7 +2434,7 @@ let __tla = Promise.all([
           d.error("\u8BE5\u89D2\u8272\u6CA1\u6709\u5934\u50CF\u56FE\u7247\uFF0C\u65E0\u6CD5\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361");
           return;
         }
-        const m = fs(s), N = URL.createObjectURL(m), D = document.createElement("a");
+        const m = ls(s), N = URL.createObjectURL(m), D = document.createElement("a");
         D.href = N, D.download = `${s.name}.png`, D.click(), URL.revokeObjectURL(N), d.success(`\u89D2\u8272 ${s.name} \u5DF2\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361`);
       } catch (m) {
         console.error(m), d.error("\u5BFC\u51FA PNG \u89D2\u8272\u5361\u5931\u8D25");
@@ -2519,25 +2495,25 @@ let __tla = Promise.all([
                       align: "end",
                       className: "w-56",
                       children: [
-                        e.jsx(ps, {
+                        e.jsx(js, {
                           children: "\u9009\u62E9\u5BFC\u51FA\u683C\u5F0F"
                         }),
                         e.jsx(fe, {}),
                         e.jsxs(T, {
                           onClick: L,
                           children: [
-                            e.jsx(Ge, {
+                            e.jsx(qe, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5BFC\u51FA PNG \u89D2\u8272\u5361 (\u63A8\u8350)"
                           ]
                         }),
-                        e.jsx(as, {
+                        e.jsx(rs, {
                           character: s,
                           trigger: e.jsxs(T, {
                             onSelect: (m) => m.preventDefault(),
                             children: [
-                              e.jsx(Ue, {
+                              e.jsx(Be, {
                                 className: "mr-2 h-4 w-4"
                               }),
                               " \u5BFC\u51FA JSON \u539F\u59CB\u6570\u636E"
@@ -2557,7 +2533,7 @@ let __tla = Promise.all([
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(ye, {
+                        children: e.jsx(be, {
                           className: "w-4 h-4"
                         })
                       })
@@ -2653,7 +2629,7 @@ let __tla = Promise.all([
                 src: s.imageBase64 || s.avatar,
                 alt: s.name,
                 className: "w-full h-full object-cover"
-              }) : e.jsx(qe, {
+              }) : e.jsx(We, {
                 className: "w-20 h-20 text-muted-foreground/30"
               })
             }),
@@ -2739,7 +2715,7 @@ let __tla = Promise.all([
               className: "mt-0",
               children: e.jsx("div", {
                 className: "grid grid-cols-1 md:grid-cols-1 gap-8",
-                children: e.jsx(ns, {
+                children: e.jsx(os, {
                   characterId: s.id,
                   sessions: c,
                   onStartNew: n
@@ -2749,13 +2725,13 @@ let __tla = Promise.all([
             e.jsx(te, {
               value: "details",
               className: "mt-0",
-              children: e.jsx(rs, {
+              children: e.jsx(cs, {
                 character: s
               })
             })
           ]
         }),
-        e.jsx(Ie, {
+        e.jsx(Pe, {
           open: p,
           onOpenChange: l,
           wizardProps: w
@@ -2772,7 +2748,7 @@ let __tla = Promise.all([
   function Zt() {
     var _a2;
     const { challengeId: t } = Hs.useParams(), r = $(), { data: i = [] } = C((g) => g.from({
-      c: Pe
+      c: Se
     })), a = i.find((g) => g.id === t), { data: s = [] } = C((g) => g.from({
       s: k
     })), { data: c = [] } = C((g) => g.from({
@@ -2904,7 +2880,7 @@ let __tla = Promise.all([
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(ye, {
+                        children: e.jsx(be, {
                           className: "w-4 h-4"
                         })
                       })
@@ -3058,14 +3034,14 @@ let __tla = Promise.all([
             e.jsx(te, {
               value: "details",
               className: "mt-0",
-              children: e.jsx(os, {
+              children: e.jsx(is, {
                 challenge: a
               })
             }),
             e.jsx(te, {
               value: "sessions",
               className: "mt-0",
-              children: e.jsx(cs, {
+              children: e.jsx(ds, {
                 challengeId: a.id,
                 sessions: p,
                 characters: c,
@@ -3074,7 +3050,7 @@ let __tla = Promise.all([
             })
           ]
         }),
-        N && e.jsx(Ie, {
+        N && e.jsx(Pe, {
           open: l,
           onOpenChange: n,
           wizardProps: N
@@ -3162,7 +3138,7 @@ let __tla = Promise.all([
             })
           ]
         }),
-        e.jsx(Se, {
+        e.jsx(Ie, {
           onSave: s,
           onCancel: c,
           initialData: p,
@@ -3177,34 +3153,34 @@ let __tla = Promise.all([
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-});
+})();
 export {
   Ks as A,
-  ha as R,
+  da as R,
   __tla,
-  pa as a,
-  xa as b,
-  ua as c,
-  ja as d,
-  ga as e,
-  fa as f,
-  va as g,
-  _a as h,
+  ma as a,
+  ha as b,
+  pa as c,
+  xa as d,
+  ua as e,
+  ja as f,
+  ga as g,
+  fa as h,
   ve as i,
-  Na as j,
-  ba as k,
-  ya as l,
-  Ca as m,
-  wa as n,
-  $a as o,
-  Sa as p,
-  Ia as q,
-  Pa as r,
-  Da as s,
-  Oa as t,
-  za as u,
-  Ta as v,
-  Ra as w,
+  va as j,
+  _a as k,
+  Na as l,
+  ya as m,
+  ba as n,
+  Ca as o,
+  wa as p,
+  $a as q,
+  Sa as r,
+  Ia as s,
+  Pa as t,
+  Da as u,
+  Oa as v,
+  za as w,
   Us as x,
   Bs as y,
   Hs as z
