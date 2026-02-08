@@ -1,22 +1,31 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/app-libs-for-silly-tavern-i0UZarqU.js","assets/react-BkMll9ak.js","assets/index-qDtb5hba.js","assets/@tanstack-DqEpoJTo.js","assets/vendor-CVkKsKZm.js","assets/dexie-W78agt0s.js","assets/app-components-CKzP6Gne.js","assets/icons-GagDs9Wh.js","assets/app-hooks-ChKnEqbU.js","assets/id-OxPLOBIU.js","assets/future-lib-llm-ui-react-CX97G2iQ.js","assets/es-toolkit-CstbrnlE.js","assets/app-lib-Ba99BpAZ.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/zod-grrOrvCS.js","assets/app-libs-for-custom-theme-BtWO53Bi.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/app-styles-CsdnAEuD.css"])))=>i.map(i=>d[i]);
-import { _ as h, D as Oe } from "./index-qDtb5hba.js";
-import { g as u, l as j, r as ze, L as f, O as W, e as $, h as Re, i as y, f as ke, N as Te, j as Ae } from "./@tanstack-DqEpoJTo.js";
-import { j as e, r as v, t as m } from "./react-BkMll9ak.js";
-import { f as q, U as H, H as je, g as Ee, a as T, h as fe, i as F, M as U, j as Le, k as Me, l as Ve, P as A, m as J, n as ve, o as _e, D as G, p as le, q as Fe, F as Ue, E as Ne, r as pe, s as ye, t as Ge } from "./icons-GagDs9Wh.js";
-import { S as Be, a as E, C as M, m as N, b as be, c as We, E as qe, I as Ce, d as He, e as we, f as Je, g as Qe, G as Ke, D as Xe, h as Ye, i as Ze, j as $e, k as es, l as ss, n as ts, o as as, p as Se, q as ns, r as rs, s as os } from "./app-libs-for-silly-tavern-i0UZarqU.js";
-import { y as ie, z as de, A as z, C, E as S, F as I, G as P, H as w, S as cs, J as ls, B as p, K as is, L as Q, N as K, O as X, P as Y, Q as Z, R as ee, U as se, V as te, W as ae, d as R, X as V, f as xe, Y as ds, Z as ms, _ as re, $ as oe, a0 as ce, a1 as hs, a2 as ue, a3 as O, a4 as B } from "./app-components-CKzP6Gne.js";
-import { n as Ie } from "./id-OxPLOBIU.js";
-import { C as ps } from "./future-lib-llm-ui-react-CX97G2iQ.js";
-import { a as xs } from "./app-lib-Ba99BpAZ.js";
-let Zt, ea, sa, ta, aa, na, ra, oa, ca, ge, la, ia, da, ma, ha, pa, xa, ua, ga, ja, fa, va, Es, Ms, Fs, Gs;
-let __tla = (async () => {
-  let us, gs, js, fs, vs, _s, Ns, ys, bs, Cs, ws, $s, Ss, Is, Ps, Ds, Os, zs, Rs, ks, Ts, As, Ls, Vs, Us, Bs, Ws;
-  us = () => h(() => Promise.resolve().then(() => Ws), void 0);
-  Zt = u("/_layout-game")({
-    component: j(us, "component")
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/silly-tavern-ui-C8y0dUuM.js","assets/react-vendor-C1AjJau_.js","assets/index-BwbnRfon.js","assets/tanstack-vendor-BB7HWJ-3.js","assets/vendor-VvUkZRdw.js","assets/app-components-CCuPG-ln.js","assets/app-common-DnxDJJb8.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/id-OxPLOBIU.js","assets/es-toolkit-CstbrnlE.js","assets/future-lib-llm-ui-react-jbeTDxFo.js","assets/@tanstack-Bw4lGhTw.js","assets/dexie-Ca-96kR6.js","assets/zod-grrOrvCS.js","assets/app-common-Daz3Tiae.css","assets/app-libs-for-custom-theme-CQCQ3KAn.js","assets/gsap-DDlvirwQ.js","assets/app-components-DvwNuPEv.css","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/silly-tavern-shared-DgvARXo1.js","assets/silly-tavern-db-C6OCLe8X.js","assets/silly-tavern-engine-D0R6Sr8P.js"])))=>i.map(i=>d[i]);
+import { _ as h, D as Te } from "./index-BwbnRfon.js";
+import { a as u, l as j, j as e, b5 as f, b6 as ae, U as M, b7 as _e, b8 as Re, K as ke, O as ne, h as $, r as v, b9 as Ae, ba as C, k as Ee, i as E, bb as Ne, bc as Y, bd as ee, be as Le, bf as Me, bg as Fe, bh as Ve, bi as oe, P as R, T as F, bj as de, t as d, bk as be, bl as se, bm as me, bn as Ge, bo as Ue, bp as ye, bq as je, br as Ce, bs as qe } from "./react-vendor-C1AjJau_.js";
+import { v as Be, w as We } from "./tanstack-vendor-BB7HWJ-3.js";
+import { S as He, C as we, a as Je, E as Ke, I as $e, b as Qe, c as Ze, G as Xe, D as Ye, d as es, e as ss, f as Se, g as ts, h as as, i as ns, j as rs, k as Ie, l as os, m as cs, __tla as __tla_0 } from "./silly-tavern-ui-C8y0dUuM.js";
+import { S as k, C as V, m as _, a as Pe } from "./silly-tavern-db-C6OCLe8X.js";
+import { q as he, r as pe, s as O, C as b, b as S, c as I, d as P, e as y, Z as ls, _ as is, B as x, $ as ds, a0 as G, a1 as U, a2 as q, a3 as B, a4 as W, a5 as H, a6 as J, a7 as K, a8 as Q, a9 as Z, f as z, L as X, I as ge, aa as ms, ab as hs, ac as ce, ad as le, ae as ie, af as ps, ag as fe, ah as T, t as te } from "./app-components-CCuPG-ln.js";
+import { c as xs, a as us } from "./silly-tavern-engine-D0R6Sr8P.js";
+import { n as De } from "./id-OxPLOBIU.js";
+import { C as js } from "./future-lib-llm-ui-react-jbeTDxFo.js";
+import { e as gs } from "./app-common-DnxDJJb8.js";
+import { e as fs } from "./silly-tavern-shared-DgvARXo1.js";
+let Ks, ha, pa, xa, ua, ja, ga, fa, va, _a, ve, Na, ba, ya, Ca, wa, $a, Sa, Ia, Pa, Da, Oa, za, Ta, Ra, Us, Bs, Hs;
+let __tla = Promise.all([
+  (() => {
+    try {
+      return __tla_0;
+    } catch {
+    }
+  })()
+]).then(async () => {
+  let vs, _s, Ns, bs, ys, Cs, ws, $s, Ss, Is, Ps, Ds, Os, zs, Ts, Rs, ks, As, Es, Ls, Ms, Fs, Vs, Gs, qs, Ws, Js, Qs, Zs;
+  vs = () => h(() => Promise.resolve().then(() => Zs), void 0);
+  ha = u("/_layout-game")({
+    component: j(vs, "component")
   });
-  gs = () => h(() => Promise.resolve().then(() => Hs), void 0);
-  ea = u("/_layout-game/_silly-tavern")({
+  _s = () => h(() => Promise.resolve().then(() => Ys), void 0);
+  pa = u("/_layout-game/_silly-tavern")({
     head: () => ({
       meta: [
         {
@@ -28,10 +37,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(gs, "component")
+    component: j(_s, "component")
   });
-  js = () => h(() => Promise.resolve().then(() => Qs), void 0);
-  sa = u("/_layout-game/_silly-tavern/")({
+  Ns = () => h(() => Promise.resolve().then(() => st), void 0);
+  xa = u("/_layout-game/_silly-tavern/")({
     head: () => ({
       meta: [
         {
@@ -43,10 +52,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(js, "component")
+    component: j(Ns, "component")
   });
-  fs = () => h(() => Promise.resolve().then(() => Xs), void 0);
-  ta = u("/_layout-game/_silly-tavern/session")({
+  bs = () => h(() => Promise.resolve().then(() => at), void 0);
+  ua = u("/_layout-game/_silly-tavern/session")({
     head: () => ({
       meta: [
         {
@@ -58,10 +67,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(fs, "component")
+    component: j(bs, "component")
   });
-  vs = () => h(() => Promise.resolve().then(() => Zs), void 0);
-  aa = u("/_layout-game/_silly-tavern/plaza")({
+  ys = () => h(() => Promise.resolve().then(() => rt), void 0);
+  ja = u("/_layout-game/_silly-tavern/plaza")({
     head: () => ({
       meta: [
         {
@@ -73,10 +82,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(vs, "component")
+    component: j(ys, "component")
   });
-  _s = () => h(() => Promise.resolve().then(() => st), void 0);
-  na = u("/_layout-game/_silly-tavern/create")({
+  Cs = () => h(() => Promise.resolve().then(() => ct), void 0);
+  ga = u("/_layout-game/_silly-tavern/create")({
     head: () => ({
       meta: [
         {
@@ -88,10 +97,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(_s, "component")
+    component: j(Cs, "component")
   });
-  Ns = () => h(() => Promise.resolve().then(() => at), void 0);
-  ra = u("/_layout-game/_silly-tavern/config")({
+  ws = () => h(() => Promise.resolve().then(() => it), void 0);
+  fa = u("/_layout-game/_silly-tavern/config")({
     head: () => ({
       meta: [
         {
@@ -103,9 +112,9 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ns, "component")
+    component: j(ws, "component")
   });
-  oa = u("/_layout-game/_silly-tavern/plaza/")({
+  va = u("/_layout-game/_silly-tavern/plaza/")({
     head: () => ({
       meta: [
         {
@@ -118,17 +127,17 @@ let __tla = (async () => {
       ]
     }),
     beforeLoad: () => {
-      throw ze({
+      throw Be({
         to: "/plaza/characters"
       });
     }
   });
-  ys = () => h(() => Promise.resolve().then(() => rt), void 0);
-  ca = u("/_layout-game/_silly-tavern/config/")({
-    component: j(ys, "component")
+  $s = () => h(() => Promise.resolve().then(() => mt), void 0);
+  _a = u("/_layout-game/_silly-tavern/config/")({
+    component: j($s, "component")
   });
-  bs = () => h(() => Promise.resolve().then(() => mt), void 0);
-  ge = u("/_layout-game/_silly-tavern/session/$sessionId")({
+  Ss = () => h(() => Promise.resolve().then(() => ft), void 0);
+  ve = u("/_layout-game/_silly-tavern/session/$sessionId")({
     head: () => ({
       meta: [
         {
@@ -140,10 +149,25 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(bs, "component")
+    component: j(Ss, "component")
   });
-  Cs = () => h(() => Promise.resolve().then(() => pt), void 0);
-  la = u("/_layout-game/_silly-tavern/plaza/group-chat")({
+  Is = () => h(() => Promise.resolve().then(() => _t), void 0);
+  Na = u("/_layout-game/_silly-tavern/plaza/small-town")({
+    head: () => ({
+      meta: [
+        {
+          title: "\u5C0F\u9547\u6A21\u5F0F | Small Town"
+        },
+        {
+          name: "description",
+          content: "\u591A\u89D2\u8272\u81EA\u4E3B\u751F\u6D3B\u7684\u5C0F\u9547\u6A21\u62DF\u6E38\u620F"
+        }
+      ]
+    }),
+    component: j(Is, "component")
+  });
+  Ps = () => h(() => Promise.resolve().then(() => bt), void 0);
+  ba = u("/_layout-game/_silly-tavern/plaza/group-chat")({
     head: () => ({
       meta: [
         {
@@ -155,10 +179,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Cs, "component")
+    component: j(Ps, "component")
   });
-  ws = () => h(() => Promise.resolve().then(() => ut), void 0);
-  ia = u("/_layout-game/_silly-tavern/plaza/dnd")({
+  Ds = () => h(() => Promise.resolve().then(() => Ct), void 0);
+  ya = u("/_layout-game/_silly-tavern/plaza/dnd")({
     head: () => ({
       meta: [
         {
@@ -170,10 +194,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(ws, "component")
+    component: j(Ds, "component")
   });
-  $s = () => h(() => Promise.resolve().then(() => jt), void 0);
-  da = u("/_layout-game/_silly-tavern/plaza/characters")({
+  Os = () => h(() => Promise.resolve().then(() => $t), void 0);
+  Ca = u("/_layout-game/_silly-tavern/plaza/characters")({
     head: () => ({
       meta: [
         {
@@ -185,10 +209,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j($s, "component")
+    component: j(Os, "component")
   });
-  Ss = () => h(() => Promise.resolve().then(() => vt), void 0);
-  ma = u("/_layout-game/_silly-tavern/plaza/challenges")({
+  zs = () => h(() => Promise.resolve().then(() => It), void 0);
+  wa = u("/_layout-game/_silly-tavern/plaza/challenges")({
     head: () => ({
       meta: [
         {
@@ -200,10 +224,25 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ss, "component")
+    component: j(zs, "component")
   });
-  Is = () => h(() => Promise.resolve().then(() => Nt), void 0);
-  ha = u("/_layout-game/_silly-tavern/create_/group-chat")({
+  Ts = () => h(() => Promise.resolve().then(() => Dt), void 0);
+  $a = u("/_layout-game/_silly-tavern/create_/small-town")({
+    head: () => ({
+      meta: [
+        {
+          title: "\u521B\u5EFA\u5C0F\u9547 | Create Small Town"
+        },
+        {
+          name: "description",
+          content: "\u9009\u62E9\u89D2\u8272\uFF0C\u521B\u5EFA\u4E00\u4E2A\u591A\u89D2\u8272\u81EA\u4E3B\u751F\u6D3B\u7684\u5C0F\u9547\u6A21\u62DF"
+        }
+      ]
+    }),
+    component: j(Ts, "component")
+  });
+  Rs = () => h(() => Promise.resolve().then(() => zt), void 0);
+  Sa = u("/_layout-game/_silly-tavern/create_/group-chat")({
     head: () => ({
       meta: [
         {
@@ -215,10 +254,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Is, "component")
+    component: j(Rs, "component")
   });
-  Ps = () => h(() => Promise.resolve().then(() => bt), void 0);
-  pa = u("/_layout-game/_silly-tavern/create_/dnd")({
+  ks = () => h(() => Promise.resolve().then(() => Rt), void 0);
+  Ia = u("/_layout-game/_silly-tavern/create_/dnd")({
     head: () => ({
       meta: [
         {
@@ -230,10 +269,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ps, "component")
+    component: j(ks, "component")
   });
-  Ds = () => h(() => Promise.resolve().then(() => wt), void 0);
-  xa = u("/_layout-game/_silly-tavern/create_/chat-character")({
+  As = () => h(() => Promise.resolve().then(() => At), void 0);
+  Pa = u("/_layout-game/_silly-tavern/create_/chat-character")({
     head: () => ({
       meta: [
         {
@@ -245,10 +284,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ds, "component")
+    component: j(As, "component")
   });
-  Os = () => h(() => Promise.resolve().then(() => St), void 0);
-  ua = u("/_layout-game/_silly-tavern/create_/chat-challenge")({
+  Es = () => h(() => Promise.resolve().then(() => Lt), void 0);
+  Da = u("/_layout-game/_silly-tavern/create_/chat-challenge")({
     head: () => ({
       meta: [
         {
@@ -260,10 +299,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Os, "component")
+    component: j(Es, "component")
   });
-  zs = () => h(() => Promise.resolve().then(() => Pt), void 0);
-  ga = u("/_layout-game/_silly-tavern/create_/character")({
+  Ls = () => h(() => Promise.resolve().then(() => Ft), void 0);
+  Oa = u("/_layout-game/_silly-tavern/create_/character")({
     head: () => ({
       meta: [
         {
@@ -275,10 +314,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(zs, "component")
+    component: j(Ls, "component")
   });
-  Rs = () => h(() => Promise.resolve().then(() => Ot), void 0);
-  ja = u("/_layout-game/_silly-tavern/create_/challenge")({
+  Ms = () => h(() => Promise.resolve().then(() => Gt), void 0);
+  za = u("/_layout-game/_silly-tavern/create_/challenge")({
     head: () => ({
       meta: [
         {
@@ -290,10 +329,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Rs, "component")
+    component: j(Ms, "component")
   });
-  ks = () => h(() => Promise.resolve().then(() => Rt), void 0);
-  fa = u("/_layout-game/_silly-tavern/config/settings")({
+  Fs = () => h(() => Promise.resolve().then(() => qt), void 0);
+  Ta = u("/_layout-game/_silly-tavern/config/settings")({
     head: () => ({
       meta: [
         {
@@ -305,10 +344,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(ks, "component")
+    component: j(Fs, "component")
   });
-  Ts = () => h(() => Promise.resolve().then(() => Tt), void 0);
-  va = u("/_layout-game/_silly-tavern/config/overview")({
+  Vs = () => h(() => Promise.resolve().then(() => Wt), void 0);
+  Ra = u("/_layout-game/_silly-tavern/config/overview")({
     head: () => ({
       meta: [
         {
@@ -320,10 +359,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ts, "component")
+    component: j(Vs, "component")
   });
-  As = () => h(() => Promise.resolve().then(() => Et), void 0);
-  Es = u("/_layout-game/_silly-tavern/config/llm")({
+  Gs = () => h(() => Promise.resolve().then(() => Jt), void 0);
+  Us = u("/_layout-game/_silly-tavern/config/llm")({
     head: () => ({
       meta: [
         {
@@ -335,10 +374,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(As, "component")
+    component: j(Gs, "component")
   });
-  Ls = () => h(() => Promise.resolve().then(() => Mt), void 0);
-  Ms = u("/_layout-game/_silly-tavern/characters_/$characterId")({
+  qs = () => h(() => Promise.resolve().then(() => Qt), void 0);
+  Bs = u("/_layout-game/_silly-tavern/characters_/$characterId")({
     head: () => ({
       meta: [
         {
@@ -350,10 +389,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Ls, "component")
+    component: j(qs, "component")
   });
-  Vs = () => h(() => Promise.resolve().then(() => Ft), void 0);
-  Fs = u("/_layout-game/_silly-tavern/challenges_/$challengeId")({
+  Ws = () => h(() => Promise.resolve().then(() => Xt), void 0);
+  Hs = u("/_layout-game/_silly-tavern/challenges_/$challengeId")({
     head: () => ({
       meta: [
         {
@@ -365,10 +404,10 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Vs, "component")
+    component: j(Ws, "component")
   });
-  Us = () => h(() => Promise.resolve().then(() => Gt), void 0);
-  Gs = u("/_layout-game/_silly-tavern/characters_/$characterId_/edit")({
+  Js = () => h(() => Promise.resolve().then(() => ea), void 0);
+  Ks = u("/_layout-game/_silly-tavern/characters_/$characterId_/edit")({
     head: () => ({
       meta: [
         {
@@ -380,88 +419,103 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: j(Us, "component")
+    component: j(Js, "component")
   });
-  Bs = Oe;
-  Ws = Object.freeze(Object.defineProperty({
+  Qs = Te;
+  Zs = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Bs
+    component: Qs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function qs() {
+  function Xs() {
     return e.jsxs("div", {
       className: "flex flex-col h-full overflow-hidden",
       children: [
-        e.jsx("header", {
+        e.jsxs("header", {
           className: "h-14 border-b bg-background flex items-center px-4 justify-between shrink-0",
-          children: e.jsxs("div", {
-            className: "flex items-center gap-2",
-            children: [
-              e.jsxs(f, {
-                to: "/",
-                className: "flex items-center gap-2 font-bold text-lg mr-6",
+          children: [
+            e.jsxs("div", {
+              className: "flex items-center gap-2",
+              children: [
+                e.jsxs(f, {
+                  to: "/",
+                  className: "flex items-center gap-2 font-bold text-lg mr-6",
+                  children: [
+                    e.jsx(ae, {
+                      className: "w-5 h-5 text-primary"
+                    }),
+                    e.jsx("span", {
+                      children: "NexTavern"
+                    })
+                  ]
+                }),
+                e.jsxs("nav", {
+                  className: "flex items-center gap-1",
+                  children: [
+                    e.jsxs(f, {
+                      to: "/plaza/characters",
+                      className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
+                      children: [
+                        e.jsx(M, {
+                          className: "w-4 h-4"
+                        }),
+                        "\u5E7F\u573A"
+                      ]
+                    }),
+                    e.jsxs(f, {
+                      to: "/create",
+                      className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
+                      children: [
+                        e.jsx(_e, {
+                          className: "w-4 h-4"
+                        }),
+                        "\u5DE5\u574A"
+                      ]
+                    }),
+                    e.jsxs(f, {
+                      to: "/session",
+                      className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
+                      children: [
+                        e.jsx(Re, {
+                          className: "w-4 h-4"
+                        }),
+                        "\u4F1A\u8BDD"
+                      ]
+                    })
+                  ]
+                })
+              ]
+            }),
+            e.jsx("div", {
+              className: "flex items-center gap-2",
+              children: e.jsxs(f, {
+                to: "/invitation",
+                className: "px-3 py-1.5 text-xs font-medium rounded-md text-muted-foreground hover:text-foreground hover:bg-muted transition-colors flex items-center gap-2",
                 children: [
-                  e.jsx(q, {
-                    className: "w-5 h-5 text-primary"
+                  e.jsx(ke, {
+                    className: "w-3.5 h-3.5"
                   }),
-                  e.jsx("span", {
-                    children: "NexTavern"
-                  })
-                ]
-              }),
-              e.jsxs("nav", {
-                className: "flex items-center gap-1",
-                children: [
-                  e.jsxs(f, {
-                    to: "/plaza/characters",
-                    className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
-                    children: [
-                      e.jsx(H, {
-                        className: "w-4 h-4"
-                      }),
-                      "\u5E7F\u573A"
-                    ]
-                  }),
-                  e.jsxs(f, {
-                    to: "/create",
-                    className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
-                    children: [
-                      e.jsx(je, {
-                        className: "w-4 h-4"
-                      }),
-                      "\u5DE5\u574A"
-                    ]
-                  }),
-                  e.jsxs(f, {
-                    to: "/session",
-                    className: "px-3 py-1.5 text-sm font-medium rounded-md hover:bg-muted [&.active]:bg-primary/10 [&.active]:text-primary flex items-center gap-1.5",
-                    children: [
-                      e.jsx(Ee, {
-                        className: "w-4 h-4"
-                      }),
-                      "\u4F1A\u8BDD"
-                    ]
-                  })
+                  "\u9080\u8BF7\u7801"
                 ]
               })
-            ]
-          })
+            })
+          ]
         }),
         e.jsx("main", {
           className: "grow overflow-auto flex flex-col",
-          children: e.jsx(W, {})
+          children: e.jsx(ne, {})
         })
       ]
     });
   }
-  const Hs = Object.freeze(Object.defineProperty({
+  const Ys = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: qs
+    component: Xs
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Js() {
+  function et() {
     const t = $();
     return v.useEffect(() => {
       const r = setTimeout(() => {
@@ -481,7 +535,7 @@ let __tla = (async () => {
             e.jsx("div", {
               className: "absolute -inset-1 rounded-full bg-primary/20 blur-xl animate-pulse"
             }),
-            e.jsx(q, {
+            e.jsx(ae, {
               className: "w-20 h-20 text-primary relative"
             })
           ]
@@ -508,33 +562,33 @@ let __tla = (async () => {
       ]
     });
   }
-  const Qs = Object.freeze(Object.defineProperty({
+  const st = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Js
+    component: et
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ks() {
-    const t = $(), { sessionId: r } = Re({
+  function tt() {
+    const t = $(), { sessionId: r } = Ae({
       strict: false
-    }), { data: i = [] } = y((c) => c.from({
-      s: E
-    })), { data: a = [] } = y((c) => c.from({
-      c: M
-    })), s = (c) => {
+    }), { data: i = [] } = C((l) => l.from({
+      s: k
+    })), { data: a = [] } = C((l) => l.from({
+      c: V
+    })), s = (l) => {
       t({
         to: "/session/$sessionId",
         params: {
-          sessionId: c.id
+          sessionId: l.id
         }
       });
-    }, l = () => {
+    }, c = () => {
       t({
         to: "/plaza/characters"
       });
-    }, x = async (c) => {
+    }, p = async (l) => {
       try {
-        await N.sessions.delete(c.id);
+        await _.sessions.delete(l.id);
       } catch (n) {
         console.error("Failed to delete session:", n);
       }
@@ -542,49 +596,49 @@ let __tla = (async () => {
     return e.jsxs("div", {
       className: "flex h-full overflow-hidden",
       children: [
-        e.jsx(Be, {
+        e.jsx(He, {
           sessions: i,
           characters: a,
           activeSessionId: r,
           onSessionSelect: s,
-          onNewSession: l,
-          onSessionDelete: x
+          onNewSession: c,
+          onSessionDelete: p
         }),
         e.jsx("div", {
           className: "grow overflow-hidden relative",
-          children: e.jsx(W, {})
+          children: e.jsx(ne, {})
         })
       ]
     });
   }
-  const Xs = Object.freeze(Object.defineProperty({
+  const at = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ks
+    component: tt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ys() {
-    const t = ke(), r = t.pathname.includes("challenges") ? "challenges" : t.pathname.includes("group-chat") ? "group-chat" : t.pathname.includes("dnd") ? "dnd" : "characters";
+  function nt() {
+    const t = Ee(), r = t.pathname.includes("challenges") ? "challenges" : t.pathname.includes("group-chat") ? "group-chat" : t.pathname.includes("dnd") ? "dnd" : t.pathname.includes("small-town") ? "small-town" : "characters";
     return e.jsxs("div", {
       className: "flex flex-col h-full overflow-y-auto",
       children: [
         e.jsx("div", {
           className: "border-b px-6 py-2 bg-muted/20",
-          children: e.jsx(ie, {
+          children: e.jsx(he, {
             value: r,
             className: "w-fit",
-            children: e.jsxs(de, {
+            children: e.jsxs(pe, {
               children: [
                 e.jsx(f, {
                   to: "/plaza/characters",
-                  children: e.jsx(z, {
+                  children: e.jsx(O, {
                     value: "characters",
                     children: "\u89D2\u8272\u5361"
                   })
                 }),
                 e.jsx(f, {
                   to: "/plaza/challenges",
-                  children: e.jsx(z, {
+                  children: e.jsx(O, {
                     value: "challenges",
                     className: "cursor-pointer",
                     children: "\u6311\u6218\u5361"
@@ -592,7 +646,7 @@ let __tla = (async () => {
                 }),
                 e.jsx(f, {
                   to: "/plaza/dnd",
-                  children: e.jsx(z, {
+                  children: e.jsx(O, {
                     value: "dnd",
                     className: "cursor-pointer",
                     children: "DnD \u5192\u9669"
@@ -600,10 +654,18 @@ let __tla = (async () => {
                 }),
                 e.jsx(f, {
                   to: "/plaza/group-chat",
-                  children: e.jsx(z, {
+                  children: e.jsx(O, {
                     value: "group-chat",
                     className: "cursor-pointer",
                     children: "\u7FA4\u804A"
+                  })
+                }),
+                e.jsx(f, {
+                  to: "/plaza/small-town",
+                  children: e.jsx(O, {
+                    value: "small-town",
+                    className: "cursor-pointer",
+                    children: "\u5C0F\u9547"
                   })
                 })
               ]
@@ -612,20 +674,20 @@ let __tla = (async () => {
         }),
         e.jsx("div", {
           className: "p-6",
-          children: e.jsx(W, {})
+          children: e.jsx(ne, {})
         })
       ]
     });
   }
-  const Zs = Object.freeze(Object.defineProperty({
+  const rt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ys
+    component: nt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function et() {
+  function ot() {
     return e.jsxs("div", {
-      className: "p-6 max-w-4xl mx-auto space-y-8",
+      className: "p-6 w-full max-w-4xl mx-auto space-y-8",
       children: [
         e.jsxs("div", {
           className: "space-y-2",
@@ -633,7 +695,7 @@ let __tla = (async () => {
             e.jsxs("h1", {
               className: "text-3xl font-bold flex items-center gap-2",
               children: [
-                e.jsx(je, {
+                e.jsx(_e, {
                   className: "w-8 h-8 text-primary"
                 }),
                 "\u521B\u4F5C\u8005\u5DE5\u574A"
@@ -650,12 +712,12 @@ let __tla = (async () => {
           children: [
             e.jsx(f, {
               to: "/create/character",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(H, {
+                      e.jsx(M, {
                         className: "w-10 h-10 mb-2 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -666,12 +728,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -682,12 +744,12 @@ let __tla = (async () => {
             }),
             e.jsx(f, {
               to: "/create/challenge",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-primary transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(fe, {
+                      e.jsx(Ne, {
                         className: "w-10 h-10 mb-2 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -698,12 +760,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-primary",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -714,12 +776,12 @@ let __tla = (async () => {
             }),
             e.jsx(f, {
               to: "/create/dnd",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-amber-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(F, {
+                      e.jsx(Y, {
                         className: "w-10 h-10 mb-2 text-amber-600 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -730,12 +792,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-amber-600",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -746,12 +808,12 @@ let __tla = (async () => {
             }),
             e.jsx(f, {
               to: "/create/group-chat",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-violet-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
                     children: [
-                      e.jsx(U, {
+                      e.jsx(ee, {
                         className: "w-10 h-10 mb-2 text-violet-500 group-hover:scale-110 transition-transform"
                       }),
                       e.jsx(I, {
@@ -762,12 +824,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-violet-500",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -778,7 +840,7 @@ let __tla = (async () => {
             }),
             e.jsx(f, {
               to: "/create/chat-character",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-emerald-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -794,12 +856,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-emerald-500",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -810,7 +872,7 @@ let __tla = (async () => {
             }),
             e.jsx(f, {
               to: "/create/chat-challenge",
-              children: e.jsxs(C, {
+              children: e.jsxs(b, {
                 className: "hover:border-orange-500/50 transition-colors cursor-pointer group h-full",
                 children: [
                   e.jsxs(S, {
@@ -826,12 +888,12 @@ let __tla = (async () => {
                       })
                     ]
                   }),
-                  e.jsx(w, {
+                  e.jsx(y, {
                     children: e.jsxs("div", {
                       className: "flex items-center text-sm font-medium text-orange-500",
                       children: [
                         "\u7ACB\u5373\u5F00\u59CB ",
-                        e.jsx(T, {
+                        e.jsx(E, {
                           className: "w-4 h-4 ml-1"
                         })
                       ]
@@ -845,13 +907,13 @@ let __tla = (async () => {
       ]
     });
   }
-  const st = Object.freeze(Object.defineProperty({
+  const ct = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: et
+    component: ot
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function tt() {
+  function lt() {
     const [t, r] = v.useState(false), i = e.jsxs(e.Fragment, {
       children: [
         e.jsx("h2", {
@@ -888,22 +950,22 @@ let __tla = (async () => {
           className: "hidden md:block w-64 p-4 bg-foreground/5 overflow-y-auto",
           children: i
         }),
-        e.jsxs(cs, {
+        e.jsxs(ls, {
           open: t,
           onOpenChange: r,
           children: [
-            e.jsx(ls, {
+            e.jsx(is, {
               asChild: true,
-              children: e.jsx(p, {
+              children: e.jsx(x, {
                 variant: "outline",
                 size: "icon",
                 className: "md:hidden fixed bottom-8 left-8 rounded-full shadow-lg z-50",
-                children: e.jsx(Ve, {
+                children: e.jsx(Fe, {
                   className: "h-4 w-4"
                 })
               })
             }),
-            e.jsx(is, {
+            e.jsx(ds, {
               side: "left",
               className: "w-64 p-4 overflow-y-auto",
               children: i
@@ -912,57 +974,20 @@ let __tla = (async () => {
         }),
         e.jsx("main", {
           className: "flex-1 p-4 lg:px-8 xl:px-12 overflow-auto",
-          children: e.jsx(W, {})
+          children: e.jsx(ne, {})
         })
       ]
     });
   }
-  const at = Object.freeze(Object.defineProperty({
+  const it = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: tt
+    component: lt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function nt() {
-    return e.jsx(Te, {
-      to: "/config/overview"
-    });
-  }
-  const rt = Object.freeze(Object.defineProperty({
-    __proto__: null,
-    component: nt
-  }, Symbol.toStringTag, {
-    value: "Module"
-  })), ot = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.t), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
-    default: t.SessionMainForChat
-  }))), ct = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.u), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
-    default: t.SessionMainForChallenge
-  }))), lt = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.v), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
-    default: t.SessionMainForDnd
-  }))), it = v.lazy(() => h(() => import("./app-libs-for-silly-tavern-i0UZarqU.js").then((t) => t.w), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21])).then((t) => ({
-    default: t.SessionMainForGroupChat
-  })));
   function dt() {
-    var _a;
-    const { sessionId: t } = ge.useParams(), r = ge.useSearch(), { data: i = [] } = y((l) => l.from({
-      s: E
-    }).where(({ s: x }) => Ae(x.id, t))), s = ((_a = i[0]) == null ? void 0 : _a.mode) || r.mode;
-    return e.jsx(v.Suspense, {
-      fallback: e.jsx("div", {
-        className: "flex flex-col items-center justify-center h-full text-muted-foreground space-y-4",
-        children: e.jsx("p", {
-          children: "\u52A0\u8F7D\u4E2D..."
-        })
-      }),
-      children: s === "dnd" ? e.jsx(lt, {
-        sessionId: t
-      }) : s === "group-chat" ? e.jsx(it, {
-        sessionId: t
-      }) : s === "challenge" ? e.jsx(ct, {
-        sessionId: t
-      }) : e.jsx(ot, {
-        sessionId: t
-      })
+    return e.jsx(Ve, {
+      to: "/config/overview"
     });
   }
   const mt = Object.freeze(Object.defineProperty({
@@ -970,15 +995,313 @@ let __tla = (async () => {
     component: dt
   }, Symbol.toStringTag, {
     value: "Module"
+  })), ht = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
+    await m.__tla;
+    return m;
+  }).then((t) => t.n), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+    default: t.SessionMainForChat
+  }))), pt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
+    await m.__tla;
+    return m;
+  }).then((t) => t.o), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+    default: t.SessionMainForChallenge
+  }))), xt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
+    await m.__tla;
+    return m;
+  }).then((t) => t.p), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+    default: t.SessionMainForDnd
+  }))), ut = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
+    await m.__tla;
+    return m;
+  }).then((t) => t.q), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+    default: t.SessionMainForGroupChat
+  }))), jt = v.lazy(() => h(() => import("./silly-tavern-ui-C8y0dUuM.js").then(async (m) => {
+    await m.__tla;
+    return m;
+  }).then((t) => t.r), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])).then((t) => ({
+    default: t.SessionMainForSmallTown
+  })));
+  function gt() {
+    var _a2;
+    const { sessionId: t } = ve.useParams(), r = ve.useSearch(), { data: i = [] } = C((l) => l.from({
+      s: k
+    }).where(({ s: n }) => We(n.id, t))), s = ((_a2 = i[0]) == null ? void 0 : _a2.mode) || r.mode, c = s === "dnd" ? "dnd" : s === "small-town" ? "small-town" : void 0, p = e.jsx(v.Suspense, {
+      fallback: e.jsx("div", {
+        className: "flex flex-col items-center justify-center h-full text-muted-foreground space-y-4",
+        children: e.jsx("p", {
+          children: "\u52A0\u8F7D\u4E2D..."
+        })
+      }),
+      children: s === "dnd" ? e.jsx(xt, {
+        sessionId: t
+      }) : s === "group-chat" ? e.jsx(ut, {
+        sessionId: t
+      }) : s === "challenge" ? e.jsx(pt, {
+        sessionId: t
+      }) : s === "small-town" ? e.jsx(jt, {
+        sessionId: t
+      }) : e.jsx(ht, {
+        sessionId: t
+      })
+    });
+    return c ? e.jsx(G, {
+      requiredFeature: c,
+      children: p
+    }) : p;
+  }
+  const ft = Object.freeze(Object.defineProperty({
+    __proto__: null,
+    component: gt
+  }, Symbol.toStringTag, {
+    value: "Module"
   }));
-  function ht() {
-    const t = $(), { data: r = [] } = y((s) => s.from({
-      s: E
-    })), i = r.filter((s) => s.mode === "group-chat").sort((s, l) => l.updatedAt - s.updatedAt), a = async (s) => {
+  function vt() {
+    const t = $(), { data: r = [] } = C((s) => s.from({
+      s: k
+    })), i = r.filter((s) => s.mode === "small-town").sort((s, c) => c.updatedAt - s.updatedAt), a = async (s) => {
       try {
-        await N.sessions.delete(s), m.success("\u7FA4\u804A\u4F1A\u8BDD\u5DF2\u5220\u9664");
-      } catch (l) {
-        console.error("\u5220\u9664\u5931\u8D25:", l), m.error("\u5220\u9664\u5931\u8D25");
+        await _.sessions.delete(s), d.success("\u5C0F\u9547\u4F1A\u8BDD\u5DF2\u5220\u9664");
+      } catch (c) {
+        console.error("\u5220\u9664\u5931\u8D25:", c), d.error("\u5220\u9664\u5931\u8D25");
+      }
+    };
+    return e.jsx(G, {
+      requiredFeature: "small-town",
+      children: e.jsxs("div", {
+        className: "space-y-6",
+        children: [
+          e.jsxs("div", {
+            className: "flex items-center justify-between",
+            children: [
+              e.jsxs("div", {
+                children: [
+                  e.jsxs("h2", {
+                    className: "text-2xl font-bold flex items-center gap-2",
+                    children: [
+                      e.jsx(oe, {
+                        className: "w-6 h-6 text-amber-500"
+                      }),
+                      "\u5C0F\u9547\u6A21\u5F0F"
+                    ]
+                  }),
+                  e.jsx("p", {
+                    className: "text-sm text-muted-foreground mt-1",
+                    children: "\u591A\u89D2\u8272\u81EA\u4E3B\u751F\u6D3B\u7684\u5C0F\u9547\u6A21\u62DF\u6E38\u620F"
+                  })
+                ]
+              }),
+              e.jsxs(x, {
+                type: "button",
+                onClick: () => t({
+                  to: "/create/small-town"
+                }),
+                className: "gap-2",
+                children: [
+                  e.jsx(R, {
+                    className: "w-4 h-4"
+                  }),
+                  "\u521B\u5EFA\u65B0\u5C0F\u9547"
+                ]
+              })
+            ]
+          }),
+          i.length > 0 ? e.jsx("div", {
+            className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4",
+            children: i.map((s) => {
+              var _a2, _b, _c, _d;
+              const c = ((_a2 = s.modeConfig) == null ? void 0 : _a2.worldName) || "\u672A\u547D\u540D\u5C0F\u9547", p = ((_b = s.modeConfig) == null ? void 0 : _b.characterSnapshots) || [], l = ((_d = (_c = s.modeState) == null ? void 0 : _c.gameTime) == null ? void 0 : _d.day) || 1;
+              return e.jsxs(b, {
+                className: "cursor-pointer hover:border-amber-500/50 transition-colors group relative",
+                onClick: () => t({
+                  to: "/session/$sessionId",
+                  params: {
+                    sessionId: s.id
+                  }
+                }),
+                children: [
+                  e.jsx(S, {
+                    className: "pb-3",
+                    children: e.jsxs("div", {
+                      className: "flex items-start justify-between",
+                      children: [
+                        e.jsxs("div", {
+                          className: "flex items-center gap-2",
+                          children: [
+                            e.jsx("div", {
+                              className: "w-10 h-10 rounded-xl bg-amber-500/10 flex items-center justify-center border border-amber-500/20",
+                              children: e.jsx(oe, {
+                                className: "w-5 h-5 text-amber-600"
+                              })
+                            }),
+                            e.jsxs("div", {
+                              children: [
+                                e.jsx(I, {
+                                  className: "text-base",
+                                  children: c
+                                }),
+                                e.jsxs(P, {
+                                  className: "text-[10px]",
+                                  children: [
+                                    "\u7B2C ",
+                                    l,
+                                    " \u5929"
+                                  ]
+                                })
+                              ]
+                            })
+                          ]
+                        }),
+                        e.jsxs(U, {
+                          children: [
+                            e.jsx(q, {
+                              asChild: true,
+                              children: e.jsx(x, {
+                                type: "button",
+                                variant: "ghost",
+                                size: "icon",
+                                className: "h-7 w-7 opacity-0 group-hover:opacity-100 transition-opacity",
+                                onClick: (n) => n.stopPropagation(),
+                                children: e.jsx(F, {
+                                  className: "w-3.5 h-3.5 text-muted-foreground hover:text-destructive"
+                                })
+                              })
+                            }),
+                            e.jsxs(B, {
+                              children: [
+                                e.jsxs(W, {
+                                  children: [
+                                    e.jsx(H, {
+                                      children: "\u786E\u8BA4\u5220\u9664"
+                                    }),
+                                    e.jsxs(J, {
+                                      children: [
+                                        "\u786E\u5B9A\u8981\u5220\u9664\u5C0F\u9547\u300C",
+                                        c,
+                                        "\u300D\u5417\uFF1F\u6B64\u64CD\u4F5C\u65E0\u6CD5\u64A4\u9500\u3002"
+                                      ]
+                                    })
+                                  ]
+                                }),
+                                e.jsxs(K, {
+                                  children: [
+                                    e.jsx(Q, {
+                                      children: "\u53D6\u6D88"
+                                    }),
+                                    e.jsx(Z, {
+                                      className: "bg-destructive hover:bg-destructive/90",
+                                      onClick: (n) => {
+                                        n.stopPropagation(), a(s.id);
+                                      },
+                                      children: "\u786E\u8BA4\u5220\u9664"
+                                    })
+                                  ]
+                                })
+                              ]
+                            })
+                          ]
+                        })
+                      ]
+                    })
+                  }),
+                  e.jsxs(y, {
+                    className: "pt-0",
+                    children: [
+                      e.jsxs("div", {
+                        className: "flex items-center gap-2 mb-3",
+                        children: [
+                          e.jsx(M, {
+                            className: "w-3.5 h-3.5 text-muted-foreground"
+                          }),
+                          e.jsxs("div", {
+                            className: "flex flex-wrap gap-1",
+                            children: [
+                              p.slice(0, 4).map((n) => e.jsx(z, {
+                                variant: "secondary",
+                                className: "text-[9px] px-1.5 h-4",
+                                children: n.name
+                              }, n.id)),
+                              p.length > 4 && e.jsxs(z, {
+                                variant: "secondary",
+                                className: "text-[9px] px-1.5 h-4",
+                                children: [
+                                  "+",
+                                  p.length - 4
+                                ]
+                              })
+                            ]
+                          })
+                        ]
+                      }),
+                      e.jsxs("div", {
+                        className: "flex items-center justify-between",
+                        children: [
+                          e.jsx("span", {
+                            className: "text-[10px] text-muted-foreground",
+                            children: new Date(s.updatedAt).toLocaleDateString()
+                          }),
+                          e.jsxs("div", {
+                            className: "flex items-center gap-1 text-primary text-xs font-medium",
+                            children: [
+                              e.jsx(de, {
+                                className: "w-3.5 h-3.5"
+                              }),
+                              "\u7EE7\u7EED\u6E38\u620F"
+                            ]
+                          })
+                        ]
+                      })
+                    ]
+                  })
+                ]
+              }, s.id);
+            })
+          }) : e.jsx(b, {
+            className: "border-dashed",
+            children: e.jsxs(y, {
+              className: "py-16 text-center",
+              children: [
+                e.jsx(oe, {
+                  className: "w-12 h-12 text-muted-foreground/20 mx-auto mb-4"
+                }),
+                e.jsx("p", {
+                  className: "text-muted-foreground mb-4",
+                  children: "\u8FD8\u6CA1\u6709\u5C0F\u9547\u4F1A\u8BDD"
+                }),
+                e.jsxs(x, {
+                  type: "button",
+                  variant: "outline",
+                  className: "gap-2",
+                  onClick: () => t({
+                    to: "/create/small-town"
+                  }),
+                  children: [
+                    e.jsx(R, {
+                      className: "w-4 h-4"
+                    }),
+                    "\u521B\u5EFA\u7B2C\u4E00\u4E2A\u5C0F\u9547"
+                  ]
+                })
+              ]
+            })
+          })
+        ]
+      })
+    });
+  }
+  const _t = Object.freeze(Object.defineProperty({
+    __proto__: null,
+    component: vt
+  }, Symbol.toStringTag, {
+    value: "Module"
+  }));
+  function Nt() {
+    const t = $(), { data: r = [] } = C((s) => s.from({
+      s: k
+    })), i = r.filter((s) => s.mode === "group-chat").sort((s, c) => c.updatedAt - s.updatedAt), a = async (s) => {
+      try {
+        await _.sessions.delete(s), d.success("\u7FA4\u804A\u4F1A\u8BDD\u5DF2\u5220\u9664");
+      } catch (c) {
+        console.error("\u5220\u9664\u5931\u8D25:", c), d.error("\u5220\u9664\u5931\u8D25");
       }
     };
     return e.jsxs("div", {
@@ -992,7 +1315,7 @@ let __tla = (async () => {
                 e.jsxs("h2", {
                   className: "text-2xl font-bold flex items-center gap-2",
                   children: [
-                    e.jsx(U, {
+                    e.jsx(ee, {
                       className: "w-6 h-6 text-violet-500"
                     }),
                     "\u7FA4\u804A"
@@ -1004,14 +1327,14 @@ let __tla = (async () => {
                 })
               ]
             }),
-            e.jsxs(p, {
+            e.jsxs(x, {
               type: "button",
               onClick: () => t({
                 to: "/create/group-chat"
               }),
               className: "gap-2",
               children: [
-                e.jsx(A, {
+                e.jsx(R, {
                   className: "w-4 h-4"
                 }),
                 "\u521B\u5EFA\u7FA4\u804A"
@@ -1022,9 +1345,9 @@ let __tla = (async () => {
         i.length > 0 ? e.jsx("div", {
           className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4",
           children: i.map((s) => {
-            var _a, _b, _c;
-            const l = ((_a = s.modeConfig) == null ? void 0 : _a.topic) || "\u7FA4\u804A", x = ((_b = s.modeConfig) == null ? void 0 : _b.participantSnapshots) || [], c = ((_c = s.modeState) == null ? void 0 : _c.messageCount) || 0;
-            return e.jsxs(C, {
+            var _a2, _b, _c;
+            const c = ((_a2 = s.modeConfig) == null ? void 0 : _a2.topic) || "\u7FA4\u804A", p = ((_b = s.modeConfig) == null ? void 0 : _b.participantSnapshots) || [], l = ((_c = s.modeState) == null ? void 0 : _c.messageCount) || 0;
+            return e.jsxs(b, {
               className: "cursor-pointer hover:border-violet-500/50 transition-colors group relative",
               onClick: () => t({
                 to: "/session/$sessionId",
@@ -1043,7 +1366,7 @@ let __tla = (async () => {
                         children: [
                           e.jsx("div", {
                             className: "w-10 h-10 rounded-xl bg-violet-500/10 flex items-center justify-center border border-violet-500/20",
-                            children: e.jsx(U, {
+                            children: e.jsx(ee, {
                               className: "w-5 h-5 text-violet-600"
                             })
                           }),
@@ -1051,12 +1374,12 @@ let __tla = (async () => {
                             children: [
                               e.jsx(I, {
                                 className: "text-base",
-                                children: l
+                                children: c
                               }),
                               e.jsxs(P, {
                                 className: "text-[10px]",
                                 children: [
-                                  c,
+                                  l,
                                   " \u6761\u6D88\u606F"
                                 ]
                               })
@@ -1064,43 +1387,43 @@ let __tla = (async () => {
                           })
                         ]
                       }),
-                      e.jsxs(Q, {
+                      e.jsxs(U, {
                         children: [
-                          e.jsx(K, {
+                          e.jsx(q, {
                             asChild: true,
-                            children: e.jsx(p, {
+                            children: e.jsx(x, {
                               type: "button",
                               variant: "ghost",
                               size: "icon",
                               className: "h-7 w-7 opacity-0 group-hover:opacity-100 transition-opacity",
                               onClick: (n) => n.stopPropagation(),
-                              children: e.jsx(J, {
+                              children: e.jsx(F, {
                                 className: "w-3.5 h-3.5 text-muted-foreground hover:text-destructive"
                               })
                             })
                           }),
-                          e.jsxs(X, {
+                          e.jsxs(B, {
                             children: [
-                              e.jsxs(Y, {
+                              e.jsxs(W, {
                                 children: [
-                                  e.jsx(Z, {
+                                  e.jsx(H, {
                                     children: "\u786E\u8BA4\u5220\u9664"
                                   }),
-                                  e.jsxs(ee, {
+                                  e.jsxs(J, {
                                     children: [
                                       "\u786E\u5B9A\u8981\u5220\u9664\u7FA4\u804A\u300C",
-                                      l,
+                                      c,
                                       "\u300D\u5417\uFF1F\u6B64\u64CD\u4F5C\u65E0\u6CD5\u64A4\u9500\u3002"
                                     ]
                                   })
                                 ]
                               }),
-                              e.jsxs(se, {
+                              e.jsxs(K, {
                                 children: [
-                                  e.jsx(te, {
+                                  e.jsx(Q, {
                                     children: "\u53D6\u6D88"
                                   }),
-                                  e.jsx(ae, {
+                                  e.jsx(Z, {
                                     className: "bg-destructive hover:bg-destructive/90",
                                     onClick: (n) => {
                                       n.stopPropagation(), a(s.id);
@@ -1116,29 +1439,29 @@ let __tla = (async () => {
                     ]
                   })
                 }),
-                e.jsxs(w, {
+                e.jsxs(y, {
                   className: "pt-0",
                   children: [
                     e.jsxs("div", {
                       className: "flex items-center gap-2 mb-3",
                       children: [
-                        e.jsx(H, {
+                        e.jsx(M, {
                           className: "w-3.5 h-3.5 text-muted-foreground"
                         }),
                         e.jsxs("div", {
                           className: "flex flex-wrap gap-1",
                           children: [
-                            x.slice(0, 4).map((n) => e.jsx(R, {
+                            p.slice(0, 4).map((n) => e.jsx(z, {
                               variant: "secondary",
                               className: "text-[9px] px-1.5 h-4",
                               children: n.name
                             }, n.id)),
-                            x.length > 4 && e.jsxs(R, {
+                            p.length > 4 && e.jsxs(z, {
                               variant: "secondary",
                               className: "text-[9px] px-1.5 h-4",
                               children: [
                                 "+",
-                                x.length - 4
+                                p.length - 4
                               ]
                             })
                           ]
@@ -1155,7 +1478,7 @@ let __tla = (async () => {
                         e.jsxs("div", {
                           className: "flex items-center gap-1 text-primary text-xs font-medium",
                           children: [
-                            e.jsx(ve, {
+                            e.jsx(de, {
                               className: "w-3.5 h-3.5"
                             }),
                             "\u7EE7\u7EED\u804A\u5929"
@@ -1168,19 +1491,19 @@ let __tla = (async () => {
               ]
             }, s.id);
           })
-        }) : e.jsx(C, {
+        }) : e.jsx(b, {
           className: "border-dashed",
-          children: e.jsxs(w, {
+          children: e.jsxs(y, {
             className: "py-16 text-center",
             children: [
-              e.jsx(U, {
+              e.jsx(ee, {
                 className: "w-12 h-12 text-muted-foreground/20 mx-auto mb-4"
               }),
               e.jsx("p", {
                 className: "text-muted-foreground mb-4",
                 children: "\u8FD8\u6CA1\u6709\u7FA4\u804A\u4F1A\u8BDD"
               }),
-              e.jsxs(p, {
+              e.jsxs(x, {
                 type: "button",
                 variant: "outline",
                 className: "gap-2",
@@ -1188,7 +1511,7 @@ let __tla = (async () => {
                   to: "/create/group-chat"
                 }),
                 children: [
-                  e.jsx(A, {
+                  e.jsx(R, {
                     className: "w-4 h-4"
                   }),
                   "\u521B\u5EFA\u7B2C\u4E00\u4E2A\u7FA4\u804A"
@@ -1200,252 +1523,255 @@ let __tla = (async () => {
       ]
     });
   }
-  const pt = Object.freeze(Object.defineProperty({
+  const bt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: ht
+    component: Nt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function xt() {
-    const t = $(), { data: r = [] } = y((s) => s.from({
-      s: E
-    })), i = r.filter((s) => s.mode === "dnd").sort((s, l) => l.updatedAt - s.updatedAt), a = async (s) => {
+  function yt() {
+    const t = $(), { data: r = [] } = C((s) => s.from({
+      s: k
+    })), i = r.filter((s) => s.mode === "dnd").sort((s, c) => c.updatedAt - s.updatedAt), a = async (s) => {
       try {
-        await N.sessions.delete(s), m.success("\u5192\u9669\u4F1A\u8BDD\u5DF2\u5220\u9664");
-      } catch (l) {
-        console.error("\u5220\u9664\u5931\u8D25:", l), m.error("\u5220\u9664\u5931\u8D25");
+        await _.sessions.delete(s), d.success("\u5192\u9669\u4F1A\u8BDD\u5DF2\u5220\u9664");
+      } catch (c) {
+        console.error("\u5220\u9664\u5931\u8D25:", c), d.error("\u5220\u9664\u5931\u8D25");
       }
     };
-    return e.jsxs("div", {
-      className: "space-y-6",
-      children: [
-        e.jsxs("div", {
-          className: "flex items-center justify-between",
-          children: [
-            e.jsxs("div", {
-              children: [
-                e.jsxs("h2", {
-                  className: "text-2xl font-bold flex items-center gap-2",
-                  children: [
-                    e.jsx(F, {
-                      className: "w-6 h-6 text-amber-500"
-                    }),
-                    "DnD \u5192\u9669"
-                  ]
-                }),
-                e.jsx("p", {
-                  className: "text-sm text-muted-foreground mt-1",
-                  children: "\u7BA1\u7406\u4F60\u7684\u684C\u6E38\u98CE\u683C\u591A\u4EBA\u5192\u9669\u4F1A\u8BDD"
-                })
-              ]
-            }),
-            e.jsxs(p, {
-              type: "button",
-              onClick: () => t({
-                to: "/create/dnd"
+    return e.jsx(G, {
+      requiredFeature: "dnd",
+      children: e.jsxs("div", {
+        className: "space-y-6",
+        children: [
+          e.jsxs("div", {
+            className: "flex items-center justify-between",
+            children: [
+              e.jsxs("div", {
+                children: [
+                  e.jsxs("h2", {
+                    className: "text-2xl font-bold flex items-center gap-2",
+                    children: [
+                      e.jsx(Y, {
+                        className: "w-6 h-6 text-amber-500"
+                      }),
+                      "DnD \u5192\u9669"
+                    ]
+                  }),
+                  e.jsx("p", {
+                    className: "text-sm text-muted-foreground mt-1",
+                    children: "\u7BA1\u7406\u4F60\u7684\u684C\u6E38\u98CE\u683C\u591A\u4EBA\u5192\u9669\u4F1A\u8BDD"
+                  })
+                ]
               }),
-              className: "gap-2",
-              children: [
-                e.jsx(A, {
-                  className: "w-4 h-4"
+              e.jsxs(x, {
+                type: "button",
+                onClick: () => t({
+                  to: "/create/dnd"
                 }),
-                "\u521B\u5EFA\u65B0\u5192\u9669"
-              ]
-            })
-          ]
-        }),
-        i.length > 0 ? e.jsx("div", {
-          className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4",
-          children: i.map((s) => {
-            var _a, _b, _c, _d, _e2;
-            const l = ((_b = (_a = s.modeConfig) == null ? void 0 : _a.worldSnapshot) == null ? void 0 : _b.name) || "\u672A\u547D\u540D\u5192\u9669", x = ((_c = s.modeConfig) == null ? void 0 : _c.gameMode) || "standard", c = ((_d = s.modeConfig) == null ? void 0 : _d.playerCharacterSnapshots) || [], n = ((_e2 = s.modeState) == null ? void 0 : _e2.currentRound) || 1;
-            return e.jsxs(C, {
-              className: "cursor-pointer hover:border-amber-500/50 transition-colors group relative",
-              onClick: () => t({
-                to: "/session/$sessionId",
-                params: {
-                  sessionId: s.id
-                }
-              }),
-              children: [
-                e.jsx(S, {
-                  className: "pb-3",
-                  children: e.jsxs("div", {
-                    className: "flex items-start justify-between",
+                className: "gap-2",
+                children: [
+                  e.jsx(R, {
+                    className: "w-4 h-4"
+                  }),
+                  "\u521B\u5EFA\u65B0\u5192\u9669"
+                ]
+              })
+            ]
+          }),
+          i.length > 0 ? e.jsx("div", {
+            className: "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4",
+            children: i.map((s) => {
+              var _a2, _b, _c, _d, _e2;
+              const c = ((_b = (_a2 = s.modeConfig) == null ? void 0 : _a2.worldSnapshot) == null ? void 0 : _b.name) || "\u672A\u547D\u540D\u5192\u9669", p = ((_c = s.modeConfig) == null ? void 0 : _c.gameMode) || "standard", l = ((_d = s.modeConfig) == null ? void 0 : _d.playerCharacterSnapshots) || [], n = ((_e2 = s.modeState) == null ? void 0 : _e2.currentRound) || 1;
+              return e.jsxs(b, {
+                className: "cursor-pointer hover:border-amber-500/50 transition-colors group relative",
+                onClick: () => t({
+                  to: "/session/$sessionId",
+                  params: {
+                    sessionId: s.id
+                  }
+                }),
+                children: [
+                  e.jsx(S, {
+                    className: "pb-3",
+                    children: e.jsxs("div", {
+                      className: "flex items-start justify-between",
+                      children: [
+                        e.jsxs("div", {
+                          className: "flex items-center gap-2",
+                          children: [
+                            e.jsx("div", {
+                              className: "w-10 h-10 rounded-xl bg-amber-500/10 flex items-center justify-center border border-amber-500/20",
+                              children: e.jsx(Y, {
+                                className: "w-5 h-5 text-amber-600"
+                              })
+                            }),
+                            e.jsxs("div", {
+                              children: [
+                                e.jsx(I, {
+                                  className: "text-base",
+                                  children: c
+                                }),
+                                e.jsxs(P, {
+                                  className: "text-[10px]",
+                                  children: [
+                                    "\u56DE\u5408 ",
+                                    n,
+                                    " \xB7 ",
+                                    p
+                                  ]
+                                })
+                              ]
+                            })
+                          ]
+                        }),
+                        e.jsxs(U, {
+                          children: [
+                            e.jsx(q, {
+                              asChild: true,
+                              children: e.jsx(x, {
+                                type: "button",
+                                variant: "ghost",
+                                size: "icon",
+                                className: "h-7 w-7 opacity-0 group-hover:opacity-100 transition-opacity",
+                                onClick: (o) => o.stopPropagation(),
+                                children: e.jsx(F, {
+                                  className: "w-3.5 h-3.5 text-muted-foreground hover:text-destructive"
+                                })
+                              })
+                            }),
+                            e.jsxs(B, {
+                              children: [
+                                e.jsxs(W, {
+                                  children: [
+                                    e.jsx(H, {
+                                      children: "\u786E\u8BA4\u5220\u9664"
+                                    }),
+                                    e.jsxs(J, {
+                                      children: [
+                                        "\u786E\u5B9A\u8981\u5220\u9664\u5192\u9669\u300C",
+                                        c,
+                                        "\u300D\u5417\uFF1F\u6B64\u64CD\u4F5C\u65E0\u6CD5\u64A4\u9500\u3002"
+                                      ]
+                                    })
+                                  ]
+                                }),
+                                e.jsxs(K, {
+                                  children: [
+                                    e.jsx(Q, {
+                                      children: "\u53D6\u6D88"
+                                    }),
+                                    e.jsx(Z, {
+                                      className: "bg-destructive hover:bg-destructive/90",
+                                      onClick: (o) => {
+                                        o.stopPropagation(), a(s.id);
+                                      },
+                                      children: "\u786E\u8BA4\u5220\u9664"
+                                    })
+                                  ]
+                                })
+                              ]
+                            })
+                          ]
+                        })
+                      ]
+                    })
+                  }),
+                  e.jsxs(y, {
+                    className: "pt-0",
                     children: [
                       e.jsxs("div", {
-                        className: "flex items-center gap-2",
+                        className: "flex items-center gap-2 mb-3",
                         children: [
-                          e.jsx("div", {
-                            className: "w-10 h-10 rounded-xl bg-amber-500/10 flex items-center justify-center border border-amber-500/20",
-                            children: e.jsx(F, {
-                              className: "w-5 h-5 text-amber-600"
-                            })
+                          e.jsx(M, {
+                            className: "w-3.5 h-3.5 text-muted-foreground"
                           }),
                           e.jsxs("div", {
+                            className: "flex flex-wrap gap-1",
                             children: [
-                              e.jsx(I, {
-                                className: "text-base",
-                                children: l
-                              }),
-                              e.jsxs(P, {
-                                className: "text-[10px]",
+                              l.slice(0, 4).map((o) => e.jsx(z, {
+                                variant: "secondary",
+                                className: "text-[9px] px-1.5 h-4",
+                                children: o.name
+                              }, o.id)),
+                              l.length > 4 && e.jsxs(z, {
+                                variant: "secondary",
+                                className: "text-[9px] px-1.5 h-4",
                                 children: [
-                                  "\u56DE\u5408 ",
-                                  n,
-                                  " \xB7 ",
-                                  x
+                                  "+",
+                                  l.length - 4
                                 ]
                               })
                             ]
                           })
                         ]
                       }),
-                      e.jsxs(Q, {
+                      e.jsxs("div", {
+                        className: "flex items-center justify-between",
                         children: [
-                          e.jsx(K, {
-                            asChild: true,
-                            children: e.jsx(p, {
-                              type: "button",
-                              variant: "ghost",
-                              size: "icon",
-                              className: "h-7 w-7 opacity-0 group-hover:opacity-100 transition-opacity",
-                              onClick: (o) => o.stopPropagation(),
-                              children: e.jsx(J, {
-                                className: "w-3.5 h-3.5 text-muted-foreground hover:text-destructive"
-                              })
-                            })
+                          e.jsx("span", {
+                            className: "text-[10px] text-muted-foreground",
+                            children: new Date(s.updatedAt).toLocaleDateString()
                           }),
-                          e.jsxs(X, {
+                          e.jsxs("div", {
+                            className: "flex items-center gap-1 text-primary text-xs font-medium",
                             children: [
-                              e.jsxs(Y, {
-                                children: [
-                                  e.jsx(Z, {
-                                    children: "\u786E\u8BA4\u5220\u9664"
-                                  }),
-                                  e.jsxs(ee, {
-                                    children: [
-                                      "\u786E\u5B9A\u8981\u5220\u9664\u5192\u9669\u300C",
-                                      l,
-                                      "\u300D\u5417\uFF1F\u6B64\u64CD\u4F5C\u65E0\u6CD5\u64A4\u9500\u3002"
-                                    ]
-                                  })
-                                ]
+                              e.jsx(de, {
+                                className: "w-3.5 h-3.5"
                               }),
-                              e.jsxs(se, {
-                                children: [
-                                  e.jsx(te, {
-                                    children: "\u53D6\u6D88"
-                                  }),
-                                  e.jsx(ae, {
-                                    className: "bg-destructive hover:bg-destructive/90",
-                                    onClick: (o) => {
-                                      o.stopPropagation(), a(s.id);
-                                    },
-                                    children: "\u786E\u8BA4\u5220\u9664"
-                                  })
-                                ]
-                              })
+                              "\u7EE7\u7EED\u5192\u9669"
                             ]
                           })
                         ]
                       })
                     ]
                   })
+                ]
+              }, s.id);
+            })
+          }) : e.jsx(b, {
+            className: "border-dashed",
+            children: e.jsxs(y, {
+              className: "py-16 text-center",
+              children: [
+                e.jsx(Y, {
+                  className: "w-12 h-12 text-muted-foreground/20 mx-auto mb-4"
                 }),
-                e.jsxs(w, {
-                  className: "pt-0",
+                e.jsx("p", {
+                  className: "text-muted-foreground mb-4",
+                  children: "\u8FD8\u6CA1\u6709 DnD \u5192\u9669\u4F1A\u8BDD"
+                }),
+                e.jsxs(x, {
+                  type: "button",
+                  variant: "outline",
+                  className: "gap-2",
+                  onClick: () => t({
+                    to: "/create/dnd"
+                  }),
                   children: [
-                    e.jsxs("div", {
-                      className: "flex items-center gap-2 mb-3",
-                      children: [
-                        e.jsx(H, {
-                          className: "w-3.5 h-3.5 text-muted-foreground"
-                        }),
-                        e.jsxs("div", {
-                          className: "flex flex-wrap gap-1",
-                          children: [
-                            c.slice(0, 4).map((o) => e.jsx(R, {
-                              variant: "secondary",
-                              className: "text-[9px] px-1.5 h-4",
-                              children: o.name
-                            }, o.id)),
-                            c.length > 4 && e.jsxs(R, {
-                              variant: "secondary",
-                              className: "text-[9px] px-1.5 h-4",
-                              children: [
-                                "+",
-                                c.length - 4
-                              ]
-                            })
-                          ]
-                        })
-                      ]
+                    e.jsx(R, {
+                      className: "w-4 h-4"
                     }),
-                    e.jsxs("div", {
-                      className: "flex items-center justify-between",
-                      children: [
-                        e.jsx("span", {
-                          className: "text-[10px] text-muted-foreground",
-                          children: new Date(s.updatedAt).toLocaleDateString()
-                        }),
-                        e.jsxs("div", {
-                          className: "flex items-center gap-1 text-primary text-xs font-medium",
-                          children: [
-                            e.jsx(ve, {
-                              className: "w-3.5 h-3.5"
-                            }),
-                            "\u7EE7\u7EED\u5192\u9669"
-                          ]
-                        })
-                      ]
-                    })
+                    "\u521B\u5EFA\u7B2C\u4E00\u4E2A\u5192\u9669"
                   ]
                 })
               ]
-            }, s.id);
+            })
           })
-        }) : e.jsx(C, {
-          className: "border-dashed",
-          children: e.jsxs(w, {
-            className: "py-16 text-center",
-            children: [
-              e.jsx(F, {
-                className: "w-12 h-12 text-muted-foreground/20 mx-auto mb-4"
-              }),
-              e.jsx("p", {
-                className: "text-muted-foreground mb-4",
-                children: "\u8FD8\u6CA1\u6709 DnD \u5192\u9669\u4F1A\u8BDD"
-              }),
-              e.jsxs(p, {
-                type: "button",
-                variant: "outline",
-                className: "gap-2",
-                onClick: () => t({
-                  to: "/create/dnd"
-                }),
-                children: [
-                  e.jsx(A, {
-                    className: "w-4 h-4"
-                  }),
-                  "\u521B\u5EFA\u7B2C\u4E00\u4E2A\u5192\u9669"
-                ]
-              })
-            ]
-          })
-        })
-      ]
+        ]
+      })
     });
   }
-  const ut = Object.freeze(Object.defineProperty({
+  const Ct = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: xt
+    component: yt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function gt() {
-    const t = $(), [r, i] = v.useState(false), { data: a = [] } = y((o) => o.from({
-      c: M
+  function wt() {
+    const t = $(), [r, i] = v.useState(false), { data: a = [] } = C((o) => o.from({
+      c: V
     })), s = (o) => {
       t({
         to: "/characters/$characterId",
@@ -1453,64 +1779,64 @@ let __tla = (async () => {
           characterId: o.id
         }
       });
-    }, l = (o) => {
+    }, c = (o) => {
       t({
         to: "/characters/$characterId",
         params: {
           characterId: o.id
         }
       });
-    }, x = async (o) => {
+    }, p = async (o) => {
       try {
-        await N.characters.add(o), m.success(`\u6210\u529F\u5BFC\u5165\u89D2\u8272: ${o.name}`);
-      } catch (b) {
-        m.error("\u5BFC\u5165\u5931\u8D25"), console.error(b);
+        await _.characters.add(o), d.success(`\u6210\u529F\u5BFC\u5165\u89D2\u8272: ${o.name}`);
+      } catch (w) {
+        d.error("\u5BFC\u5165\u5931\u8D25"), console.error(w);
       }
-    }, c = async () => {
+    }, l = async () => {
       try {
         let o = 0;
-        for (const b of He) try {
-          await N.characters.add(b), o++;
+        for (const w of xs) try {
+          await _.characters.add(w), o++;
         } catch (L) {
-          console.error(`Failed to import preset ${b.name}:`, L);
+          console.error(`Failed to import preset ${w.name}:`, L);
         }
-        o > 0 ? m.success(`\u6210\u529F\u5BFC\u5165 ${o} \u4E2A\u89D2\u8272\u9884\u8BBE`) : m.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u89D2\u8272\u9884\u8BBE");
+        o > 0 ? d.success(`\u6210\u529F\u5BFC\u5165 ${o} \u4E2A\u89D2\u8272\u9884\u8BBE`) : d.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u89D2\u8272\u9884\u8BBE");
       } catch (o) {
-        m.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(o);
+        d.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(o);
       }
     }, n = e.jsxs("div", {
       className: "flex items-center gap-2",
       children: [
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "outline",
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
           onClick: () => i(true),
           children: [
-            e.jsx(_e, {
+            e.jsx(be, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u89D2\u8272"
           ]
         }),
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "outline",
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
-          onClick: c,
+          onClick: l,
           children: [
-            e.jsx(q, {
+            e.jsx(ae, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
           ]
         }),
-        e.jsx(qe, {
+        e.jsx(Ke, {
           characters: a
         }),
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "default",
           size: "sm",
           className: "flex items-center gap-2",
@@ -1519,20 +1845,20 @@ let __tla = (async () => {
           }),
           type: "button",
           children: [
-            e.jsx(A, {
+            e.jsx(R, {
               className: "w-4 h-4"
             }),
             "\u65B0\u5EFA\u89D2\u8272"
           ]
         }),
-        e.jsx(Ce, {
+        e.jsx($e, {
           open: r,
           onOpenChange: i,
-          onImport: x
+          onImport: p
         })
       ]
     });
-    return e.jsx(be, {
+    return e.jsx(we, {
       items: a,
       title: "\u89D2\u8272\u5217\u8868",
       placeholder: "\u641C\u7D22\u540D\u79F0\u3001\u63CF\u8FF0\u6216\u6807\u7B7E...",
@@ -1540,22 +1866,22 @@ let __tla = (async () => {
       getSearchableContent: (o) => `${o.name} ${o.description} ${o.tags.join(" ")}`,
       getTags: (o) => o.tags,
       getId: (o) => o.id,
-      renderCard: (o) => e.jsx(We, {
+      renderCard: (o) => e.jsx(Je, {
         character: o,
-        onClick: l,
+        onClick: c,
         onStartSession: s
       })
     });
   }
-  const jt = Object.freeze(Object.defineProperty({
+  const $t = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: gt
+    component: wt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function ft() {
-    const t = $(), [r, i] = v.useState(false), { data: a = [] } = y((n) => n.from({
-      c: we
+  function St() {
+    const t = $(), [r, i] = v.useState(false), { data: a = [] } = C((n) => n.from({
+      c: Pe
     })), s = (n) => {
       t({
         to: "/challenges/$challengeId",
@@ -1563,67 +1889,67 @@ let __tla = (async () => {
           challengeId: n.id
         }
       });
-    }, l = (n) => {
+    }, c = (n) => {
       t({
         to: "/challenges/$challengeId",
         params: {
           challengeId: n.id
         }
       });
-    }, x = async () => {
+    }, p = async () => {
       try {
         let n = 0;
-        for (const o of Qe) try {
-          await N.challenges.add(o), n++;
-        } catch (b) {
-          console.error(`Failed to import preset ${o.name}:`, b);
+        for (const o of us) try {
+          await _.challenges.add(o), n++;
+        } catch (w) {
+          console.error(`Failed to import preset ${o.name}:`, w);
         }
-        n > 0 ? m.success(`\u6210\u529F\u5BFC\u5165 ${n} \u4E2A\u6311\u6218\u9884\u8BBE`) : m.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u6311\u6218\u9884\u8BBE");
+        n > 0 ? d.success(`\u6210\u529F\u5BFC\u5165 ${n} \u4E2A\u6311\u6218\u9884\u8BBE`) : d.error("\u6CA1\u6709\u627E\u5230\u53EF\u5BFC\u5165\u7684\u6311\u6218\u9884\u8BBE");
       } catch (n) {
-        m.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(n);
+        d.error("\u5BFC\u5165\u9884\u8BBE\u5931\u8D25"), console.error(n);
       }
-    }, c = e.jsxs("div", {
+    }, l = e.jsxs("div", {
       className: "flex items-center gap-2",
       children: [
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "outline",
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
           onClick: () => i(true),
           children: [
-            e.jsx(_e, {
+            e.jsx(be, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u6311\u6218"
           ]
         }),
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "outline",
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
-          onClick: x,
+          onClick: p,
           children: [
-            e.jsx(q, {
+            e.jsx(ae, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u5165\u9884\u8BBE"
           ]
         }),
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "outline",
           size: "sm",
           className: "hidden sm:flex items-center gap-2",
           type: "button",
           children: [
-            e.jsx(G, {
+            e.jsx(se, {
               className: "w-4 h-4"
             }),
             "\u5BFC\u51FA\u6240\u6709"
           ]
         }),
-        e.jsxs(p, {
+        e.jsxs(x, {
           variant: "default",
           size: "sm",
           className: "flex items-center gap-2",
@@ -1632,98 +1958,116 @@ let __tla = (async () => {
           }),
           type: "button",
           children: [
-            e.jsx(A, {
+            e.jsx(R, {
               className: "w-4 h-4"
             }),
             "\u65B0\u5EFA\u6311\u6218"
           ]
         }),
-        e.jsx(Ce, {
+        e.jsx($e, {
           open: r,
           onOpenChange: i,
           onImport: (n) => {
-            m.success(`\u6210\u529F\u5BFC\u5165\u6311\u6218: ${n.name}`);
+            d.success(`\u6210\u529F\u5BFC\u5165\u6311\u6218: ${n.name}`);
           }
         })
       ]
     });
     return e.jsx("div", {
       className: "relative",
-      children: e.jsx(be, {
+      children: e.jsx(we, {
         items: a,
         title: "\u6311\u6218\u5217\u8868",
         placeholder: "\u641C\u7D22\u540D\u79F0\u3001\u63CF\u8FF0\u6216\u6807\u7B7E...",
-        actions: c,
+        actions: l,
         getSearchableContent: (n) => {
-          var _a;
-          return `${n.name} ${n.description} ${((_a = n.tags) == null ? void 0 : _a.join(" ")) || ""}`;
+          var _a2;
+          return `${n.name} ${n.description} ${((_a2 = n.tags) == null ? void 0 : _a2.join(" ")) || ""}`;
         },
         getTags: (n) => n.tags || [],
         getId: (n) => n.id,
-        renderCard: (n) => e.jsx(Je, {
+        renderCard: (n) => e.jsx(Qe, {
           challenge: n,
-          onClick: l,
+          onClick: c,
           onStartSession: s
         })
       })
     });
   }
-  const vt = Object.freeze(Object.defineProperty({
+  const It = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: ft
+    component: St
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function _t() {
-    return e.jsx("div", {
-      className: "p-6",
-      children: e.jsx(Ke, {})
+  function Pt() {
+    return e.jsx(G, {
+      requiredFeature: "small-town",
+      children: e.jsx("div", {
+        className: "p-6 relative",
+        children: e.jsx(Ze, {})
+      })
     });
   }
-  const Nt = Object.freeze(Object.defineProperty({
+  const Dt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: _t
+    component: Pt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function yt() {
+  function Ot() {
     return e.jsx("div", {
-      className: "p-6 relative",
+      className: "p-6",
       children: e.jsx(Xe, {})
     });
   }
-  const bt = Object.freeze(Object.defineProperty({
+  const zt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: yt
+    component: Ot
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ct() {
-    return e.jsx(Ye, {});
+  function Tt() {
+    return e.jsx(G, {
+      requiredFeature: "dnd",
+      children: e.jsx("div", {
+        className: "p-6 relative",
+        children: e.jsx(Ye, {})
+      })
+    });
   }
-  const wt = Object.freeze(Object.defineProperty({
+  const Rt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ct
+    component: Tt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function $t() {
-    return e.jsx(Ze, {});
+  function kt() {
+    return e.jsx(es, {});
   }
-  const St = Object.freeze(Object.defineProperty({
+  const At = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: $t
+    component: kt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function It() {
+  function Et() {
+    return e.jsx(ss, {});
+  }
+  const Lt = Object.freeze(Object.defineProperty({
+    __proto__: null,
+    component: Et
+  }, Symbol.toStringTag, {
+    value: "Module"
+  }));
+  function Mt() {
     const t = $(), r = async (a) => {
       if (!a.name) {
-        m.error("\u89D2\u8272\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A");
+        d.error("\u89D2\u8272\u540D\u79F0\u4E0D\u80FD\u4E3A\u7A7A");
         return;
       }
       try {
-        const s = Date.now(), x = {
+        const s = Date.now(), p = {
           id: crypto.randomUUID(),
           name: a.name,
           description: a.description || "",
@@ -1751,13 +2095,13 @@ let __tla = (async () => {
           createdAt: s,
           updatedAt: s
         };
-        await N.characters.add(x);
-        const c = x;
-        m.success(`\u89D2\u8272 ${c.name} \u5DF2\u521B\u5EFA`), t({
+        await _.characters.add(p);
+        const l = p;
+        d.success(`\u89D2\u8272 ${l.name} \u5DF2\u521B\u5EFA`), t({
           to: "/plaza/characters"
         });
       } catch (s) {
-        m.error("\u521B\u5EFA\u5931\u8D25"), console.error(s);
+        d.error("\u521B\u5EFA\u5931\u8D25"), console.error(s);
       }
     }, i = () => {
       t({
@@ -1766,7 +2110,7 @@ let __tla = (async () => {
     };
     return e.jsx("div", {
       className: "p-6 w-full max-w-5xl mx-auto",
-      children: e.jsx($e, {
+      children: e.jsx(Se, {
         className: "w-full",
         onSave: r,
         onCancel: i,
@@ -1774,26 +2118,26 @@ let __tla = (async () => {
       })
     });
   }
-  const Pt = Object.freeze(Object.defineProperty({
+  const Ft = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: It
+    component: Mt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Dt() {
+  function Vt() {
     const t = $(), r = async (a) => {
       try {
         const s = {
           ...a,
-          id: Ie(),
+          id: De(),
           createdAt: Date.now(),
           updatedAt: Date.now()
         };
-        await N.challenges.add(s), m.success("\u6311\u6218\u5361\u521B\u5EFA\u6210\u529F"), t({
+        await _.challenges.add(s), d.success("\u6311\u6218\u5361\u521B\u5EFA\u6210\u529F"), t({
           to: "/plaza/challenges"
         });
       } catch (s) {
-        console.error(s), m.error("\u4FDD\u5B58\u5931\u8D25");
+        console.error(s), d.error("\u4FDD\u5B58\u5931\u8D25");
       }
     }, i = () => {
       t({
@@ -1802,29 +2146,29 @@ let __tla = (async () => {
     };
     return e.jsx("div", {
       className: "p-6 relative",
-      children: e.jsx(es, {
+      children: e.jsx(ts, {
         onSave: r,
         onCancel: i
       })
     });
   }
-  const Ot = Object.freeze(Object.defineProperty({
+  const Gt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Dt
+    component: Vt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function zt() {
-    const t = v.useId(), r = v.useId(), i = v.useId(), a = v.useId(), [s, l] = v.useState({
+  function Ut() {
+    const t = v.useId(), r = v.useId(), i = v.useId(), a = v.useId(), [s, c] = v.useState({
       appName: "My App",
       enableNotifications: true,
       theme: "auto",
       description: ""
-    }), x = () => {
-      m.success("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58");
-    }, c = (n, o) => {
-      l((b) => ({
-        ...b,
+    }), p = () => {
+      d.success("\u8BBE\u7F6E\u5DF2\u4FDD\u5B58");
+    }, l = (n, o) => {
+      c((w) => ({
+        ...w,
         [n]: o
       }));
     };
@@ -1839,7 +2183,7 @@ let __tla = (async () => {
           className: "text-muted-foreground",
           children: "\u7BA1\u7406\u5E94\u7528\u7684\u57FA\u672C\u914D\u7F6E\u548C\u504F\u597D\u8BBE\u7F6E\u3002"
         }),
-        e.jsxs(C, {
+        e.jsxs(b, {
           children: [
             e.jsxs(S, {
               children: [
@@ -1851,7 +2195,7 @@ let __tla = (async () => {
                 })
               ]
             }),
-            e.jsxs(w, {
+            e.jsxs(y, {
               className: "space-y-4",
               children: [
                 e.jsxs("div", {
@@ -1860,28 +2204,28 @@ let __tla = (async () => {
                     e.jsxs("div", {
                       className: "space-y-2",
                       children: [
-                        e.jsx(V, {
+                        e.jsx(X, {
                           htmlFor: t,
                           children: "\u5E94\u7528\u540D\u79F0"
                         }),
-                        e.jsx(xe, {
+                        e.jsx(ge, {
                           id: t,
                           value: s.appName,
-                          onChange: (n) => c("appName", n.target.value)
+                          onChange: (n) => l("appName", n.target.value)
                         })
                       ]
                     }),
                     e.jsxs("div", {
                       className: "space-y-2",
                       children: [
-                        e.jsx(V, {
+                        e.jsx(X, {
                           htmlFor: r,
                           children: "\u4E3B\u9898"
                         }),
-                        e.jsx(xe, {
+                        e.jsx(ge, {
                           id: r,
                           value: s.theme,
-                          onChange: (n) => c("theme", n.target.value)
+                          onChange: (n) => l("theme", n.target.value)
                         })
                       ]
                     })
@@ -1890,14 +2234,14 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "space-y-2",
                   children: [
-                    e.jsx(V, {
+                    e.jsx(X, {
                       htmlFor: i,
                       children: "\u63CF\u8FF0"
                     }),
-                    e.jsx(ds, {
+                    e.jsx(ms, {
                       id: i,
                       value: s.description,
-                      onChange: (n) => c("description", n.target.value),
+                      onChange: (n) => l("description", n.target.value),
                       placeholder: "\u8F93\u5165\u5E94\u7528\u63CF\u8FF0..."
                     })
                   ]
@@ -1905,19 +2249,19 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "flex items-center space-x-2",
                   children: [
-                    e.jsx(ms, {
+                    e.jsx(hs, {
                       id: a,
                       checked: s.enableNotifications,
-                      onCheckedChange: (n) => c("enableNotifications", n)
+                      onCheckedChange: (n) => l("enableNotifications", n)
                     }),
-                    e.jsx(V, {
+                    e.jsx(X, {
                       htmlFor: a,
                       children: "\u542F\u7528\u901A\u77E5"
                     })
                   ]
                 }),
-                e.jsx(p, {
-                  onClick: x,
+                e.jsx(x, {
+                  onClick: p,
                   children: "\u4FDD\u5B58\u8BBE\u7F6E"
                 })
               ]
@@ -1927,13 +2271,13 @@ let __tla = (async () => {
       ]
     });
   }
-  const Rt = Object.freeze(Object.defineProperty({
+  const qt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: zt
+    component: Ut
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function kt() {
+  function Bt() {
     const t = [
       {
         name: "LLM \u914D\u7F6E",
@@ -1954,7 +2298,7 @@ let __tla = (async () => {
         }),
         e.jsx("div", {
           className: "grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4",
-          children: t.map((r) => e.jsxs(C, {
+          children: t.map((r) => e.jsxs(b, {
             className: "hover:shadow-md transition-shadow",
             children: [
               e.jsx(S, {
@@ -1963,13 +2307,13 @@ let __tla = (async () => {
                   children: r.name
                 })
               }),
-              e.jsxs(w, {
+              e.jsxs(y, {
                 children: [
                   e.jsx(P, {
                     className: "mb-4",
                     children: r.description
                   }),
-                  e.jsx(p, {
+                  e.jsx(x, {
                     asChild: true,
                     children: e.jsx(f, {
                       to: r.path,
@@ -1984,14 +2328,14 @@ let __tla = (async () => {
       ]
     });
   }
-  const Tt = Object.freeze(Object.defineProperty({
+  const Wt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: kt
+    component: Bt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function At() {
-    const t = Es.useNavigate(), { config: r, setConfig: i, models: a, isFetchingModels: s, fetchModels: l, customParamList: x, addCustomParam: c, updateCustomParam: n, removeCustomParam: o } = xs();
+  function Ht() {
+    const t = Us.useNavigate(), { config: r, setConfig: i, models: a, isFetchingModels: s, fetchModels: c, customParamList: p, addCustomParam: l, updateCustomParam: n, removeCustomParam: o } = gs();
     return e.jsxs("div", {
       className: "container max-w-4xl mx-auto p-4 space-y-6",
       children: [
@@ -2002,7 +2346,7 @@ let __tla = (async () => {
               className: "text-3xl font-bold",
               children: "\u5168\u5C40 LLM \u914D\u7F6E"
             }),
-            e.jsx(p, {
+            e.jsx(x, {
               onClick: () => t({
                 to: ".."
               }),
@@ -2010,32 +2354,32 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsx(ps, {
+        e.jsx(js, {
           config: r,
           setConfig: i,
           models: a,
           isFetchingModels: s,
-          fetchModels: l,
-          customParamList: x,
-          addCustomParam: c,
+          fetchModels: c,
+          customParamList: p,
+          addCustomParam: l,
           updateCustomParam: n,
           removeCustomParam: o
         })
       ]
     });
   }
-  const Et = Object.freeze(Object.defineProperty({
+  const Jt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: At
+    component: Ht
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Lt() {
-    const { characterId: t } = Ms.useParams(), r = $(), { data: i = [] } = y((d) => d.from({
-      c: M
-    })), { data: a = [] } = y((d) => d.from({
-      s: E
-    })), s = i.find((d) => d.id === t), l = a.filter((d) => d.characterId === t), [x, c] = v.useState(false);
+  function Kt() {
+    const { characterId: t } = Bs.useParams(), r = $(), { data: i = [] } = C((m) => m.from({
+      c: V
+    })), { data: a = [] } = C((m) => m.from({
+      s: k
+    })), s = i.find((m) => m.id === t), c = a.filter((m) => m.characterId === t), [p, l] = v.useState(false);
     if (!s) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -2043,7 +2387,7 @@ let __tla = (async () => {
           className: "text-muted-foreground",
           children: "\u89D2\u8272\u4E0D\u5B58\u5728"
         }),
-        e.jsx(p, {
+        e.jsx(x, {
           onClick: () => r({
             to: "/plaza/characters"
           }),
@@ -2053,40 +2397,40 @@ let __tla = (async () => {
         })
       ]
     });
-    const n = (d) => {
-      if (d === "challenge") {
-        m.info("\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u6311\u6218\u5267\u672C\u4EE5\u5F00\u59CB\u6311\u6218\u6A21\u5F0F"), r({
+    const n = (m) => {
+      if (m === "challenge") {
+        d.info("\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u6311\u6218\u5267\u672C\u4EE5\u5F00\u59CB\u6311\u6218\u6A21\u5F0F"), r({
           to: "/plaza/challenges"
         });
         return;
       }
-      if (d === "dnd") {
+      if (m === "dnd") {
         r({
           to: "/create/dnd"
         });
         return;
       }
-      if (d === "group-chat") {
+      if (m === "group-chat") {
         r({
           to: "/create/group-chat"
         });
         return;
       }
-      c(true);
-    }, b = {
+      l(true);
+    }, w = {
       mode: "chat",
       character: s,
-      onConfirm: async (d) => {
+      onConfirm: async (m) => {
         try {
-          const _ = crypto.randomUUID(), D = Date.now(), g = {
-            id: _,
+          const N = crypto.randomUUID(), D = Date.now(), g = {
+            id: N,
             title: `\u4E0E ${s.name} \u7684\u804A\u5929`,
             contextId: null,
             mode: "chat",
             modeConfig: {
               characterId: s.id,
-              globalSystemPrompt: d.globalSystemPrompt || null,
-              userName: d.userName || "User"
+              globalSystemPrompt: m.globalSystemPrompt || null,
+              userName: m.userName || "User"
             },
             modeState: {},
             characterId: s.id,
@@ -2095,39 +2439,39 @@ let __tla = (async () => {
             updatedAt: D,
             isActive: true
           };
-          await N.sessions.add(g), r({
+          await _.sessions.add(g), r({
             to: "/session/$sessionId",
             params: {
-              sessionId: _
+              sessionId: N
             },
             search: {
               mode: "chat"
             }
           });
-        } catch (_) {
-          console.error("Failed to create session:", _), m.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+        } catch (N) {
+          console.error("Failed to create session:", N), d.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
         }
       }
     }, L = () => {
       try {
         if (!s.imageBase64) {
-          m.error("\u8BE5\u89D2\u8272\u6CA1\u6709\u5934\u50CF\u56FE\u7247\uFF0C\u65E0\u6CD5\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361");
+          d.error("\u8BE5\u89D2\u8272\u6CA1\u6709\u5934\u50CF\u56FE\u7247\uFF0C\u65E0\u6CD5\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361");
           return;
         }
-        const d = ns(s), _ = URL.createObjectURL(d), D = document.createElement("a");
-        D.href = _, D.download = `${s.name}.png`, D.click(), URL.revokeObjectURL(_), m.success(`\u89D2\u8272 ${s.name} \u5DF2\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361`);
-      } catch (d) {
-        console.error(d), m.error("\u5BFC\u51FA PNG \u89D2\u8272\u5361\u5931\u8D25");
+        const m = fs(s), N = URL.createObjectURL(m), D = document.createElement("a");
+        D.href = N, D.download = `${s.name}.png`, D.click(), URL.revokeObjectURL(N), d.success(`\u89D2\u8272 ${s.name} \u5DF2\u5BFC\u51FA\u4E3A PNG \u89D2\u8272\u5361`);
+      } catch (m) {
+        console.error(m), d.error("\u5BFC\u51FA PNG \u89D2\u8272\u5361\u5931\u8D25");
       }
-    }, ne = async () => {
+    }, re = async () => {
       try {
-        const d = a.filter((_) => _.characterId === t);
-        for (const _ of d) await N.sessions.delete(_.id);
-        await N.characters.delete(t), m.success("\u89D2\u8272\u5DF2\u5220\u9664"), r({
+        const m = a.filter((N) => N.characterId === t);
+        for (const N of m) await _.sessions.delete(N.id);
+        await _.characters.delete(t), d.success("\u89D2\u8272\u5DF2\u5220\u9664"), r({
           to: "/plaza/characters"
         });
-      } catch (d) {
-        console.error("Failed to delete character:", d), m.error("\u5220\u9664\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+      } catch (m) {
+        console.error("Failed to delete character:", m), d.error("\u5220\u9664\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
     };
     return e.jsxs("div", {
@@ -2136,7 +2480,7 @@ let __tla = (async () => {
         e.jsxs("div", {
           className: "flex items-center justify-between",
           children: [
-            e.jsxs(p, {
+            e.jsxs(x, {
               variant: "ghost",
               size: "sm",
               className: "mb-2 -ml-2 text-muted-foreground hover:bg-transparent",
@@ -2145,7 +2489,7 @@ let __tla = (async () => {
               }),
               type: "button",
               children: [
-                e.jsx(le, {
+                e.jsx(me, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u8FD4\u56DE\u89D2\u8272\u5E7F\u573A"
@@ -2154,44 +2498,44 @@ let __tla = (async () => {
             e.jsxs("div", {
               className: "flex items-center gap-2",
               children: [
-                e.jsxs(re, {
+                e.jsxs(ce, {
                   children: [
-                    e.jsx(oe, {
+                    e.jsx(le, {
                       asChild: true,
-                      children: e.jsxs(p, {
+                      children: e.jsxs(x, {
                         variant: "outline",
                         size: "sm",
                         className: "flex gap-2 h-8 rounded-lg",
                         type: "button",
                         children: [
-                          e.jsx(G, {
+                          e.jsx(se, {
                             className: "w-4 h-4"
                           }),
                           "\u5BFC\u51FA"
                         ]
                       })
                     }),
-                    e.jsxs(ce, {
+                    e.jsxs(ie, {
                       align: "end",
                       className: "w-56",
                       children: [
-                        e.jsx(hs, {
+                        e.jsx(ps, {
                           children: "\u9009\u62E9\u5BFC\u51FA\u683C\u5F0F"
                         }),
-                        e.jsx(ue, {}),
-                        e.jsxs(O, {
+                        e.jsx(fe, {}),
+                        e.jsxs(T, {
                           onClick: L,
                           children: [
-                            e.jsx(Fe, {
+                            e.jsx(Ge, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5BFC\u51FA PNG \u89D2\u8272\u5361 (\u63A8\u8350)"
                           ]
                         }),
-                        e.jsx(ss, {
+                        e.jsx(as, {
                           character: s,
-                          trigger: e.jsxs(O, {
-                            onSelect: (d) => d.preventDefault(),
+                          trigger: e.jsxs(T, {
+                            onSelect: (m) => m.preventDefault(),
                             children: [
                               e.jsx(Ue, {
                                 className: "mr-2 h-4 w-4"
@@ -2204,25 +2548,25 @@ let __tla = (async () => {
                     })
                   ]
                 }),
-                e.jsxs(re, {
+                e.jsxs(ce, {
                   children: [
-                    e.jsx(oe, {
+                    e.jsx(le, {
                       asChild: true,
-                      children: e.jsx(p, {
+                      children: e.jsx(x, {
                         variant: "ghost",
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(Ne, {
+                        children: e.jsx(ye, {
                           className: "w-4 h-4"
                         })
                       })
                     }),
-                    e.jsxs(ce, {
+                    e.jsxs(ie, {
                       align: "end",
                       className: "w-48",
                       children: [
-                        e.jsxs(O, {
+                        e.jsxs(T, {
                           onClick: () => r({
                             to: "/characters/$characterId/edit",
                             params: {
@@ -2230,44 +2574,44 @@ let __tla = (async () => {
                             }
                           }),
                           children: [
-                            e.jsx(pe, {
+                            e.jsx(je, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u7F16\u8F91\u89D2\u8272"
                           ]
                         }),
-                        e.jsxs(O, {
+                        e.jsxs(T, {
                           children: [
-                            e.jsx(ye, {
+                            e.jsx(Ce, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5206\u4EAB\u89D2\u8272"
                           ]
                         }),
-                        e.jsx(ue, {}),
-                        e.jsxs(Q, {
+                        e.jsx(fe, {}),
+                        e.jsxs(U, {
                           children: [
-                            e.jsx(K, {
+                            e.jsx(q, {
                               asChild: true,
-                              children: e.jsxs(O, {
-                                onSelect: (d) => d.preventDefault(),
+                              children: e.jsxs(T, {
+                                onSelect: (m) => m.preventDefault(),
                                 className: "text-destructive focus:bg-destructive/10 focus:text-destructive",
                                 children: [
-                                  e.jsx(J, {
+                                  e.jsx(F, {
                                     className: "mr-2 h-4 w-4"
                                   }),
                                   " \u5220\u9664\u89D2\u8272"
                                 ]
                               })
                             }),
-                            e.jsxs(X, {
+                            e.jsxs(B, {
                               children: [
-                                e.jsxs(Y, {
+                                e.jsxs(W, {
                                   children: [
-                                    e.jsx(Z, {
+                                    e.jsx(H, {
                                       children: "\u786E\u8BA4\u5220\u9664\u89D2\u8272"
                                     }),
-                                    e.jsxs(ee, {
+                                    e.jsxs(J, {
                                       children: [
                                         '\u786E\u5B9A\u8981\u5220\u9664\u89D2\u8272 "',
                                         s.name,
@@ -2276,13 +2620,13 @@ let __tla = (async () => {
                                     })
                                   ]
                                 }),
-                                e.jsxs(se, {
+                                e.jsxs(K, {
                                   children: [
-                                    e.jsx(te, {
+                                    e.jsx(Q, {
                                       children: "\u53D6\u6D88"
                                     }),
-                                    e.jsx(ae, {
-                                      onClick: ne,
+                                    e.jsx(Z, {
+                                      onClick: re,
                                       className: "bg-destructive hover:bg-destructive/90",
                                       children: "\u786E\u8BA4\u5220\u9664"
                                     })
@@ -2309,7 +2653,7 @@ let __tla = (async () => {
                 src: s.imageBase64 || s.avatar,
                 alt: s.name,
                 className: "w-full h-full object-cover"
-              }) : e.jsx(Ge, {
+              }) : e.jsx(qe, {
                 className: "w-20 h-20 text-muted-foreground/30"
               })
             }),
@@ -2326,7 +2670,7 @@ let __tla = (async () => {
                           className: "text-4xl font-extrabold tracking-tight",
                           children: s.name
                         }),
-                        e.jsxs(p, {
+                        e.jsxs(x, {
                           variant: "outline",
                           size: "sm",
                           onClick: () => r({
@@ -2338,7 +2682,7 @@ let __tla = (async () => {
                           className: "flex items-center gap-2",
                           type: "button",
                           children: [
-                            e.jsx(pe, {
+                            e.jsx(je, {
                               className: "w-4 h-4"
                             }),
                             "\u7F16\u8F91"
@@ -2354,11 +2698,11 @@ let __tla = (async () => {
                 }),
                 e.jsx("div", {
                   className: "flex flex-wrap gap-2",
-                  children: s.tags.map((d) => e.jsx(R, {
+                  children: s.tags.map((m) => e.jsx(z, {
                     variant: "secondary",
                     className: "px-3 py-1 font-medium",
-                    children: d
-                  }, d))
+                    children: m
+                  }, m))
                 }),
                 e.jsxs("p", {
                   className: "text-base leading-relaxed text-muted-foreground/90 max-w-2xl",
@@ -2371,69 +2715,69 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsxs(ie, {
+        e.jsxs(he, {
           defaultValue: "sessions",
           className: "w-full",
           children: [
-            e.jsxs(de, {
+            e.jsxs(pe, {
               className: "w-full justify-start h-12 bg-muted/50 p-1 mb-6",
               children: [
-                e.jsx(z, {
+                e.jsx(O, {
                   value: "sessions",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u4F1A\u8BDD & \u8BB0\u5F55"
                 }),
-                e.jsx(z, {
+                e.jsx(O, {
                   value: "details",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u6863\u6848\u8BE6\u60C5"
                 })
               ]
             }),
-            e.jsx(B, {
+            e.jsx(te, {
               value: "sessions",
               className: "mt-0",
               children: e.jsx("div", {
                 className: "grid grid-cols-1 md:grid-cols-1 gap-8",
-                children: e.jsx(ts, {
+                children: e.jsx(ns, {
                   characterId: s.id,
-                  sessions: l,
+                  sessions: c,
                   onStartNew: n
                 })
               })
             }),
-            e.jsx(B, {
+            e.jsx(te, {
               value: "details",
               className: "mt-0",
-              children: e.jsx(as, {
+              children: e.jsx(rs, {
                 character: s
               })
             })
           ]
         }),
-        e.jsx(Se, {
-          open: x,
-          onOpenChange: c,
-          wizardProps: b
+        e.jsx(Ie, {
+          open: p,
+          onOpenChange: l,
+          wizardProps: w
         })
       ]
     });
   }
-  const Mt = Object.freeze(Object.defineProperty({
+  const Qt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Lt
+    component: Kt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Vt() {
-    var _a;
-    const { challengeId: t } = Fs.useParams(), r = $(), { data: i = [] } = y((g) => g.from({
-      c: we
-    })), a = i.find((g) => g.id === t), { data: s = [] } = y((g) => g.from({
-      s: E
-    })), { data: l = [] } = y((g) => g.from({
-      char: M
-    })), x = s.filter((g) => g.challengeId === t), [c, n] = v.useState(false), [o, b] = v.useState(null);
+  function Zt() {
+    var _a2;
+    const { challengeId: t } = Hs.useParams(), r = $(), { data: i = [] } = C((g) => g.from({
+      c: Pe
+    })), a = i.find((g) => g.id === t), { data: s = [] } = C((g) => g.from({
+      s: k
+    })), { data: c = [] } = C((g) => g.from({
+      char: V
+    })), p = s.filter((g) => g.challengeId === t), [l, n] = v.useState(false), [o, w] = v.useState(null);
     if (!a) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -2441,7 +2785,7 @@ let __tla = (async () => {
           className: "text-muted-foreground",
           children: "\u6311\u6218\u4E0D\u5B58\u5728"
         }),
-        e.jsx(p, {
+        e.jsx(x, {
           onClick: () => r({
             to: "/plaza/challenges"
           }),
@@ -2452,15 +2796,15 @@ let __tla = (async () => {
       ]
     });
     const L = (g) => {
-      b(g), n(true);
-    }, ne = async () => {
+      w(g), n(true);
+    }, re = async () => {
       if (o) try {
-        const g = Ie(), me = Date.now(), he = {};
-        for (const [k, De] of Object.entries(a.variables)) he[k] = {
-          key: k,
-          value: De.initial
+        const g = De(), xe = Date.now(), ue = {};
+        for (const [A, ze] of Object.entries(a.variables)) ue[A] = {
+          key: A,
+          value: ze.initial
         };
-        const Pe = {
+        const Oe = {
           id: g,
           title: `${a.name}`,
           contextId: null,
@@ -2476,25 +2820,25 @@ let __tla = (async () => {
           modeState: {
             currentPhase: "dm_intro",
             currentUIState: "idle",
-            variableStates: he,
-            goalStates: a.goals.map((k) => ({
-              key: k.key,
+            variableStates: ue,
+            goalStates: a.goals.map((A) => ({
+              key: A.key,
               checkCount: 0,
               isMet: false
             })),
-            failureStates: a.failureChecks.map((k) => ({
-              key: k.key,
+            failureStates: a.failureChecks.map((A) => ({
+              key: A.key,
               checkCount: 0,
               isMet: false
             }))
           },
           characterId: o,
           challengeId: a.id,
-          createdAt: me,
-          updatedAt: me,
+          createdAt: xe,
+          updatedAt: xe,
           isActive: true
         };
-        await N.sessions.add(Pe), r({
+        await _.sessions.add(Oe), r({
           to: "/session/$sessionId",
           params: {
             sessionId: g
@@ -2504,15 +2848,15 @@ let __tla = (async () => {
           }
         });
       } catch (g) {
-        console.error("Failed to create challenge session:", g), m.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+        console.error("Failed to create challenge session:", g), d.error("\u521B\u5EFA\u4F1A\u8BDD\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
-    }, d = l.find((g) => g.id === o), _ = d ? {
+    }, m = c.find((g) => g.id === o), N = m ? {
       mode: "challenge",
-      character: d,
+      character: m,
       challenge: a,
-      onConfirm: ne
+      onConfirm: re
     } : null, D = () => {
-      m.success(`\u6B63\u5728\u5BFC\u51FA\u6311\u6218 ${a.name}...`);
+      d.success(`\u6B63\u5728\u5BFC\u51FA\u6311\u6218 ${a.name}...`);
     };
     return e.jsxs("div", {
       className: "max-w-5xl mx-auto p-4 md:p-8 space-y-8 animate-in fade-in slide-in-from-bottom-2 duration-500 relative",
@@ -2520,7 +2864,7 @@ let __tla = (async () => {
         e.jsxs("div", {
           className: "flex items-center justify-between",
           children: [
-            e.jsxs(p, {
+            e.jsxs(x, {
               variant: "ghost",
               size: "sm",
               className: "mb-2 -ml-2 text-muted-foreground hover:bg-transparent",
@@ -2529,7 +2873,7 @@ let __tla = (async () => {
               }),
               type: "button",
               children: [
-                e.jsx(le, {
+                e.jsx(me, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u8FD4\u56DE\u6311\u6218\u5E7F\u573A"
@@ -2538,78 +2882,78 @@ let __tla = (async () => {
             e.jsxs("div", {
               className: "flex items-center gap-2",
               children: [
-                e.jsxs(p, {
+                e.jsxs(x, {
                   variant: "outline",
                   size: "sm",
                   className: "hidden sm:flex gap-2 h-8 rounded-lg",
                   onClick: D,
                   type: "button",
                   children: [
-                    e.jsx(G, {
+                    e.jsx(se, {
                       className: "w-4 h-4"
                     }),
                     "\u5BFC\u51FA\u6311\u6218"
                   ]
                 }),
-                e.jsxs(re, {
+                e.jsxs(ce, {
                   children: [
-                    e.jsx(oe, {
+                    e.jsx(le, {
                       asChild: true,
-                      children: e.jsx(p, {
+                      children: e.jsx(x, {
                         variant: "ghost",
                         size: "icon",
                         className: "h-8 w-8 rounded-full",
                         type: "button",
-                        children: e.jsx(Ne, {
+                        children: e.jsx(ye, {
                           className: "w-4 h-4"
                         })
                       })
                     }),
-                    e.jsxs(ce, {
+                    e.jsxs(ie, {
                       align: "end",
                       className: "w-48",
                       children: [
-                        e.jsxs(O, {
+                        e.jsxs(T, {
                           onClick: D,
                           className: "sm:hidden",
                           children: [
-                            e.jsx(G, {
+                            e.jsx(se, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5BFC\u51FA JSON"
                           ]
                         }),
-                        e.jsxs(O, {
+                        e.jsxs(T, {
                           children: [
-                            e.jsx(ye, {
+                            e.jsx(Ce, {
                               className: "mr-2 h-4 w-4"
                             }),
                             " \u5206\u4EAB\u6311\u6218"
                           ]
                         }),
-                        e.jsxs(Q, {
+                        e.jsxs(U, {
                           children: [
-                            e.jsx(K, {
+                            e.jsx(q, {
                               asChild: true,
-                              children: e.jsxs(O, {
+                              children: e.jsxs(T, {
                                 onSelect: (g) => g.preventDefault(),
                                 className: "text-destructive focus:bg-destructive/10 focus:text-destructive",
                                 children: [
-                                  e.jsx(J, {
+                                  e.jsx(F, {
                                     className: "mr-2 h-4 w-4"
                                   }),
                                   " \u5220\u9664\u6311\u6218"
                                 ]
                               })
                             }),
-                            e.jsxs(X, {
+                            e.jsxs(B, {
                               children: [
-                                e.jsxs(Y, {
+                                e.jsxs(W, {
                                   children: [
-                                    e.jsx(Z, {
+                                    e.jsx(H, {
                                       children: "\u786E\u8BA4\u5220\u9664\u6311\u6218"
                                     }),
-                                    e.jsxs(ee, {
+                                    e.jsxs(J, {
                                       children: [
                                         "\u786E\u5B9A\u8981\u5220\u9664\u6311\u6218\u300C",
                                         a.name,
@@ -2618,15 +2962,15 @@ let __tla = (async () => {
                                     })
                                   ]
                                 }),
-                                e.jsxs(se, {
+                                e.jsxs(K, {
                                   children: [
-                                    e.jsx(te, {
+                                    e.jsx(Q, {
                                       children: "\u53D6\u6D88"
                                     }),
-                                    e.jsx(ae, {
+                                    e.jsx(Z, {
                                       className: "bg-destructive hover:bg-destructive/90",
                                       onClick: async () => {
-                                        await N.challenges.delete(a.id), m.success("\u6311\u6218\u5DF2\u5220\u9664"), r({
+                                        await _.challenges.delete(a.id), d.success("\u6311\u6218\u5DF2\u5220\u9664"), r({
                                           to: "/plaza/challenges"
                                         });
                                       },
@@ -2651,7 +2995,7 @@ let __tla = (async () => {
           children: [
             e.jsx("div", {
               className: "w-40 h-40 rounded-3xl bg-primary/10 flex items-center justify-center shrink-0 border-4 border-background shadow-xl overflow-hidden",
-              children: e.jsx(fe, {
+              children: e.jsx(Ne, {
                 className: "w-20 h-20 text-primary"
               })
             }),
@@ -2661,7 +3005,7 @@ let __tla = (async () => {
                 e.jsxs("div", {
                   className: "space-y-2",
                   children: [
-                    e.jsx(R, {
+                    e.jsx(z, {
                       variant: "outline",
                       className: "text-primary bg-primary/5 border-primary/20 uppercase tracking-widest text-[10px] px-2",
                       children: "Challenge Scenario"
@@ -2674,7 +3018,7 @@ let __tla = (async () => {
                 }),
                 e.jsx("div", {
                   className: "flex flex-wrap gap-2",
-                  children: (_a = a.tags) == null ? void 0 : _a.map((g) => e.jsx(R, {
+                  children: (_a2 = a.tags) == null ? void 0 : _a2.map((g) => e.jsx(z, {
                     variant: "secondary",
                     className: "px-3 py-1 font-medium",
                     children: g
@@ -2692,62 +3036,62 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsxs(ie, {
+        e.jsxs(he, {
           defaultValue: "details",
           className: "w-full",
           children: [
-            e.jsxs(de, {
+            e.jsxs(pe, {
               className: "w-full justify-start h-12 bg-muted/50 p-1 mb-6",
               children: [
-                e.jsx(z, {
+                e.jsx(O, {
                   value: "details",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u6311\u6218\u8BE6\u60C5"
                 }),
-                e.jsx(z, {
+                e.jsx(O, {
                   value: "sessions",
                   className: "px-8 h-10 data-[state=active]:shadow-sm",
                   children: "\u5173\u8054\u4F1A\u8BDD"
                 })
               ]
             }),
-            e.jsx(B, {
+            e.jsx(te, {
               value: "details",
               className: "mt-0",
-              children: e.jsx(rs, {
+              children: e.jsx(os, {
                 challenge: a
               })
             }),
-            e.jsx(B, {
+            e.jsx(te, {
               value: "sessions",
               className: "mt-0",
-              children: e.jsx(os, {
+              children: e.jsx(cs, {
                 challengeId: a.id,
-                sessions: x,
-                characters: l,
+                sessions: p,
+                characters: c,
                 onStartNew: L
               })
             })
           ]
         }),
-        _ && e.jsx(Se, {
-          open: c,
+        N && e.jsx(Ie, {
+          open: l,
           onOpenChange: n,
-          wizardProps: _
+          wizardProps: N
         })
       ]
     });
   }
-  const Ft = Object.freeze(Object.defineProperty({
+  const Xt = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Vt
+    component: Zt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-  function Ut() {
-    const { characterId: t } = Gs.useParams(), r = $(), { data: i = [] } = y((c) => c.from({
-      c: M
-    })), a = i.find((c) => c.id === t);
+  function Yt() {
+    const { characterId: t } = Ks.useParams(), r = $(), { data: i = [] } = C((l) => l.from({
+      c: V
+    })), a = i.find((l) => l.id === t);
     if (!a) return e.jsxs("div", {
       className: "p-20 text-center flex flex-col items-center gap-4",
       children: [
@@ -2755,7 +3099,7 @@ let __tla = (async () => {
           className: "text-muted-foreground",
           children: "\u89D2\u8272\u4E0D\u5B58\u5728"
         }),
-        e.jsx(p, {
+        e.jsx(x, {
           onClick: () => r({
             to: "/plaza/characters"
           }),
@@ -2765,45 +3109,45 @@ let __tla = (async () => {
         })
       ]
     });
-    const s = async (c) => {
+    const s = async (l) => {
       try {
         const n = Date.now(), o = {
           ...a,
-          ...c,
+          ...l,
           updatedAt: n,
           modification_date: n
         };
-        await N.characters.put(o), m.success(`\u89D2\u8272 ${a.name} \u5DF2\u66F4\u65B0`), r({
+        await _.characters.put(o), d.success(`\u89D2\u8272 ${a.name} \u5DF2\u66F4\u65B0`), r({
           to: "/characters/$characterId",
           params: {
             characterId: a.id
           }
         });
       } catch (n) {
-        console.error("Failed to update character:", n), m.error("\u66F4\u65B0\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
+        console.error("Failed to update character:", n), d.error("\u66F4\u65B0\u89D2\u8272\u5931\u8D25\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5");
       }
-    }, l = () => {
+    }, c = () => {
       r({
         to: "/characters/$characterId",
         params: {
           characterId: a.id
         }
       });
-    }, x = a;
+    }, p = a;
     return e.jsxs("div", {
       className: "w-full max-w-5xl mx-auto p-4 md:p-8 space-y-6",
       children: [
         e.jsxs("div", {
           className: "flex items-center gap-2",
           children: [
-            e.jsxs(p, {
+            e.jsxs(x, {
               variant: "ghost",
               size: "sm",
               className: "text-muted-foreground hover:bg-transparent",
-              onClick: l,
+              onClick: c,
               type: "button",
               children: [
-                e.jsx(le, {
+                e.jsx(me, {
                   className: "w-4 h-4 mr-1"
                 }),
                 " \u53D6\u6D88\u7F16\u8F91"
@@ -2818,48 +3162,50 @@ let __tla = (async () => {
             })
           ]
         }),
-        e.jsx($e, {
+        e.jsx(Se, {
           onSave: s,
-          onCancel: l,
-          initialData: x,
+          onCancel: c,
+          initialData: p,
           mode: "edit"
         })
       ]
     });
   }
-  const Gt = Object.freeze(Object.defineProperty({
+  const ea = Object.freeze(Object.defineProperty({
     __proto__: null,
-    component: Ut
+    component: Yt
   }, Symbol.toStringTag, {
     value: "Module"
   }));
-})();
+});
 export {
-  Zt as R,
+  Ks as A,
+  ha as R,
   __tla,
-  ea as a,
-  sa as b,
-  ta as c,
-  aa as d,
-  na as e,
-  ra as f,
-  oa as g,
-  ca as h,
-  ge as i,
-  la as j,
-  ia as k,
-  da as l,
-  ma as m,
-  ha as n,
-  pa as o,
-  xa as p,
-  ua as q,
-  ga as r,
-  ja as s,
-  fa as t,
-  va as u,
-  Es as v,
-  Ms as w,
-  Fs as x,
-  Gs as y
+  pa as a,
+  xa as b,
+  ua as c,
+  ja as d,
+  ga as e,
+  fa as f,
+  va as g,
+  _a as h,
+  ve as i,
+  Na as j,
+  ba as k,
+  ya as l,
+  Ca as m,
+  wa as n,
+  $a as o,
+  Sa as p,
+  Ia as q,
+  Pa as r,
+  Da as s,
+  Oa as t,
+  za as u,
+  Ta as v,
+  Ra as w,
+  Us as x,
+  Bs as y,
+  Hs as z
 };
