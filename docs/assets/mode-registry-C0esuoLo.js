@@ -1,8 +1,0 @@
-import { q as s, p as t, o as r, n as c, ae as o, af as i } from "./icons-BC63ChG4.js";
-const e = { chat: { id: "chat", label: "\u804A\u5929", description: "\u7EAF\u7CB9\u7684\u89D2\u8272RP\u5BF9\u8BDD", icon: i, colorClass: "text-blue-500", badgeText: "\u804A\u5929\u6A21\u5F0F", sessionPrefix: "\u804A\u5929" }, challenge: { id: "challenge", label: "\u6311\u6218", description: "\u542B DM \u65C1\u767D\u4E0E\u76EE\u6807\u6311\u6218", icon: o, colorClass: "text-amber-500", badgeText: "\u6311\u6218\u6A21\u5F0F", sessionPrefix: "\u6311\u6218" }, dnd: { id: "dnd", label: "DnD", description: "\u591A\u4EBA DnD \u684C\u6E38\u5192\u9669", icon: c, colorClass: "text-amber-600", badgeText: "DnD \u6A21\u5F0F", sessionPrefix: "DnD \u5192\u9669" }, "group-chat": { id: "group-chat", label: "\u7FA4\u804A", description: "\u591A\u89D2\u8272\u81EA\u7531\u7FA4\u804A", icon: r, colorClass: "text-violet-500", badgeText: "\u7FA4\u804A\u6A21\u5F0F", sessionPrefix: "\u7FA4\u804A" }, "chat-create-character": { id: "chat-create-character", label: "\u804A\u5929\u521B\u89D2", description: "\u901A\u8FC7\u5BF9\u8BDD\u521B\u5EFA\u89D2\u8272\u5361", icon: t, colorClass: "text-emerald-500", badgeText: "\u804A\u5929\u521B\u89D2", sessionPrefix: "\u521B\u5EFA\u89D2\u8272" }, "chat-create-challenge": { id: "chat-create-challenge", label: "\u804A\u5929\u521B\u6311\u6218", description: "\u901A\u8FC7\u5BF9\u8BDD\u521B\u5EFA\u6311\u6218\u5361", icon: s, colorClass: "text-orange-500", badgeText: "\u804A\u5929\u521B\u6311\u6218", sessionPrefix: "\u521B\u5EFA\u6311\u6218" } };
-function n(a) {
-  return e[a] || e.chat;
-}
-export {
-  n as g
-};

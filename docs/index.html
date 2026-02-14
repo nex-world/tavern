@@ -1,19 +1,98 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/jpeg" href="/tavern/icon.jpg" />
+    <link rel="preload" as="image" href="/favicon.svg">
+    <link rel="icon" href="/favicon.svg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <title>AllInOne WebApp</title> -->
-    <script type="module" crossorigin src="/tavern/assets/index-DkZE5rMH.js"></script>
-    <link rel="modulepreload" crossorigin href="/tavern/assets/vendor-CjYbcnj-.js">
+    <title>NexTavern - AI 角色扮演与沉浸式互动叙事平台</title>
+    <link rel="canonical" href="https://nexworld.wiki/tavern/" />
+    <meta name="description" content="NexTavern 是一款革命性的 AI 驱动角色扮演和故事生成平台。提供沉浸式 AI 互动体验：从挑战模式的目标导向冒险，到 DnD 桌游的经典跑团机制（含 D20 投掷），再到 AI 驱动的虚拟小镇模拟与多角色自动群聊。用户可轻松创作自定义角色卡、参与动态对话、探索无限剧情可能。数据采用 Local-first 本地存储，确保隐私安全。无论您是 TRPG 玩家、同人创作者还是 AI 探索者，NexTavern 都能助您开启由 AI 驱动的无限创意之旅。" />
+    <meta name="keywords" content="AI 角色扮演, AI 跑团, NexTavern, DnD, 互动小说, 小镇模拟, 挑战模式, 群聊, AI 聊天, TRPG, 赛博朋克, 西幻, 角色卡创作, 本地存储 AI" />
+    <meta name="author" content="NexWorld" />
+    <meta name="theme-color" content="#09090b" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="NexTavern" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nexworld.wiki/tavern/" />
+    <meta property="og:site_name" content="NexTavern" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:title" content="NexTavern - AI 角色扮演与沉浸式互动叙事平台" />
+    <meta property="og:description" content="探索 AI 驱动的无限故事可能：挑战模式、DnD 跑团、虚拟小镇模拟。创作您的自定义角色，开启沉浸式 RP 体验。" />
+    <meta property="og:image" content="https://nexworld.wiki/assets/og-image.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://nexworld.wiki/tavern/" />
+    <meta property="twitter:title" content="NexTavern - AI 角色扮演平台" />
+    <meta property="twitter:description" content="沉浸式 AI 角色扮演：DnD 跑团、挑战模式、NPC 小镇模拟。掌控您的叙事之旅。" />
+    <meta property="twitter:image" content="https://nexworld.wiki/assets/og-image.png" />
+    <!-- Bing Webmaster Tools -->
+    <meta name="msvalidate.01" content="291E407AEBE0D6D348D07275B1CC7651" />
+    <!-- Google Search Console -->
+    <meta name="google-site-verification" content="G-JLTXTXN5LJ" />
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "v93gwyn4il");
+    </script>
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "NexTavern",
+        "url": "https://nexworld.wiki/tavern/",
+        "description": "NexTavern 是一款革命性的 AI 驱动角色扮演与互动叙事平台。集成多种游戏化模式：AI 挑战、D20 DnD 跑团、虚拟小镇模拟及多角色自动群聊。Local-first 本地存储，隐私安全。",
+        "applicationCategory": "Game, Roleplaying, AI Tool, Storytelling",
+        "operatingSystem": "Web",
+        "author": {
+          "@type": "Organization",
+          "name": "NexWorld"
+        },
+        "featureList": [
+          "AI 辅助角色与剧情创作",
+          "AI 挑战模式 (目标导向 RP)",
+          "经典 DnD 系统 (含 D20 投掷逻辑)",
+          "小镇模拟 (AI 居民行为驱动)",
+          "多人 AI 群聊互动场景",
+          "本地 IndexedDB 数据隐私保护",
+          "多主题界面样式 (赛博朋克, 中式, 跑团等)"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "NexTavern",
+        "softwareVersion": "0.0.1",
+        "applicationCategory": "GameApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "CNY"
+        },
+        "aggregateRating": null
+      }
+    ]
+    </script>
+    <script type="module" crossorigin src="/tavern/assets/index-IzUhM_kF.js"></script>
+    <link rel="modulepreload" crossorigin href="/tavern/assets/vendor-C4ToNUTj.js">
     <link rel="modulepreload" crossorigin href="/tavern/assets/@radix-ui-BQCqNqg0.js">
     <link rel="modulepreload" crossorigin href="/tavern/assets/immer-BCQU3qJI.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/react-BQpw03Eg.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/dexie-B3Kybfa7.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/@tanstack-B4B5CfFY.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/icons-BC63ChG4.js">
-    <link rel="stylesheet" crossorigin href="/tavern/assets/index-Daz3Tiae.css">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/react-D9TtqY-V.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/dexie-C2pyTzVO.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/@tanstack-3iyDWv8L.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/icons-bBaH0MBC.js">
+    <link rel="stylesheet" crossorigin href="/tavern/assets/index-BveKglP0.css">
   </head>
   <body>
     <div id="app"></div>
