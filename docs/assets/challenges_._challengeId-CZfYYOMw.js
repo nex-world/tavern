@@ -9,7 +9,7 @@ import { T as ee, a as se, b as T, c as A } from "./tabs-ZtUtVHhO.js";
 import { D as ae, a as te, b as re, e as j, S as le } from "./SessionSetupWizard-Ki7Tbb9h.js";
 import { n as ie } from "./id-OxPLOBIU.js";
 import { A as ne, a as ce, b as de, c as oe, d as me, e as xe, f as he, g as pe, h as ue } from "./alert-dialog-D3tRcaR3.js";
-import { c as ge } from "./index-hrsTZy9Q.js";
+import { c as ge } from "./index-Ni0JwIOS.js";
 import "./vendor-DqU8PgXE.js";
 import "./@radix-ui-BQCqNqg0.js";
 import "./immer-BCQU3qJI.js";

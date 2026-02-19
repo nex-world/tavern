@@ -1,54 +1,54 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/route-CvYGdG02.js","assets/react-BPCshYXX.js","assets/vendor-DqU8PgXE.js","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/@tanstack-BuNX36FW.js","assets/dexie-DOn8o3hw.js","assets/shadcn-utils-BMZD7_jZ.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/icons-BpfK1DnB.js","assets/button-CKyQl8ny.js","assets/dialog-CbwgCfJB.js","assets/badge-b3CWeD_H.js","assets/input-Dje6SeH9.js","assets/app-configurations-Cz44104t.js","assets/es-toolkit-CstbrnlE.js","assets/route-cK0LOk6v.js","assets/index-B9OSbGWq.js","assets/session-tUDpUcwd.js","assets/mode-registry-B-qWNhGq.js","assets/alert-dialog-D3tRcaR3.js","assets/CharacterAvatar-DwtbYeXp.js","assets/sheet-9m8O3R_a.js","assets/db-master-xI8DZi24.js","assets/zod-fbN9ubnj.js","assets/plaza-Pl3q1tCt.js","assets/tabs-ZtUtVHhO.js","assets/me-BMEtpYzi.js","assets/invitation-BuPKo1rc.js","assets/label-DxXosFPV.js","assets/card-B79febki.js","assets/nex-tavern-uuid-HW61e36x.js","assets/id-OxPLOBIU.js","assets/create-ekZes9ss.js","assets/admin-zbVMc6b0.js","assets/select-CgkKzHrj.js","assets/checkbox-BCgVagup.js","assets/route-C3Q8wEaJ.js","assets/index-dTDOHMVL.js","assets/session._sessionId-C_PiJYw6.js","assets/InvitationGuard-CREUuIl2.js","assets/plaza.small-town-PgtChSGv.js","assets/plaza.group-chat-B9ceEpkQ.js","assets/plaza.dnd-D9g2aveG.js","assets/plaza.characters-6mSKfLTl.js","assets/ImportCardDialog-BI6Wr_rq.js","assets/gsap-DDlvirwQ.js","assets/card-converters-D3se0fkY.js","assets/ImportCardDialog-DvwNuPEv.css","assets/plaza.challenges-TfTbKuqg.js","assets/create_.small-town-BYPqWFcy.js","assets/slider-x3H1qI5O.js","assets/textarea-Dc_MpBxB.js","assets/llm-readiness-DgR8F2ee.js","assets/create_.novel-writing-Bv-2kB2D.js","assets/create_.group-chat-fiTsvniW.js","assets/create_.dnd-D_-lQVrV.js","assets/create_.chat-character-CsbLHQ8p.js","assets/useLLM-CCvhQGvi.js","assets/global-llm-config.store-B8jg895c.js","assets/create_.chat-challenge-Clx_oqyE.js","assets/create_.character-DTyFaDSF.js","assets/CharacterCreationForm-r4hjOvIc.js","assets/switch-DwXGULrD.js","assets/create_.challenge-Ck_xOQK7.js","assets/settings-BVVEkAAX.js","assets/overview-DAzD2HfX.js","assets/llm-B35PeQsu.js","assets/characters_._characterId-R6ziNYkL.js","assets/SessionSetupWizard-Ki7Tbb9h.js","assets/challenges_._challengeId-CLJI-opT.js","assets/characters_._characterId_.edit-SqbG24H9.js"])))=>i.map(i=>d[i]);
-import { z as N, j as p, T as j, r as R, d as M, p as H, e as W } from "./react-BPCshYXX.js";
-import { Q as O, a as D, H as q, O as B, c as K, b as a, l as n, r as U, d as Q, e as X, R as J } from "./@tanstack-BuNX36FW.js";
-import { L as Y, O as Z, T as ee, I as te, C as oe } from "./icons-BpfK1DnB.js";
-import { v as ae } from "./vendor-DqU8PgXE.js";
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/route-zMIwdcmG.js","assets/react-BPCshYXX.js","assets/vendor-DqU8PgXE.js","assets/@radix-ui-BQCqNqg0.js","assets/immer-BCQU3qJI.js","assets/@tanstack-BuNX36FW.js","assets/dexie-DOn8o3hw.js","assets/shadcn-utils-BMZD7_jZ.js","assets/components-and-styling-lnR2ABT4.js","assets/@tailwind-COJ8Fh6m.js","assets/icons-BpfK1DnB.js","assets/button-CKyQl8ny.js","assets/dialog-CbwgCfJB.js","assets/badge-b3CWeD_H.js","assets/input-Dje6SeH9.js","assets/app-configurations-Cz44104t.js","assets/es-toolkit-CstbrnlE.js","assets/route-BsGIgwHM.js","assets/index-B9OSbGWq.js","assets/session-tUDpUcwd.js","assets/mode-registry-B-qWNhGq.js","assets/alert-dialog-D3tRcaR3.js","assets/CharacterAvatar-DwtbYeXp.js","assets/sheet-9m8O3R_a.js","assets/db-master-xI8DZi24.js","assets/zod-fbN9ubnj.js","assets/plaza-CW9WS35X.js","assets/tabs-ZtUtVHhO.js","assets/me-BMEtpYzi.js","assets/invitation-BuPKo1rc.js","assets/label-DxXosFPV.js","assets/card-B79febki.js","assets/nex-tavern-uuid-HW61e36x.js","assets/id-OxPLOBIU.js","assets/create-ekZes9ss.js","assets/admin-zbVMc6b0.js","assets/select-CgkKzHrj.js","assets/checkbox-BCgVagup.js","assets/route-C3Q8wEaJ.js","assets/index-dTDOHMVL.js","assets/session._sessionId-Dpj9YqKI.js","assets/InvitationGuard-CREUuIl2.js","assets/plaza.small-town-PgtChSGv.js","assets/plaza.group-chat-B9ceEpkQ.js","assets/plaza.dnd-D9g2aveG.js","assets/plaza.characters-BpzcLqBL.js","assets/ImportCardDialog-7-WOgScb.js","assets/gsap-DDlvirwQ.js","assets/card-converters-D3se0fkY.js","assets/ImportCardDialog-DvwNuPEv.css","assets/plaza.challenges-CvL7Xz6Y.js","assets/create_.small-town-BYPqWFcy.js","assets/slider-x3H1qI5O.js","assets/textarea-Dc_MpBxB.js","assets/llm-readiness-DgR8F2ee.js","assets/create_.novel-writing-Bv-2kB2D.js","assets/create_.group-chat-fiTsvniW.js","assets/create_.dnd-D_-lQVrV.js","assets/create_.chat-character-CsbLHQ8p.js","assets/useLLM-CCvhQGvi.js","assets/global-llm-config.store-B8jg895c.js","assets/create_.chat-challenge-Clx_oqyE.js","assets/create_.character-DTyFaDSF.js","assets/CharacterCreationForm-r4hjOvIc.js","assets/switch-DwXGULrD.js","assets/create_.challenge-Ck_xOQK7.js","assets/settings-BVVEkAAX.js","assets/overview-DAzD2HfX.js","assets/llm-D70x7Zl0.js","assets/characters_._characterId-Ck4xmy6T.js","assets/SessionSetupWizard-Ki7Tbb9h.js","assets/challenges_._challengeId-CZfYYOMw.js","assets/characters_._characterId_.edit-BA8zkzJZ.js"])))=>i.map(i=>d[i]);
+import { z as j, j as p, T as M, r as R, d as H, p as W, e as q } from "./react-BPCshYXX.js";
+import { Q as D, a as w, H as B, O as K, c as U, b as a, l as n, r as Q, d as X, e as J, R as Y } from "./@tanstack-BuNX36FW.js";
+import { L as Z, O as ee, T as te, I as oe, C as ae } from "./icons-BpfK1DnB.js";
+import { v as ne } from "./vendor-DqU8PgXE.js";
 import "./@radix-ui-BQCqNqg0.js";
 import "./immer-BCQU3qJI.js";
 import "./dexie-DOn8o3hw.js";
-let Me, r, $t, ft, Lt, Pt, ie, To;
+let Me, r, $t, ft, Tt, Pt, ce, Lo;
 let __tla = (async () => {
   (function() {
     const t = document.createElement("link").relList;
     if (t && t.supports && t.supports("modulepreload")) return;
-    for (const l of document.querySelectorAll('link[rel="modulepreload"]')) o(l);
-    new MutationObserver((l) => {
-      for (const u of l) if (u.type === "childList") for (const d of u.addedNodes) d.tagName === "LINK" && d.rel === "modulepreload" && o(d);
+    for (const s of document.querySelectorAll('link[rel="modulepreload"]')) o(s);
+    new MutationObserver((s) => {
+      for (const u of s) if (u.type === "childList") for (const d of u.addedNodes) d.tagName === "LINK" && d.rel === "modulepreload" && o(d);
     }).observe(document, {
       childList: true,
       subtree: true
     });
-    function e(l) {
+    function e(s) {
       const u = {};
-      return l.integrity && (u.integrity = l.integrity), l.referrerPolicy && (u.referrerPolicy = l.referrerPolicy), l.crossOrigin === "use-credentials" ? u.credentials = "include" : l.crossOrigin === "anonymous" ? u.credentials = "omit" : u.credentials = "same-origin", u;
+      return s.integrity && (u.integrity = s.integrity), s.referrerPolicy && (u.referrerPolicy = s.referrerPolicy), s.crossOrigin === "use-credentials" ? u.credentials = "include" : s.crossOrigin === "anonymous" ? u.credentials = "omit" : u.credentials = "same-origin", u;
     }
-    function o(l) {
-      if (l.ep) return;
-      l.ep = true;
-      const u = e(l);
-      fetch(l.href, u);
+    function o(s) {
+      if (s.ep) return;
+      s.ep = true;
+      const u = e(s);
+      fetch(s.href, u);
     }
   })();
-  let ne, re, ce, le, b, se;
-  ne = ({ ...c }) => {
-    const { theme: t = "system" } = N();
-    return p.jsx(j, {
+  let re, ie, le, C, b, se;
+  re = ({ ...c }) => {
+    const { theme: t = "system" } = j();
+    return p.jsx(M, {
       theme: t,
       className: "toaster group",
       icons: {
-        success: p.jsx(oe, {
+        success: p.jsx(ae, {
           className: "size-4"
         }),
-        info: p.jsx(te, {
+        info: p.jsx(oe, {
           className: "size-4"
         }),
-        warning: p.jsx(ee, {
+        warning: p.jsx(te, {
           className: "size-4"
         }),
-        error: p.jsx(Z, {
+        error: p.jsx(ee, {
           className: "size-4"
         }),
-        loading: p.jsx(Y, {
+        loading: p.jsx(Z, {
           className: "size-4 animate-spin"
         })
       },
@@ -61,14 +61,14 @@ let __tla = (async () => {
       ...c
     });
   };
-  re = [
+  ie = [
     "neutral",
     "stone",
     "zinc",
     "gray",
     "slate"
   ];
-  ie = {
+  ce = {
     Classic: [
       "default",
       "blue",
@@ -92,16 +92,16 @@ let __tla = (async () => {
       "morandi-brown"
     ]
   };
-  ce = Object.values(ie).flat();
-  le = {
+  le = Object.values(ce).flat();
+  C = {
     storageKey: "vite-ui-theme",
     defaultTheme: "system",
     defaultBaseColor: "zinc",
-    defaultPrimaryColor: "gold",
+    defaultPrimaryColor: "violet",
     theme: "system",
     systemTheme: void 0,
     baseColor: "zinc",
-    primaryColor: "gold",
+    primaryColor: "violet",
     storageKeyOfTheme: "vite-ui-theme",
     storageKeyOfBaseColor: "vite-ui-base-color",
     storageKeyOfPrimaryColor: "vite-ui-primary-color",
@@ -109,8 +109,8 @@ let __tla = (async () => {
     setBaseColor: () => null,
     setPrimaryColor: () => null
   };
-  b = R.createContext(le);
-  To = () => {
+  b = R.createContext(C);
+  Lo = () => {
     const c = R.useContext(b);
     if (c === void 0) throw new Error("useTheme must be used within a ThemeProvider");
     return c;
@@ -131,10 +131,10 @@ let __tla = (async () => {
     };
   }
   function v(c, t, e, o = 1) {
-    const l = o < 1 ? ` / ${Math.round(o * 100)}%` : "";
-    return `oklch(${c.toFixed(3)} ${t.toFixed(3)} ${Math.round(e)}${l})`;
+    const s = o < 1 ? ` / ${Math.round(o * 100)}%` : "";
+    return `oklch(${c.toFixed(3)} ${t.toFixed(3)} ${Math.round(e)}${s})`;
   }
-  function A(c, t) {
+  function G(c, t) {
     const e = me(c.primary), o = {
       ...c
     };
@@ -182,7 +182,7 @@ let __tla = (async () => {
     input: "oklch(1 0 0 / 15%)",
     ring: "oklch(0.552 0.016 285.938)",
     radius: "0.625rem"
-  }, pe = M()(H((c) => ({
+  }, pe = H()(W((c) => ({
     theme: {
       name: "my-custom-theme",
       synergy: true,
@@ -200,7 +200,7 @@ let __tla = (async () => {
         ...e.theme.light,
         ...t
       };
-      return e.theme.synergy && t.primary && (o = A(o, false)), {
+      return e.theme.synergy && t.primary && (o = G(o, false)), {
         theme: {
           ...e.theme,
           light: o
@@ -212,7 +212,7 @@ let __tla = (async () => {
         ...e.theme.dark,
         ...t
       };
-      return e.theme.synergy && t.primary && (o = A(o, true)), {
+      return e.theme.synergy && t.primary && (o = G(o, true)), {
         theme: {
           ...e.theme,
           dark: o
@@ -228,17 +228,17 @@ let __tla = (async () => {
   }), {
     name: "custom-theme-storage"
   }));
-  function he({ children: c, defaultTheme: t = "system", defaultBaseColor: e = "zinc", defaultPrimaryColor: o = "default", storageKey: l = "vite-ui-theme", storageKeyOfTheme: u = "vite-ui-theme", storageKeyOfBaseColor: d = "vite-ui-base-color", storageKeyOfPrimaryColor: h = "vite-ui-primary-color", ...P }) {
-    const [y, $] = R.useState(void 0), [_, g] = R.useState(() => localStorage.getItem(u) || localStorage.getItem(l) || t), [f, E] = R.useState(() => localStorage.getItem(d) || e), [T, z] = R.useState(() => localStorage.getItem(h) || o), S = pe((s) => s.theme);
+  function he({ children: c, defaultTheme: t = C.defaultTheme, defaultBaseColor: e = C.defaultBaseColor, defaultPrimaryColor: o = C.defaultPrimaryColor, storageKey: s = C.storageKey, storageKeyOfTheme: u = C.storageKeyOfTheme, storageKeyOfBaseColor: d = C.storageKeyOfBaseColor, storageKeyOfPrimaryColor: h = C.storageKeyOfPrimaryColor, ...E }) {
+    const [y, $] = R.useState(void 0), [_, g] = R.useState(() => localStorage.getItem(u) || localStorage.getItem(s) || t), [L, S] = R.useState(() => localStorage.getItem(d) || e), [T, V] = R.useState(() => localStorage.getItem(h) || o), k = pe((l) => l.theme);
     R.useEffect(() => {
       if (T !== "custom") {
         const i = document.getElementById("custom-theme-styles");
         i && i.remove();
         return;
       }
-      let s = document.getElementById("custom-theme-styles");
-      s || (s = document.createElement("style"), s.id = "custom-theme-styles", document.head.appendChild(s));
-      const L = (i) => `
+      let l = document.getElementById("custom-theme-styles");
+      l || (l = document.createElement("style"), l.id = "custom-theme-styles", document.head.appendChild(l));
+      const I = (i) => `
       --background: ${i.background};
       --foreground: ${i.foreground};
       --card: ${i.card};
@@ -260,60 +260,60 @@ let __tla = (async () => {
       --ring: ${i.ring};
       --radius: ${i.radius};
     `;
-      s.innerHTML = `
+      l.innerHTML = `
       .primary-color-custom {
-        ${L(S.light)}
+        ${I(k.light)}
       }
       .dark.primary-color-custom,
       .primary-color-custom.dark,
       .dark .primary-color-custom,
       .primary-color-custom .dark {
-        ${L(S.dark)}
+        ${I(k.dark)}
       }
     `;
     }, [
       T,
-      S
+      k
     ]), R.useEffect(() => {
-      const s = window.document.documentElement;
-      s.classList.remove("light", "dark"), s.classList.remove(...re.map((i) => `base-color-${i}`)), s.classList.remove(...ce.map((i) => `primary-color-${i}`));
-      const L = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-      $(L), _ === "system" ? s.classList.add(L) : s.classList.add(_), s.classList.add(`base-color-${f}`), s.classList.add(`primary-color-${T}`);
+      const l = window.document.documentElement;
+      l.classList.remove("light", "dark"), l.classList.remove(...ie.map((i) => `base-color-${i}`)), l.classList.remove(...le.map((i) => `primary-color-${i}`));
+      const I = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      $(I), _ === "system" ? l.classList.add(I) : l.classList.add(_), l.classList.add(`base-color-${L}`), l.classList.add(`primary-color-${T}`);
     }, [
       _,
-      f,
+      L,
       T
     ]);
-    const V = {
-      storageKey: l,
+    const N = {
+      storageKey: s,
       defaultTheme: t,
       defaultBaseColor: e,
       defaultPrimaryColor: o,
       theme: _,
-      setTheme: (s) => {
-        localStorage.setItem(l, s), localStorage.setItem(u, s), g(s);
+      setTheme: (l) => {
+        localStorage.setItem(s, l), localStorage.setItem(u, l), g(l);
       },
-      baseColor: f,
-      setBaseColor: (s) => {
-        localStorage.setItem(d, s), E(s);
+      baseColor: L,
+      setBaseColor: (l) => {
+        localStorage.setItem(d, l), S(l);
       },
       primaryColor: T,
-      setPrimaryColor: (s) => {
-        localStorage.setItem(h, s), z(s);
+      setPrimaryColor: (l) => {
+        localStorage.setItem(h, l), V(l);
       },
       systemTheme: y,
-      storageKeyOfTheme: l,
-      storageKeyOfBaseColor: "vite-ui-base-color",
-      storageKeyOfPrimaryColor: "vite-ui-primary-color"
+      storageKeyOfTheme: u,
+      storageKeyOfBaseColor: d,
+      storageKeyOfPrimaryColor: h
     };
     return p.jsx(b.Provider, {
-      ...P,
-      value: V,
+      ...E,
+      value: N,
       children: c
     });
   }
   function ye() {
-    const [c] = R.useState(() => new O({
+    const [c] = R.useState(() => new D({
       defaultOptions: {
         queries: {
           staleTime: 3e5,
@@ -321,16 +321,14 @@ let __tla = (async () => {
         }
       }
     }));
-    return p.jsxs(D, {
+    return p.jsxs(w, {
       client: c,
       children: [
-        p.jsx(q, {}),
+        p.jsx(B, {}),
         p.jsxs(he, {
-          defaultTheme: "dark",
-          storageKey: "allinone-webapp-ui-theme",
           children: [
-            p.jsx(B, {}),
-            p.jsx(ne, {
+            p.jsx(K, {}),
+            p.jsx(re, {
               expand: true,
               visibleToasts: 6
             })
@@ -339,19 +337,19 @@ let __tla = (async () => {
       ]
     });
   }
-  let w, _e, ge, G, ve, Re, $e, Ce, fe, Te, Le, Ie, Pe, Ee, Se, ke, Ae, Ge, Oe, De, be, we, Fe, xe, ze, Ve, Ne, je, He, We, qe, Be, Ke, Ue, Qe, Xe, Je, Ye, Ze, et, tt, ot, at, nt, rt, it, ct, lt, st, mt, ut, dt, pt, ht, yt, _t, gt, vt, Rt, Ct, Tt, It, F, m, Et, x, C, St, kt, At, Gt, I, Ot, Dt, bt, wt, Ft, xt, zt, Vt, Nt, jt, Mt, Ht, Wt, qt, Bt, Kt, Ut, Qt, Xt, Jt, Yt, Zt, eo, to, oo, ao, no, ro, io, co, lo, so, mo, uo;
-  w = K({
+  let F, _e, ge, O, ve, Re, $e, Ce, fe, Le, Te, Ie, Pe, Ee, Se, ke, Ae, Ge, Oe, De, we, be, Fe, xe, ze, Ve, Ne, je, He, We, qe, Be, Ke, Ue, Qe, Xe, Je, Ye, Ze, et, tt, ot, at, nt, rt, it, ct, lt, st, mt, ut, dt, pt, ht, yt, _t, gt, vt, Rt, Ct, Lt, It, x, m, Et, z, f, St, kt, At, Gt, P, Ot, Dt, wt, bt, Ft, xt, zt, Vt, Nt, jt, Mt, Ht, Wt, qt, Bt, Kt, Ut, Qt, Xt, Jt, Yt, Zt, eo, to, oo, ao, no, ro, io, co, lo, so, mo, uo;
+  F = U({
     component: ye
   });
   _e = "modulepreload";
   ge = function(c) {
     return "/tavern/" + c;
   };
-  G = {};
+  O = {};
   r = function(t, e, o) {
-    let l = Promise.resolve();
+    let s = Promise.resolve();
     if (e && e.length > 0) {
-      let P = function(y) {
+      let E = function(y) {
         return Promise.all(y.map(($) => Promise.resolve($).then((_) => ({
           status: "fulfilled",
           value: _
@@ -362,14 +360,14 @@ let __tla = (async () => {
       };
       document.getElementsByTagName("link");
       const d = document.querySelector("meta[property=csp-nonce]"), h = (d == null ? void 0 : d.nonce) || (d == null ? void 0 : d.getAttribute("nonce"));
-      l = P(e.map((y) => {
-        if (y = ge(y), y in G) return;
-        G[y] = true;
+      s = E(e.map((y) => {
+        if (y = ge(y), y in O) return;
+        O[y] = true;
         const $ = y.endsWith(".css"), _ = $ ? '[rel="stylesheet"]' : "";
         if (document.querySelector(`link[href="${y}"]${_}`)) return;
         const g = document.createElement("link");
-        if (g.rel = $ ? "stylesheet" : _e, $ || (g.as = "script"), g.crossOrigin = "", g.href = y, h && g.setAttribute("nonce", h), document.head.appendChild(g), $) return new Promise((f, E) => {
-          g.addEventListener("load", f), g.addEventListener("error", () => E(new Error(`Unable to preload CSS for ${y}`)));
+        if (g.rel = $ ? "stylesheet" : _e, $ || (g.as = "script"), g.crossOrigin = "", g.href = y, h && g.setAttribute("nonce", h), document.head.appendChild(g), $) return new Promise((L, S) => {
+          g.addEventListener("load", L), g.addEventListener("error", () => S(new Error(`Unable to preload CSS for ${y}`)));
         });
       }));
     }
@@ -379,16 +377,16 @@ let __tla = (async () => {
       });
       if (h.payload = d, window.dispatchEvent(h), !h.defaultPrevented) throw d;
     }
-    return l.then((d) => {
+    return s.then((d) => {
       for (const h of d || []) h.status === "rejected" && u(h.reason);
       return t().catch(u);
     });
   };
-  ve = () => r(() => import("./route-CvYGdG02.js"), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]));
+  ve = () => r(() => import("./route-zMIwdcmG.js"), __vite__mapDeps([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]));
   Re = a("/_layout-game")({
     component: n(ve, "component")
   });
-  $e = () => r(() => import("./route-cK0LOk6v.js"), __vite__mapDeps([17,1,2,3,4,5,6,10]));
+  $e = () => r(() => import("./route-BsGIgwHM.js"), __vite__mapDeps([17,1,2,3,4,5,6,10]));
   Ce = a("/_layout-game/_silly-tavern")({
     head: () => ({
       meta: [
@@ -404,7 +402,7 @@ let __tla = (async () => {
     component: n($e, "component")
   });
   fe = () => r(() => import("./index-B9OSbGWq.js"), __vite__mapDeps([18,1,2,3,4,5,6,10]));
-  Te = a("/_layout-game/_silly-tavern/")({
+  Le = a("/_layout-game/_silly-tavern/")({
     head: () => ({
       meta: [
         {
@@ -418,7 +416,7 @@ let __tla = (async () => {
     }),
     component: n(fe, "component")
   });
-  Le = () => r(() => import("./session-tUDpUcwd.js"), __vite__mapDeps([19,1,2,3,4,5,6,7,8,9,20,10,11,21,22,14,23,12,24,25]));
+  Te = () => r(() => import("./session-tUDpUcwd.js"), __vite__mapDeps([19,1,2,3,4,5,6,7,8,9,20,10,11,21,22,14,23,12,24,25]));
   Ie = a("/_layout-game/_silly-tavern/session")({
     head: () => ({
       meta: [
@@ -431,9 +429,9 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: n(Le, "component")
+    component: n(Te, "component")
   });
-  Pe = () => r(() => import("./plaza-Pl3q1tCt.js"), __vite__mapDeps([26,1,2,3,4,5,6,27,7,8,9]));
+  Pe = () => r(() => import("./plaza-CW9WS35X.js"), __vite__mapDeps([26,1,2,3,4,5,6,27,7,8,9]));
   Ee = a("/_layout-game/_silly-tavern/plaza")({
     head: () => ({
       meta: [
@@ -471,9 +469,9 @@ let __tla = (async () => {
     }),
     component: n(Oe, "component")
   });
-  be = () => r(() => import("./admin-zbVMc6b0.js"), __vite__mapDeps([35,1,2,3,4,11,8,7,9,14,30,31,13,12,10,36,27,37]));
-  we = a("/_layout-game/_silly-tavern/admin")({
-    component: n(be, "component")
+  we = () => r(() => import("./admin-zbVMc6b0.js"), __vite__mapDeps([35,1,2,3,4,11,8,7,9,14,30,31,13,12,10,36,27,37]));
+  be = a("/_layout-game/_silly-tavern/admin")({
+    component: n(we, "component")
   });
   Fe = () => r(() => import("./route-C3Q8wEaJ.js"), __vite__mapDeps([38,1,2,3,4,5,6,11,8,7,9,23,10]));
   xe = a("/_layout-game/_silly-tavern/config")({
@@ -503,7 +501,7 @@ let __tla = (async () => {
       ]
     }),
     beforeLoad: () => {
-      throw U({
+      throw Q({
         to: "/plaza/characters"
       });
     }
@@ -512,7 +510,7 @@ let __tla = (async () => {
   Ne = a("/_layout-game/_silly-tavern/config/")({
     component: n(Ve, "component")
   });
-  je = () => r(() => import("./session._sessionId-C_PiJYw6.js").then(async (m2) => {
+  je = () => r(() => import("./session._sessionId-Dpj9YqKI.js").then(async (m2) => {
     await m2.__tla;
     return m2;
   }), __vite__mapDeps([40,1,2,3,4,5,6,24,25,41,11,8,7,9,32,33,10]));
@@ -575,7 +573,7 @@ let __tla = (async () => {
     }),
     component: n(Ke, "component")
   });
-  Qe = () => r(() => import("./plaza.characters-6mSKfLTl.js"), __vite__mapDeps([45,1,2,3,4,5,6,46,14,7,8,9,13,11,47,10,12,30,48,24,25,49,31,22,37]));
+  Qe = () => r(() => import("./plaza.characters-BpzcLqBL.js"), __vite__mapDeps([45,1,2,3,4,5,6,46,14,7,8,9,13,11,47,10,12,30,48,24,25,49,31,22,37]));
   Xe = a("/_layout-game/_silly-tavern/plaza/characters")({
     head: () => ({
       meta: [
@@ -590,7 +588,7 @@ let __tla = (async () => {
     }),
     component: n(Qe, "component")
   });
-  Je = () => r(() => import("./plaza.challenges-TfTbKuqg.js"), __vite__mapDeps([50,1,2,3,4,5,6,46,14,7,8,9,13,11,47,10,12,30,48,24,25,49,31]));
+  Je = () => r(() => import("./plaza.challenges-CvL7Xz6Y.js"), __vite__mapDeps([50,1,2,3,4,5,6,46,14,7,8,9,13,11,47,10,12,30,48,24,25,49,31]));
   Ye = a("/_layout-game/_silly-tavern/plaza/challenges")({
     head: () => ({
       meta: [
@@ -755,7 +753,7 @@ let __tla = (async () => {
     }),
     component: n(gt, "component")
   });
-  Rt = () => r(() => import("./llm-B35PeQsu.js"), __vite__mapDeps([68,1,2,3,4,11,8,7,9,14,30,36,10,37,60,33,16,5,6]));
+  Rt = () => r(() => import("./llm-D70x7Zl0.js"), __vite__mapDeps([68,1,2,3,4,11,8,7,9,14,30,36,10,37,60,33,16,5,6]));
   $t = a("/_layout-game/_silly-tavern/config/llm")({
     head: () => ({
       meta: [
@@ -770,7 +768,7 @@ let __tla = (async () => {
     }),
     component: n(Rt, "component")
   });
-  Ct = () => r(() => import("./characters_._characterId-R6ziNYkL.js"), __vite__mapDeps([69,1,2,3,4,5,6,24,25,11,8,7,9,13,22,10,31,27,20,70,12,54,14,30,53,48,37,21]));
+  Ct = () => r(() => import("./characters_._characterId-Ck4xmy6T.js"), __vite__mapDeps([69,1,2,3,4,5,6,24,25,11,8,7,9,13,22,10,31,27,20,70,12,54,14,30,53,48,37,21]));
   ft = a("/_layout-game/_silly-tavern/characters_/$characterId")({
     head: () => ({
       meta: [
@@ -785,8 +783,8 @@ let __tla = (async () => {
     }),
     component: n(Ct, "component")
   });
-  Tt = () => r(() => import("./challenges_._challengeId-CLJI-opT.js"), __vite__mapDeps([71,1,2,3,4,5,6,24,25,11,8,7,9,13,31,10,27,70,12,54,14,30,53,22,33,21]));
-  Lt = a("/_layout-game/_silly-tavern/challenges_/$challengeId")({
+  Lt = () => r(() => import("./challenges_._challengeId-CZfYYOMw.js"), __vite__mapDeps([71,1,2,3,4,5,6,24,25,11,8,7,9,13,31,10,27,70,12,54,14,30,53,22,33,21]));
+  Tt = a("/_layout-game/_silly-tavern/challenges_/$challengeId")({
     head: () => ({
       meta: [
         {
@@ -798,9 +796,9 @@ let __tla = (async () => {
         }
       ]
     }),
-    component: n(Tt, "component")
+    component: n(Lt, "component")
   });
-  It = () => r(() => import("./characters_._characterId_.edit-SqbG24H9.js"), __vite__mapDeps([72,1,2,3,4,5,6,63,11,8,7,9,14,53,31,30,10,64,24,25]));
+  It = () => r(() => import("./characters_._characterId_.edit-BA8zkzJZ.js"), __vite__mapDeps([72,1,2,3,4,5,6,63,11,8,7,9,14,53,31,30,10,64,24,25]));
   Pt = a("/_layout-game/_silly-tavern/characters_/$characterId_/edit")({
     head: () => ({
       meta: [
@@ -815,25 +813,25 @@ let __tla = (async () => {
     }),
     component: n(It, "component")
   });
-  F = Re.update({
+  x = Re.update({
     id: "/_layout-game",
-    getParentRoute: () => w
+    getParentRoute: () => F
   });
   m = Ce.update({
     id: "/_silly-tavern",
-    getParentRoute: () => F
+    getParentRoute: () => x
   });
-  Et = Te.update({
+  Et = Le.update({
     id: "/",
     path: "/",
     getParentRoute: () => m
   });
-  x = Ie.update({
+  z = Ie.update({
     id: "/session",
     path: "/session",
     getParentRoute: () => m
   });
-  C = Ee.update({
+  f = Ee.update({
     id: "/plaza",
     path: "/plaza",
     getParentRoute: () => m
@@ -853,12 +851,12 @@ let __tla = (async () => {
     path: "/create",
     getParentRoute: () => m
   });
-  Gt = we.update({
+  Gt = be.update({
     id: "/admin",
     path: "/admin",
     getParentRoute: () => m
   });
-  I = xe.update({
+  P = xe.update({
     id: "/config",
     path: "/config",
     getParentRoute: () => m
@@ -866,42 +864,42 @@ let __tla = (async () => {
   Ot = ze.update({
     id: "/",
     path: "/",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   Dt = Ne.update({
     id: "/",
     path: "/",
-    getParentRoute: () => I
+    getParentRoute: () => P
   });
-  bt = Me.update({
+  wt = Me.update({
     id: "/$sessionId",
     path: "/$sessionId",
-    getParentRoute: () => x
+    getParentRoute: () => z
   });
-  wt = We.update({
+  bt = We.update({
     id: "/small-town",
     path: "/small-town",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   Ft = Be.update({
     id: "/group-chat",
     path: "/group-chat",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   xt = Ue.update({
     id: "/dnd",
     path: "/dnd",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   zt = Xe.update({
     id: "/characters",
     path: "/characters",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   Vt = Ye.update({
     id: "/challenges",
     path: "/challenges",
-    getParentRoute: () => C
+    getParentRoute: () => f
   });
   Nt = et.update({
     id: "/create_/small-town",
@@ -946,24 +944,24 @@ let __tla = (async () => {
   Ut = _t.update({
     id: "/settings",
     path: "/settings",
-    getParentRoute: () => I
+    getParentRoute: () => P
   });
   Qt = vt.update({
     id: "/overview",
     path: "/overview",
-    getParentRoute: () => I
+    getParentRoute: () => P
   });
   Xt = $t.update({
     id: "/llm",
     path: "/llm",
-    getParentRoute: () => I
+    getParentRoute: () => P
   });
   Jt = ft.update({
     id: "/characters_/$characterId",
     path: "/characters/$characterId",
     getParentRoute: () => m
   });
-  Yt = Lt.update({
+  Yt = Tt.update({
     id: "/challenges_/$challengeId",
     path: "/challenges/$challengeId",
     getParentRoute: () => m
@@ -979,20 +977,20 @@ let __tla = (async () => {
     LayoutGameSillyTavernConfigSettingsRoute: Ut,
     LayoutGameSillyTavernConfigIndexRoute: Dt
   };
-  to = I._addFileChildren(eo);
+  to = P._addFileChildren(eo);
   oo = {
     LayoutGameSillyTavernPlazaChallengesRoute: Vt,
     LayoutGameSillyTavernPlazaCharactersRoute: zt,
     LayoutGameSillyTavernPlazaDndRoute: xt,
     LayoutGameSillyTavernPlazaGroupChatRoute: Ft,
-    LayoutGameSillyTavernPlazaSmallTownRoute: wt,
+    LayoutGameSillyTavernPlazaSmallTownRoute: bt,
     LayoutGameSillyTavernPlazaIndexRoute: Ot
   };
-  ao = C._addFileChildren(oo);
+  ao = f._addFileChildren(oo);
   no = {
-    LayoutGameSillyTavernSessionSessionIdRoute: bt
+    LayoutGameSillyTavernSessionSessionIdRoute: wt
   };
-  ro = x._addFileChildren(no);
+  ro = z._addFileChildren(no);
   io = {
     LayoutGameSillyTavernConfigRouteRoute: to,
     LayoutGameSillyTavernAdminRoute: Gt,
@@ -1018,27 +1016,27 @@ let __tla = (async () => {
   lo = {
     LayoutGameSillyTavernRouteRoute: co
   };
-  so = F._addFileChildren(lo);
+  so = x._addFileChildren(lo);
   mo = {
     LayoutGameRouteRoute: so
   };
-  uo = w._addFileChildren(mo)._addFileTypes();
-  ae({
+  uo = F._addFileChildren(mo)._addFileTypes();
+  ne({
     interval: 2e3,
     tkName: "dev",
     md5: "43f1516c98cf02ba06d7406c37ad52f0",
     url: "https://nexworld.wiki/",
     timeOutUrl: "https://nexworld.wiki/"
   });
-  const po = Q(), ho = X({
+  const po = X(), ho = J({
     routeTree: uo,
     history: po,
     defaultPreload: "intent",
     scrollRestoration: true
-  }), yo = new O(), k = document.getElementById("app");
-  k && !k.innerHTML && W.createRoot(k).render(p.jsx(D, {
+  }), yo = new D(), A = document.getElementById("app");
+  A && !A.innerHTML && q.createRoot(A).render(p.jsx(w, {
     client: yo,
-    children: p.jsx(J, {
+    children: p.jsx(Y, {
       router: ho
     })
   }));
@@ -1049,8 +1047,8 @@ export {
   __tla,
   $t as a,
   ft as b,
-  Lt as c,
+  Tt as c,
   Pt as d,
-  ie as p,
-  To as u
+  ce as p,
+  Lo as u
 };
