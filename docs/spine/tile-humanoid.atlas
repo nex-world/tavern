@@ -1,0 +1,277 @@
+tile-humanoid-default.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default/body
+  rotate: false
+  xy: 32, 24
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+default/head
+  rotate: false
+  xy: 184, 24
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+default/hair
+  rotate: false
+  xy: 336, 24
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+default/backpack
+  rotate: false
+  xy: 520, 24
+  size: 112, 136
+  orig: 112, 136
+  offset: 0, 0
+  index: -1
+default/tail
+  rotate: false
+  xy: 704, 32
+  size: 144, 44
+  orig: 144, 44
+  offset: 0, 0
+  index: -1
+default/leftWing
+  rotate: false
+  xy: 32, 224
+  size: 192, 112
+  orig: 192, 112
+  offset: 0, 0
+  index: -1
+default/rightWing
+  rotate: false
+  xy: 288, 224
+  size: 192, 112
+  orig: 192, 112
+  offset: 0, 0
+  index: -1
+default/leftThigh
+  rotate: false
+  xy: 544, 224
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+default/leftShin
+  rotate: false
+  xy: 656, 224
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+default/leftFoot
+  rotate: false
+  xy: 768, 224
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+default/rightThigh
+  rotate: false
+  xy: 544, 296
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+default/rightShin
+  rotate: false
+  xy: 656, 296
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+default/rightFoot
+  rotate: false
+  xy: 768, 296
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+default/leftUpperArm
+  rotate: false
+  xy: 32, 400
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+default/leftForearm
+  rotate: false
+  xy: 144, 400
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+default/leftHand
+  rotate: false
+  xy: 256, 392
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+default/rightUpperArm
+  rotate: false
+  xy: 336, 400
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+default/rightForearm
+  rotate: false
+  xy: 448, 400
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+default/rightHand
+  rotate: false
+  xy: 560, 392
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+
+tile-humanoid-probe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+probe/body
+  rotate: false
+  xy: 32, 24
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1
+probe/head
+  rotate: false
+  xy: 184, 24
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+probe/hair
+  rotate: false
+  xy: 336, 24
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+probe/backpack
+  rotate: false
+  xy: 520, 24
+  size: 112, 136
+  orig: 112, 136
+  offset: 0, 0
+  index: -1
+probe/tail
+  rotate: false
+  xy: 704, 32
+  size: 144, 44
+  orig: 144, 44
+  offset: 0, 0
+  index: -1
+probe/leftWing
+  rotate: false
+  xy: 32, 224
+  size: 192, 112
+  orig: 192, 112
+  offset: 0, 0
+  index: -1
+probe/rightWing
+  rotate: false
+  xy: 288, 224
+  size: 192, 112
+  orig: 192, 112
+  offset: 0, 0
+  index: -1
+probe/leftThigh
+  rotate: false
+  xy: 544, 224
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+probe/leftShin
+  rotate: false
+  xy: 656, 224
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+probe/leftFoot
+  rotate: false
+  xy: 768, 224
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+probe/rightThigh
+  rotate: false
+  xy: 544, 296
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+probe/rightShin
+  rotate: false
+  xy: 656, 296
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+probe/rightFoot
+  rotate: false
+  xy: 768, 296
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+probe/leftUpperArm
+  rotate: false
+  xy: 32, 400
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+probe/leftForearm
+  rotate: false
+  xy: 144, 400
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+probe/leftHand
+  rotate: false
+  xy: 256, 392
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+probe/rightUpperArm
+  rotate: false
+  xy: 336, 400
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+probe/rightForearm
+  rotate: false
+  xy: 448, 400
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+probe/rightHand
+  rotate: false
+  xy: 560, 392
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
