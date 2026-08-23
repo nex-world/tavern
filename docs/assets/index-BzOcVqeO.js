@@ -1,1 +1,0 @@
-import{j as o}from"./react-DbmzlAIg.js";import{N as t}from"./@tanstack-DHLVDsIy.js";import"./vendor-Cf2d47Ru.js";import"./formatting-yQe3Wca_.js";import"./@radix-ui-BQCqNqg0.js";import"./immer-BCQU3qJI.js";import"./dexie-1qEGwllm.js";function a(){return o.jsx(t,{to:"/config/overview"})}export{a as component};

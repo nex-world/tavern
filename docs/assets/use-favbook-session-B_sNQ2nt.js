@@ -1,0 +1,1 @@
+import{u as a,r as t}from"./react-DE62XWsa.js";import{f as r,h as s}from"./favbook-auth-store-CFG1Pbh1.js";function k(){const o=a(r);t.useEffect(()=>{s()},[]);const e=!!(o.backendUrl&&o.token),n=t.useMemo(()=>({backendUrl:o.backendUrl,token:o.token}),[o.backendUrl,o.token]);return{authState:o,isAuthed:e,clientConfig:n}}export{k as u};
