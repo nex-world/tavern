@@ -1,1 +1,0 @@
-import{f as o}from"./@tanstack-Bc2-Ej4a.js";import{r}from"./react-djKJ3iBo.js";import"./vendor-B5WA8jn2.js";import"./formatting--AnFUVTy.js";import"./dexie-BrH4iHrF.js";import"./@radix-ui-BQCqNqg0.js";import"./immer-BCQU3qJI.js";function u(){const t=o();return r.useEffect(()=>{t({to:"/agnes/llm",replace:!0})},[t]),null}export{u as component};
