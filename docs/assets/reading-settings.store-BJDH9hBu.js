@@ -1,0 +1,1 @@
+import{b as r}from"./react-BxzVs1F-.js";const a="tavern-message-text-size";function s(){try{const e=localStorage.getItem(a);return e==="large"||e==="larger"?e:"standard"}catch{return"standard"}}const o={standard:"1rem",large:"1.125rem",larger:"1.25rem"},g=r(e=>({textSize:s(),setTextSize:t=>{localStorage.setItem(a,t),e({textSize:t})}}));export{o as m,g as u};

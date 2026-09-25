@@ -1,0 +1,1 @@
+import{r as n,j as t}from"./react-BxzVs1F-.js";import{u as m,a as f,T as u}from"./tavern-llm-config-editor-Dnk_p-P-.js";function d({onDirtyChange:s}){const[a,i]=n.useState(!1),{confirm:e,confirmation:o}=m();f(a,e);const c=n.useCallback(r=>{i(r),s?.(r)},[s]);return t.jsxs(t.Fragment,{children:[t.jsx(u,{onDirtyChange:c}),o]})}export{d as T};
