@@ -2,6 +2,26 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
+    <script>
+      // 在样式和 React 加载前恢复主题，避免暗色启动时先绘制白底。
+      (() => {
+        let theme = "system", base = "zinc", primary = "violet";
+        try {
+          theme = localStorage.getItem("vite-ui-theme") || theme;
+          base = localStorage.getItem("vite-ui-base-color") || base;
+          primary = localStorage.getItem("vite-ui-primary-color") || primary;
+        } catch { /* 存储不可用时跟随系统。 */ }
+        const dark = theme === "dark" || (theme !== "light" && matchMedia("(prefers-color-scheme: dark)").matches);
+        const root = document.documentElement;
+        root.classList.add(dark ? "dark" : "light");
+        if (/^[a-z-]+$/.test(base)) root.classList.add(`base-color-${base}`);
+        if (/^[a-z-]+$/.test(primary)) root.classList.add(`primary-color-${primary}`);
+        root.style.colorScheme = dark ? "dark" : "light";
+      })();
+    </script>
+    <style>
+      html { background: var(--background, Canvas); color: var(--foreground, CanvasText); }
+    </style>
     <link rel="preload" as="image" href="/favicon.svg">
     <link rel="icon" href="/favicon.svg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -101,16 +121,16 @@
       }
     ]
     </script>
-    <script type="module" crossorigin src="/tavern/assets/index-CRWqN2Z9.js"></script>
-    <link rel="modulepreload" crossorigin href="/tavern/assets/formatting-YGyf6cFc.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/vendor-CJLoHUZS.js">
+    <script type="module" crossorigin src="/tavern/assets/index-k6qYjFMJ.js"></script>
+    <link rel="modulepreload" crossorigin href="/tavern/assets/formatting-BBnWba-L.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/vendor-BK50ji10.js">
     <link rel="modulepreload" crossorigin href="/tavern/assets/@radix-ui-BQCqNqg0.js">
     <link rel="modulepreload" crossorigin href="/tavern/assets/immer-BCQU3qJI.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/react-BxzVs1F-.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/dexie-CG_LwvPM.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/@tanstack-B5tCGMiu.js">
-    <link rel="modulepreload" crossorigin href="/tavern/assets/icons-C6_pGF5j.js">
-    <link rel="stylesheet" crossorigin href="/tavern/assets/index-vWucJHKa.css">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/react-CdECYH1o.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/dexie-B_g1HnUg.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/@tanstack-HvIyZ7G-.js">
+    <link rel="modulepreload" crossorigin href="/tavern/assets/icons-LD1dlQlv.js">
+    <link rel="stylesheet" crossorigin href="/tavern/assets/index-BOxVUFQ5.css">
   </head>
   <body>
     <div id="app"></div>

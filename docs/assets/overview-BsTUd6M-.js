@@ -1,0 +1,1 @@
+import{j as o}from"./react-CdECYH1o.js";import{N as t}from"./@tanstack-HvIyZ7G-.js";import"./vendor-BK50ji10.js";import"./formatting-BBnWba-L.js";import"./@radix-ui-BQCqNqg0.js";import"./immer-BCQU3qJI.js";import"./dexie-B_g1HnUg.js";const a=()=>o.jsx(t,{to:"/config/llm",replace:!0});export{a as component};
