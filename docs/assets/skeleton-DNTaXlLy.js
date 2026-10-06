@@ -1,0 +1,1 @@
+import{j as o}from"./index-18_TwP_5.js";import{c as s}from"./shadcn-utils-BpU_oZqH.js";function r({className:t,...e}){return o.jsx("div",{"data-slot":"skeleton",className:s("bg-accent animate-pulse rounded-md",t),...e})}export{r as S};
