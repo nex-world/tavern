@@ -1,0 +1,1 @@
+function a(t){return[t.avatar,t.extensions?.avatar,t.assets?.find(n=>n.type==="icon"&&n.name==="main")?.uri,t.assets?.find(n=>n.name==="avatar")?.uri].find(n=>typeof n=="string"&&n.trim().length>0)?.trim()}export{a as c};
