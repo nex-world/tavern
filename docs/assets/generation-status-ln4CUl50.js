@@ -1,0 +1,1 @@
+import{j as r}from"./index-D80q0Zqc.js";import{g as t,h as e,i as n}from"./bubble-CIviRuVH.js";import{S as a}from"./spinner-Bv6s-LX4.js";function x({children:s}){return r.jsxs(t,{role:"status",className:"text-content-system",children:[r.jsx(e,{children:r.jsx(a,{})}),r.jsx(n,{children:s})]})}export{x as G};
