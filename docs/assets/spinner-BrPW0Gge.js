@@ -1,0 +1,1 @@
+import{j as s,x as e}from"./index-DrcLg2_X.js";import{c as i}from"./shadcn-utils-CXwbXvZh.js";function t({className:a,...r}){return s.jsx(e,{role:"status","aria-label":"Loading",className:i("size-4 animate-spin",a),...r})}export{t as S};
